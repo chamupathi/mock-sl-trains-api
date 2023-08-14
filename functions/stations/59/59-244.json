@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "ERAVUR",
+    "arrivalTime": "06:27:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "REDEETHENNA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "560.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "ERAVUR",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "REDEETHENNA",
+    "arrivalTimeEndStation": "12:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "560.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

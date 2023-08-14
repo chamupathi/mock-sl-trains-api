@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "16:40:00",
+    "depatureTime": "16:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "17:31:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1020"
+  }
+]

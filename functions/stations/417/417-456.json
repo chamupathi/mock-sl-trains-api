@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "Hadiriwalana",
+    "arrivalTimeEndStation": "06:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "Hadiriwalana",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

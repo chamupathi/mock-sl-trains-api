@@ -1,0 +1,501 @@
+[
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "04:34:00",
+    "depatureTime": "04:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "05:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "05:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:26:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "05:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "06:09:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "06:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "06:44:00",
+    "depatureTime": "06:45:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "07:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1537"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "07:59:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "08:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "08:43:00",
+    "depatureTime": "08:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "09:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "09:20:00",
+    "depatureTime": "09:21:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "1547",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:31:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "09:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1547"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "09:53:00",
+    "depatureTime": "09:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "10:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "10:40:00",
+    "depatureTime": "10:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:42:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "11:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "12:28:00",
+    "depatureTime": "12:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "12:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "14:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "15:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "15:26:00",
+    "depatureTime": "15:27:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:23:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "15:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1574"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "15:36:00",
+    "depatureTime": "15:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "16:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "16:58:00",
+    "depatureTime": "16:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "17:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "17:11:00",
+    "depatureTime": "17:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "17:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "17:47:00",
+    "depatureTime": "17:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:22:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1569"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "19:13:00",
+    "depatureTime": "19:14:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "19:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1570"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "20:01:00",
+    "depatureTime": "20:02:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:07:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "20:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1584"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "20:26:00",
+    "depatureTime": "20:27:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "21:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "21:04:00",
+    "depatureTime": "21:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:00:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "21:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1592"
+  },
+  {
+    "startStationName": "MAGALEGODA",
+    "arrivalTime": "22:15:00",
+    "depatureTime": "22:16:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "22:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

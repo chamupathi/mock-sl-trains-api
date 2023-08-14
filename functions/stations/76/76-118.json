@@ -1,0 +1,149 @@
+[
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "00:13:00",
+    "depatureTime": "00:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "02:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "04:12:00",
+    "depatureTime": "04:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "07:36:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "09:32:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "11:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "11:36:00",
+    "depatureTime": "11:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "13:31:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "13:00:00",
+    "depatureTime": "13:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "14:48:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "17:58:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KOTAGALA",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

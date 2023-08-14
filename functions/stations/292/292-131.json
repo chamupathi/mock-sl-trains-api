@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "WADDUWA",
+    "arrivalTime": "10:32:00",
+    "depatureTime": "10:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "KUMARAKANDA",
+    "arrivalTimeEndStation": "14:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "15:13:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "TALAWA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

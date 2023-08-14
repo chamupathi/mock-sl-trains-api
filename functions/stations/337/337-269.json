@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "Dekinda",
+    "arrivalTime": "15:06:00",
+    "depatureTime": "15:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1159"
+  }
+]

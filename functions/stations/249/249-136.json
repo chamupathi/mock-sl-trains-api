@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "RATHGAMA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KORALAWELLA",
+    "arrivalTimeEndStation": "09:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

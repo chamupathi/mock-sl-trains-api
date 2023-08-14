@@ -1,0 +1,96 @@
+[
+  {
+    "startStationName": "ARUKKUWATTE",
+    "arrivalTime": "18:14:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "ARUKKUWATTE",
+    "arrivalTime": "18:43:00",
+    "depatureTime": "18:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "19:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "ARUKKUWATTE",
+    "arrivalTime": "19:20:00",
+    "depatureTime": "19:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "19:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "ARUKKUWATTE",
+    "arrivalTime": "20:18:00",
+    "depatureTime": "20:19:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "20:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "ARUKKUWATTE",
+    "arrivalTime": "21:48:00",
+    "depatureTime": "21:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "22:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

@@ -1,0 +1,227 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "00:50:00",
+    "depatureTime": "00:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "03:15:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4090"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "01:37:00",
+    "depatureTime": "02:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "04:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6080"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:39:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "09:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UTTARA DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:05:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4018"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "11:33:00",
+    "depatureTime": "11:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "14:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "15:32:00",
+    "depatureTime": "15:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4078"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "23:25:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "02:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

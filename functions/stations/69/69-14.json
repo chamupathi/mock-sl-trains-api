@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "00:14:00",
+    "depatureTime": "00:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "02:41:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4090"
+  }
+]

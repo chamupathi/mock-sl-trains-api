@@ -1,0 +1,92 @@
+[
+  {
+    "startStationName": "MORAKELE",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:43:00",
+    "endStationName": "COTTA ROAD",
+    "arrivalTimeEndStation": "06:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9648"
+  },
+  {
+    "startStationName": "MORAKELE",
+    "arrivalTime": "05:22:00",
+    "depatureTime": "05:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "COTTA ROAD",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "MORAKELE",
+    "arrivalTime": "06:03:00",
+    "depatureTime": "06:04:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "COTTA ROAD",
+    "arrivalTimeEndStation": "07:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "MORAKELE",
+    "arrivalTime": "07:11:00",
+    "depatureTime": "07:12:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "COTTA ROAD",
+    "arrivalTimeEndStation": "08:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "MORAKELE",
+    "arrivalTime": "13:15:00",
+    "depatureTime": "13:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "COTTA ROAD",
+    "arrivalTimeEndStation": "15:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

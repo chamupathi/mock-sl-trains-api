@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "JAFFNA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "KANKESANTHURAI",
+    "arrivalTimeEndStation": "11:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "JAFFNA",
+    "arrivalTime": "18:20:00",
+    "depatureTime": "18:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KANKESANTHURAI",
+    "arrivalTimeEndStation": "19:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

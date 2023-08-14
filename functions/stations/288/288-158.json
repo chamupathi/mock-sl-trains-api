@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VANDARAMULLAI",
+    "arrivalTime": "11:28:00",
+    "depatureTime": "11:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "LAKSAUYANA",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

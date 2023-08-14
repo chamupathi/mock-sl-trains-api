@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GANTALAWA",
+    "arrivalTime": "19:56:00",
+    "depatureTime": "19:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "23:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

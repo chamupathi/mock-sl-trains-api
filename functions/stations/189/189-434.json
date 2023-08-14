@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "17:38:00",
+    "depatureTime": "17:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "MANNAR",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

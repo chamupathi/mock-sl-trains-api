@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "04:31:00",
+    "depatureTime": "04:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "04:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "05:41:00",
+    "depatureTime": "05:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "60.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8338"
+  },
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "09:02:00",
+    "depatureTime": "09:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

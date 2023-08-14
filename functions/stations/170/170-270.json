@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "09:17:00",
+    "depatureTime": "09:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "TALAWA",
+    "arrivalTimeEndStation": "10:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "16:34:00",
+    "depatureTime": "16:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "TALAWA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

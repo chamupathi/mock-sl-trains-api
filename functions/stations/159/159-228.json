@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "16:44:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "17:14:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "18:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "17:39:00",
+    "depatureTime": "17:41:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "18:01:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "19:31:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "19:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9265"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "19:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "19:18:00",
+    "depatureTime": "19:19:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "20:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "20:48:00",
+    "depatureTime": "20:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "21:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

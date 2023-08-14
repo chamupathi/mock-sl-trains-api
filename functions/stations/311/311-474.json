@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "05:14:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

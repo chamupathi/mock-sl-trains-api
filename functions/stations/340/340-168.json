@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "VIRALMURIPPUWA",
+    "arrivalTime": "06:32:00",
+    "depatureTime": "06:33:00",
+    "trainFrequncy": "working days only",
+    "trainName": "6",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6"
+  },
+  {
+    "startStationName": "VIRALMURIPPUWA",
+    "arrivalTime": "14:53:00",
+    "depatureTime": "14:54:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "10",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:31:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "15:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "10"
+  },
+  {
+    "startStationName": "VIRALMURIPPUWA",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "12",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:40:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "12"
+  }
+]

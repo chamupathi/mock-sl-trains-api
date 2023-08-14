@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "08:26:00",
+    "depatureTime": "08:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "13:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "16:14:00",
+    "depatureTime": "16:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

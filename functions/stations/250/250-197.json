@@ -1,0 +1,142 @@
+[
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "02:03:00",
+    "depatureTime": "02:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "03:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "06:42:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "09:06:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "13:04:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "13:04:00",
+    "depatureTime": "13:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "14:31:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "16:05:00",
+    "depatureTime": "16:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "19:46:00",
+    "depatureTime": "19:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "21:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

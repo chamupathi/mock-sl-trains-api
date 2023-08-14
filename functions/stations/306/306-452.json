@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "09:12:00",
+    "depatureTime": "09:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "MAGULEGODA",
+    "arrivalTimeEndStation": "10:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4141"
+  }
+]

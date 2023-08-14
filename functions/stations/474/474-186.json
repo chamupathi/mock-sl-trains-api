@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KOHOMBILIWALA",
+    "arrivalTime": "06:02:00",
+    "depatureTime": "06:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "KOHOMBILIWALA",
+    "arrivalTime": "15:12:00",
+    "depatureTime": "15:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

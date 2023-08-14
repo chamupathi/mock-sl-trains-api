@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "BANDARAWELA",
+    "arrivalTime": "07:11:00",
+    "depatureTime": "07:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "15:47:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "BANDARAWELA",
+    "arrivalTime": "08:50:00",
+    "depatureTime": "09:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:57:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "BANDARAWELA",
+    "arrivalTime": "11:43:00",
+    "depatureTime": "11:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "BANDARAWELA",
+    "arrivalTime": "19:35:00",
+    "depatureTime": "19:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "05:24:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

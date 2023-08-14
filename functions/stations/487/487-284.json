@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "04:38:00",
+    "depatureTime": "04:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "UNAWATUNA",
+    "arrivalTimeEndStation": "05:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "05:48:00",
+    "depatureTime": "05:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "UNAWATUNA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "140.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "06:48:00",
+    "depatureTime": "06:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "UNAWATUNA",
+    "arrivalTimeEndStation": "08:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8338"
+  }
+]

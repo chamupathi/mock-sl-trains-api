@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MIRISWATTA",
+    "arrivalTime": "12:47:00",
+    "depatureTime": "12:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "NAWINNA",
+    "arrivalTimeEndStation": "14:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

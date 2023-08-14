@@ -1,0 +1,221 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "09:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:35:00",
+    "depatureTime": "08:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "12:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:44:00",
+    "depatureTime": "15:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "RUHUNU KUMARI",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "18:21:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8058"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:44:00",
+    "depatureTime": "16:46:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "18:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:29:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "20:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:50:00",
+    "depatureTime": "17:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "20:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:17:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "20:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8766"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "22:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

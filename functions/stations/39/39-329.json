@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "16:36:00",
+    "depatureTime": "16:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "17:41:00",
+    "depatureTime": "17:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "9264"
+  }
+]

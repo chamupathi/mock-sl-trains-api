@@ -1,0 +1,110 @@
+[
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "11:48:00",
+    "depatureTime": "11:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "13:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "14:39:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "15:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "18:55:00",
+    "depatureTime": "18:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "20:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "19:17:00",
+    "depatureTime": "19:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "20:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "20:38:00",
+    "depatureTime": "20:39:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "21:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "LUNAWA",
+    "arrivalTime": "22:08:00",
+    "depatureTime": "22:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "23:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

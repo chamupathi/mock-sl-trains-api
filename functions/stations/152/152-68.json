@@ -1,0 +1,122 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "05:30:00",
+    "depatureTime": "05:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "8708",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "06:30:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8708"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "06:59:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "08:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "14:14:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "16:21:00",
+    "depatureTime": "16:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "16:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "19:27:00",
+    "depatureTime": "19:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "20:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "22:22:00",
+    "depatureTime": "22:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "GALLE",
+    "arrivalTimeEndStation": "22:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

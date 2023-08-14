@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "05:39:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "11:17:00",
+    "depatureTime": "11:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "17:12:00",
+    "depatureTime": "17:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "18:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

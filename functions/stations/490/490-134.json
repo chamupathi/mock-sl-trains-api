@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KOGGALA",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "180.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "KOGGALA",
+    "arrivalTimeEndStation": "07:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8338"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "08:45:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "KOGGALA",
+    "arrivalTimeEndStation": "09:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

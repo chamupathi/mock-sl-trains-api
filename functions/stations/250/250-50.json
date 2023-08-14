@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "02:03:00",
+    "depatureTime": "02:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "DIYATALAWA",
+    "arrivalTimeEndStation": "05:42:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "06:42:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "DIYATALAWA",
+    "arrivalTimeEndStation": "12:26:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "DIYATALAWA",
+    "arrivalTimeEndStation": "14:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "13:04:00",
+    "depatureTime": "13:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "DIYATALAWA",
+    "arrivalTimeEndStation": "16:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1015"
+  }
+]

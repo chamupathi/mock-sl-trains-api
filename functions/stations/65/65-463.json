@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GANGODA",
+    "arrivalTime": "12:40:00",
+    "depatureTime": "12:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "14:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

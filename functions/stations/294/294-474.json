@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "05:17:00",
+    "depatureTime": "05:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "14:37:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

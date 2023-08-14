@@ -1,0 +1,169 @@
+[
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "04:12:00",
+    "depatureTime": "04:13:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "04:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "06:12:00",
+    "depatureTime": "06:13:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "07:46:00",
+    "depatureTime": "07:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "08:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "12:47:00",
+    "depatureTime": "12:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "15:20:00",
+    "depatureTime": "15:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "15:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "16:23:00",
+    "depatureTime": "16:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "16:44:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4078"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "06:25:00",
+    "depatureTime": "06:25:00",
+    "trainFrequncy": "working days only",
+    "trainName": "6",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "06:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6"
+  },
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "10",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:31:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "14:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "10"
+  },
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "17:55:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "12",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:40:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "12"
+  }
+]

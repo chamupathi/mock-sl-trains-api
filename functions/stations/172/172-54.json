@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "14:18:00",
+    "depatureTime": "14:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "05:31:00",
+    "depatureTime": "05:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "05:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "07:23:00",
+    "depatureTime": "07:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "09:45:00",
+    "depatureTime": "09:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "08:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "11:06:00",
+    "depatureTime": "11:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "11:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "13:36:00",
+    "depatureTime": "13:37:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "13:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "14:41:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "14:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "15:55:00",
+    "depatureTime": "15:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "15:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "18:08:00",
+    "depatureTime": "18:09:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "18:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "18:36:00",
+    "depatureTime": "18:37:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "18:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3425"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "19:39:00",
+    "depatureTime": "19:40:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "19:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "20:36:00",
+    "depatureTime": "20:37:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "20:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "KOCHCHIKADE",
+    "arrivalTime": "21:51:00",
+    "depatureTime": "21:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "WAIKKALA",
+    "arrivalTimeEndStation": "21:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

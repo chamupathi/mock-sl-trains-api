@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "08:41:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "12:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

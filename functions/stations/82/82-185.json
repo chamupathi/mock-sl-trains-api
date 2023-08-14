@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "12:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

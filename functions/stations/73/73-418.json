@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "05:57:00",
+    "depatureTime": "05:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "06:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "11:34:00",
+    "depatureTime": "11:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "12:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "14:33:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "14:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

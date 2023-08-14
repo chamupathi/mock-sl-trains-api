@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "05:38:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "07:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "16:39:00",
+    "depatureTime": "16:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

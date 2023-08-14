@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ABANPOLA",
+    "arrivalTime": "06:22:00",
+    "depatureTime": "06:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4086"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KONWEWA",
+    "arrivalTime": "06:32:00",
+    "depatureTime": "06:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "11:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "KONWEWA",
+    "arrivalTime": "09:31:00",
+    "depatureTime": "09:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

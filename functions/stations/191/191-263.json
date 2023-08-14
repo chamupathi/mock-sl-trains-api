@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "16:20:00",
+    "depatureTime": "16:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "THAMBUTTEGAMA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

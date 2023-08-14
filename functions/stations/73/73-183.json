@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "08:24:00",
+    "depatureTime": "08:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MANAMPITIYA",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "05:38:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "07:05:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "09:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

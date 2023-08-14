@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "MOLLIPATANA",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "04:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "MOLLIPATANA",
+    "arrivalTime": "12:54:00",
+    "depatureTime": "12:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "13:40:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "13:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7490"
+  },
+  {
+    "startStationName": "MOLLIPATANA",
+    "arrivalTime": "16:23:00",
+    "depatureTime": "16:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "17:07:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "16:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7491"
+  }
+]

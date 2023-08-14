@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "Hadiriwalana",
+    "arrivalTime": "06:27:00",
+    "depatureTime": "06:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "06:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "Hadiriwalana",
+    "arrivalTime": "15:10:00",
+    "depatureTime": "15:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "15:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

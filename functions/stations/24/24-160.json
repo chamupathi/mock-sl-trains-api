@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "BATTICALOA",
+    "arrivalTime": "01:30:00",
+    "depatureTime": "01:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "1050.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "520.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "BATTICALOA",
+    "arrivalTime": "06:10:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1050.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "520.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "BATTICALOA",
+    "arrivalTime": "20:15:00",
+    "depatureTime": "20:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "04:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1050.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "520.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

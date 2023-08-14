@@ -1,0 +1,82 @@
+[
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "03:19:00",
+    "depatureTime": "03:20:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "05:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "05:04:00",
+    "depatureTime": "05:05:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "06:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "05:19:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "07:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "08:54:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "11:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

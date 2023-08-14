@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MATHOTTAM",
+    "arrivalTime": "06:34:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5846",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "08:15:00",
+    "endStationName": "CHEDDIIKULAM",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "5846"
+  }
+]

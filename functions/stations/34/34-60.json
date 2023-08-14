@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "05:12:00",
+    "depatureTime": "05:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "08:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

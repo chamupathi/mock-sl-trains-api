@@ -1,0 +1,152 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "04:15:00",
+    "depatureTime": "04:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "04:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "05:36:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "40.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "06:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8338"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "07:55:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "07:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8337"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "08:45:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "08:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8085"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "12:50:00",
+    "depatureTime": "12:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "8051A",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "13:26:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "13:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8051"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "New Train",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "17:20:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "16:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8377"
+  }
+]

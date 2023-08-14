@@ -1,0 +1,164 @@
+[
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "03:37:00",
+    "depatureTime": "03:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "06:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "08:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "09:42:00",
+    "depatureTime": "09:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "12:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "12:29:00",
+    "depatureTime": "12:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "14:28:00",
+    "depatureTime": "14:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "16:42:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "16:37:00",
+    "depatureTime": "16:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "19:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "22:45:00",
+    "depatureTime": "22:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "01:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

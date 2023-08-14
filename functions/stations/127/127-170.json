@@ -1,0 +1,115 @@
+[
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "00:38:00",
+    "depatureTime": "00:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "01:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6080"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "05:24:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "06:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "10:29:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "16:59:00",
+    "depatureTime": "17:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "18:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "22:21:00",
+    "depatureTime": "22:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "23:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

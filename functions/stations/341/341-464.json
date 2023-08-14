@@ -1,0 +1,118 @@
+[
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "04:52:00",
+    "depatureTime": "04:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "05:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "06:37:00",
+    "depatureTime": "06:38:00",
+    "trainFrequncy": "Not Saturdays & Not Mondays",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "07:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2027"
+  },
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "10:22:00",
+    "depatureTime": "10:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "11:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "13:57:00",
+    "depatureTime": "13:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "14:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "17:17:00",
+    "depatureTime": "17:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "18:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "ELWALA",
+    "arrivalTime": "19:07:00",
+    "depatureTime": "19:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "MEEGAMMANA",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

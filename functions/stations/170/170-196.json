@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "06:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:39:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "13:45:00",
+    "depatureTime": "13:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "15:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

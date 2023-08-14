@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "15:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

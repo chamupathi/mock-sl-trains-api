@@ -1,0 +1,138 @@
+[
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "10:34:00",
+    "depatureTime": "10:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "11:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "13:40:00",
+    "depatureTime": "13:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "14:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "17:45:00",
+    "depatureTime": "17:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "80.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "17:58:00",
+    "depatureTime": "17:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "18:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "19:34:00",
+    "depatureTime": "19:35:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "21:45:00",
+    "depatureTime": "21:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "22:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

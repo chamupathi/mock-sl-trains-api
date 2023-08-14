@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "ASGIRIYA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "ASGIRIYA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

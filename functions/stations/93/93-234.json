@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "04:05:00",
+    "depatureTime": "04:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "08:52:00",
+    "depatureTime": "08:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

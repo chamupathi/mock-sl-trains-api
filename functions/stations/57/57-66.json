@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "ELLE",
+    "arrivalTime": "09:20:00",
+    "depatureTime": "09:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "GELIOYA",
+    "arrivalTimeEndStation": "15:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "ELLE",
+    "arrivalTime": "12:04:00",
+    "depatureTime": "12:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "GELIOYA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

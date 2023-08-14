@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KADADASI NAGAR",
+    "arrivalTime": "12:20:00",
+    "depatureTime": "12:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "17:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

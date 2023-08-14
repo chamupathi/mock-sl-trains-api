@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KELANIYA",
+    "arrivalTime": "09:08:00",
+    "depatureTime": "09:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "11:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "4141"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ALAWWA",
+    "arrivalTime": "14:37:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "ANURADHAPURA TOWN",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

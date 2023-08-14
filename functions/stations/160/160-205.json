@@ -1,0 +1,186 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:00:00",
+    "depatureTime": "14:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "15:38:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9260"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:05:00",
+    "depatureTime": "16:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "16:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:30:00",
+    "depatureTime": "16:32:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "17:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:57:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "17:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:20:00",
+    "depatureTime": "17:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "19:31:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "18:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9265"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:35:00",
+    "depatureTime": "17:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "18:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:05:00",
+    "depatureTime": "18:07:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "19:43:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9268"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "19:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "19:20:00",
+    "depatureTime": "19:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "20:59:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "20:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9270"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:05:00",
+    "depatureTime": "20:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "PANNIPITIYA",
+    "arrivalTimeEndStation": "20:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

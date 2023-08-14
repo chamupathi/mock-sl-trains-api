@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KAMBURUGAMUWA",
+    "arrivalTime": "13:46:00",
+    "depatureTime": "13:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:11:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "16:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8039"
+  }
+]

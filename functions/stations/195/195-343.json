@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "16:20:00",
+    "depatureTime": "16:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "18:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "16:46:00",
+    "depatureTime": "16:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "17:11:00",
+    "depatureTime": "17:12:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "19:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "18:51:00",
+    "depatureTime": "18:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "20:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "20:21:00",
+    "depatureTime": "20:22:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "ARAPATHGAMA",
+    "arrivalTimeEndStation": "22:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

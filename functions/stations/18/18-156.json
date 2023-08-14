@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "05:18:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "06:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "06:45:00",
+    "depatureTime": "06:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "09:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

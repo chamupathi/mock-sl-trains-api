@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "SIYABALANGAMUWA",
+    "arrivalTime": "05:42:00",
+    "depatureTime": "05:43:00",
+    "trainFrequncy": "working days only",
+    "trainName": "5",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "06:00:00",
+    "endStationName": "MEDAGAMA",
+    "arrivalTimeEndStation": "05:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5"
+  },
+  {
+    "startStationName": "SIYABALANGAMUWA",
+    "arrivalTime": "14:12:00",
+    "depatureTime": "14:13:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "9",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MEDAGAMA",
+    "arrivalTimeEndStation": "14:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9"
+  },
+  {
+    "startStationName": "SIYABALANGAMUWA",
+    "arrivalTime": "17:28:00",
+    "depatureTime": "17:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "11",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "17:46:00",
+    "endStationName": "MEDAGAMA",
+    "arrivalTimeEndStation": "17:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "11"
+  }
+]

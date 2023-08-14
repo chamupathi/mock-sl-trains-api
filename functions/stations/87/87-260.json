@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HATARAS KOTUWA",
+    "arrivalTime": "15:51:00",
+    "depatureTime": "15:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "17:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "04:35:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "05:15:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "08:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

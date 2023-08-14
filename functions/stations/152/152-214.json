@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "03:58:00",
+    "depatureTime": "03:59:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "06:07:00",
+    "depatureTime": "06:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "08:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

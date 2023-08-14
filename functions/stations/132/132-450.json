@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "04:18:00",
+    "depatureTime": "04:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "04:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "12:35:00",
+    "depatureTime": "12:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "13:40:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "13:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "7490"
+  },
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "16:05:00",
+    "depatureTime": "16:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "17:07:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "16:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "7491"
+  }
+]

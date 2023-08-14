@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YAPAHUWA",
+    "arrivalTime": "18:26:00",
+    "depatureTime": "18:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "18:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

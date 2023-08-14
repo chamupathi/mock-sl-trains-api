@@ -1,0 +1,120 @@
+[
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "08:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "11:39:00",
+    "depatureTime": "11:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "12:55:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "13:19:00",
+    "depatureTime": "13:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "14:36:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "15:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "16:23:00",
+    "depatureTime": "16:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "17:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1159"
+  }
+]

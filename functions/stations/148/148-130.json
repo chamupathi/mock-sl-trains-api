@@ -1,0 +1,137 @@
+[
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "07:53:00",
+    "depatureTime": "07:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "10:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "09:33:00",
+    "depatureTime": "09:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "11:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "11:27:00",
+    "depatureTime": "11:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "13:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "15:29:00",
+    "depatureTime": "15:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "17:45:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "19:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "KALUTARA SOUTH",
+    "arrivalTime": "19:17:00",
+    "depatureTime": "19:18:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "21:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

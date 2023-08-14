@@ -1,0 +1,162 @@
+[
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "03:48:00",
+    "depatureTime": "03:49:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "04:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "04:47:00",
+    "depatureTime": "04:48:00",
+    "trainFrequncy": "Train will be stop at BERUWALA on 25th & 26th January 2020",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "05:48:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "05:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8322"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "04:49:00",
+    "depatureTime": "04:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "05:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "05:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "06:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "06:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "09:31:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "10:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8349"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "17:37:00",
+    "depatureTime": "17:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "18:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8379"
+  }
+]

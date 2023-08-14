@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MATHOTTAM",
+    "arrivalTime": "18:40:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "THIIRUKETHEESWARAM",
+    "arrivalTimeEndStation": "18:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

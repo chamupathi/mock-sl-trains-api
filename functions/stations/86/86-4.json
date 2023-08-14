@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "04:49:00",
+    "depatureTime": "04:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "09:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

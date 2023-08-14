@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "11:13:00",
+    "depatureTime": "11:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "AKURALA",
+    "arrivalTimeEndStation": "14:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "21:10:00",
+    "depatureTime": "21:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "AKURALA",
+    "arrivalTimeEndStation": "22:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

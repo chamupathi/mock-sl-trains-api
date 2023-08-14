@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "04:58:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "GANEMULLA",
+    "arrivalTimeEndStation": "07:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4857"
+  }
+]

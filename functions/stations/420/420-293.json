@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "06:17:00",
+    "depatureTime": "06:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "WELLAWA",
+    "arrivalTimeEndStation": "06:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "12:08:00",
+    "depatureTime": "12:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "WELLAWA",
+    "arrivalTimeEndStation": "12:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "15:02:00",
+    "depatureTime": "15:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "WELLAWA",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "17:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "WELLAWA",
+    "arrivalTimeEndStation": "17:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

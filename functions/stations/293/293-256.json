@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "15:42:00",
+    "depatureTime": "15:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "SRAWASTHIPURA",
+    "arrivalTimeEndStation": "18:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

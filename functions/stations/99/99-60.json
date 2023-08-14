@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "EGODA UYANA",
+    "arrivalTimeEndStation": "08:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

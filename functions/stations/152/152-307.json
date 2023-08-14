@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "05:31:00",
+    "depatureTime": "05:32:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8063"
+  }
+]

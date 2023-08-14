@@ -1,0 +1,50 @@
+[
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "05:48:00",
+    "depatureTime": "05:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:22:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "420.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "09:10:00",
+    "depatureTime": "09:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "12:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

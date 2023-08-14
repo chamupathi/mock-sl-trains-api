@@ -1,0 +1,230 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:07:00",
+    "depatureTime": "07:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "09:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "10:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "11:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "10:14:00",
+    "depatureTime": "10:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "12:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "13:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:30:00",
+    "depatureTime": "13:31:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "15:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:50:00",
+    "depatureTime": "16:51:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "18:35:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "18:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1164"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:05:00",
+    "depatureTime": "17:06:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "19:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:39:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "20:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "19:54:00",
+    "depatureTime": "19:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "22:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "23:04:00",
+    "depatureTime": "23:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "01:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1194"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "05:39:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "Thuruliyagama",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "Thuruliyagama",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

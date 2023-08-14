@@ -1,0 +1,86 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "06:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:39:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "08:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4086"
+  }
+]

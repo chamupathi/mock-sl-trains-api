@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ELUTHUMATTUVAL",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "THANDIKULAM",
+    "arrivalTimeEndStation": "09:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4880"
+  }
+]

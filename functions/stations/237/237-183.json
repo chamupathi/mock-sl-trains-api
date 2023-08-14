@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "PALUGASWEWA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "MANAMPITIYA",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "PALUGASWEWA",
+    "arrivalTime": "11:04:00",
+    "depatureTime": "11:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MANAMPITIYA",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

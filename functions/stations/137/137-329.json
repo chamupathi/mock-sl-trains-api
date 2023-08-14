@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "KOTTAWA",
+    "arrivalTime": "17:28:00",
+    "depatureTime": "17:29:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "KOTTAWA",
+    "arrivalTime": "18:34:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "9264"
+  }
+]

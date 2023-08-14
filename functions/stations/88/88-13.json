@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "02:42:00",
+    "depatureTime": "02:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "AGBOPURA",
+    "arrivalTimeEndStation": "04:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "10:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "17:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

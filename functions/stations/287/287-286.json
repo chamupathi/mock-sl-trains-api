@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

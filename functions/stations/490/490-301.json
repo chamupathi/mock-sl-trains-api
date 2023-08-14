@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "WALGAMA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "140.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "WALGAMA",
+    "arrivalTimeEndStation": "07:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8338"
+  }
+]

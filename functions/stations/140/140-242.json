@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "17:35:00",
+    "depatureTime": "17:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "RICHMOND HILL",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8760"
+  }
+]

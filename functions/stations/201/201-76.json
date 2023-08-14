@@ -1,0 +1,218 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "00:55:00",
+    "depatureTime": "01:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "01:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1046"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "05:35:00",
+    "depatureTime": "05:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:56:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "06:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1236"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "08:41:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "09:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:50:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1541"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "12:02:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "12:33:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "14:51:00",
+    "depatureTime": "14:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "15:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "16:55:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:16:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "17:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1244"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "19:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

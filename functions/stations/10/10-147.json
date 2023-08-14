@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "ANDADOLA",
+    "arrivalTime": "05:09:00",
+    "depatureTime": "05:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "ANDADOLA",
+    "arrivalTime": "06:35:00",
+    "depatureTime": "06:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "08:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

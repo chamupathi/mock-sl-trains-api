@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KALKUDAH",
+    "arrivalTime": "11:48:00",
+    "depatureTime": "11:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "REDEETHENNA",
+    "arrivalTimeEndStation": "12:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "560.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

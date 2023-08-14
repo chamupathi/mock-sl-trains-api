@@ -1,0 +1,96 @@
+[
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "07:28:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "07:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "10:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:04:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "15:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "15:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4455"
+  },
+  {
+    "startStationName": "ADAGALA",
+    "arrivalTime": "19:46:00",
+    "depatureTime": "19:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "19:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4467"
+  }
+]

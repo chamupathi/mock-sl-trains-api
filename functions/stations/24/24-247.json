@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "BATTICALOA",
+    "arrivalTime": "11:00:00",
+    "depatureTime": "11:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "RANAMUGGAMUWA",
+    "arrivalTimeEndStation": "18:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

@@ -1,0 +1,504 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "04:30:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "04:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:36:00",
+    "depatureTime": "05:36:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "05:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:52:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "06:47:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "06:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8717"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:28:00",
+    "depatureTime": "06:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:23:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "06:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8724"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:57:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:28:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8727"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:32:00",
+    "depatureTime": "07:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "RATMALANA",
+    "arrivalTimeFinalStation": "08:12:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8725"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "08:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8729"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:12:00",
+    "depatureTime": "08:12:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "08:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8732"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:35:00",
+    "depatureTime": "08:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "08:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "09:05:00",
+    "depatureTime": "09:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "09:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "11:10:00",
+    "depatureTime": "11:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "11:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:30:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "14:25:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "13:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8748"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:00:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "14:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:10:00",
+    "depatureTime": "14:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "14:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8749"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:10:00",
+    "depatureTime": "15:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "15:43:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "15:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8755"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:20:00",
+    "depatureTime": "15:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:58:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "15:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8756"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:50:00",
+    "depatureTime": "15:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "16:32:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "16:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8762"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:15:00",
+    "depatureTime": "16:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "16:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "17:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "17:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "17:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "18:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "18:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:00:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:35:00",
+    "depatureTime": "20:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "20:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "21:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

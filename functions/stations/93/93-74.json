@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "08:52:00",
+    "depatureTime": "08:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "09:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "14:46:00",
+    "depatureTime": "14:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "22:48:00",
+    "depatureTime": "22:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "23:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

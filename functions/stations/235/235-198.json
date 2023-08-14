@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "PUTTALAM",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "NOORANAGAR",
+    "arrivalTimeEndStation": "08:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "PUTTALAM",
+    "arrivalTime": "15:56:00",
+    "depatureTime": "15:57:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "NOORANAGAR",
+    "arrivalTimeEndStation": "16:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3417"
+  }
+]

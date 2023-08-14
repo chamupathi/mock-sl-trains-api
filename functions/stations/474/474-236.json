@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOHOMBILIWALA",
+    "arrivalTime": "04:48:00",
+    "depatureTime": "04:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "PATHANPAHA",
+    "arrivalTimeEndStation": "05:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2036"
+  }
+]

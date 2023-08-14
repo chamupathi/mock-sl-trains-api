@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "09:20:00",
+    "depatureTime": "09:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "14:22:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "PAHALAWARDHANA",
+    "arrivalTime": "14:22:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "PORAPOLA JUNC.",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4455"
+  }
+]

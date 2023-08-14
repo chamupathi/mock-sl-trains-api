@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "BOOSSA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "09:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

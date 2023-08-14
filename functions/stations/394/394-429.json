@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "PARANTHAN",
+    "arrivalTime": "10:05:00",
+    "depatureTime": "10:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "KOKUVIL",
+    "arrivalTimeEndStation": "11:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "PARANTHAN",
+    "arrivalTime": "17:05:00",
+    "depatureTime": "17:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KOKUVIL",
+    "arrivalTimeEndStation": "18:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

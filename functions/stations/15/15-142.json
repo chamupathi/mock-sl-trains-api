@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "ANURADHAPURA TOWN",
+    "arrivalTime": "05:05:00",
+    "depatureTime": "05:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "07:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "ANURADHAPURA TOWN",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "16:27:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4078"
+  },
+  {
+    "startStationName": "ANURADHAPURA TOWN",
+    "arrivalTime": "23:15:00",
+    "depatureTime": "23:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "01:43:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4090"
+  }
+]

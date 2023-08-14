@@ -1,0 +1,89 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "00:50:00",
+    "depatureTime": "00:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "02:41:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4090"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4859"
+  }
+]

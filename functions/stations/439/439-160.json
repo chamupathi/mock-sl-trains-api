@@ -1,0 +1,411 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:15:00",
+    "depatureTime": "06:16:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:18:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8317"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:54:00",
+    "depatureTime": "06:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:31:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8316"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:29:00",
+    "depatureTime": "07:49:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8313"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:00:00",
+    "depatureTime": "08:01:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:36:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8325"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:09:00",
+    "depatureTime": "08:10:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8328"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:25:00",
+    "depatureTime": "08:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8331"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:49:00",
+    "depatureTime": "08:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:32:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8335"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:22:00",
+    "depatureTime": "09:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:47:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:28:00",
+    "depatureTime": "09:29:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:04:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8330"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:17:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8346"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:44:00",
+    "depatureTime": "09:45:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8339"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:09:00",
+    "depatureTime": "10:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8336"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "11:31:00",
+    "depatureTime": "11:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "12:07:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "12:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8344"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "13:38:00",
+    "depatureTime": "13:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "14:15:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "14:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8350"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:32:00",
+    "depatureTime": "14:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8352"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "15:26:00",
+    "depatureTime": "15:27:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:55:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8355"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "17:53:00",
+    "depatureTime": "17:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8051"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:05:00",
+    "depatureTime": "19:06:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "New Train",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "19:28:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "19:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8371"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:34:00",
+    "depatureTime": "19:35:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "20:04:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8375"
+  }
+]

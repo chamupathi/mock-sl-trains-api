@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "03:48:00",
+    "depatureTime": "03:49:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "TRAIN HALT 01",
+    "arrivalTimeEndStation": "05:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "TRAIN HALT 01",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

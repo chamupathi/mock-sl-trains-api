@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "10:36:00",
+    "depatureTime": "10:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "12:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "22:28:00",
+    "depatureTime": "22:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "00:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

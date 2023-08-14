@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "05:49:00",
+    "depatureTime": "05:50:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "06:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "07:14:00",
+    "depatureTime": "07:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "14:33:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "15:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "ELUTHUMATTUVAL",
+    "arrivalTime": "10:38:00",
+    "depatureTime": "10:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "JAFFNA",
+    "arrivalTimeEndStation": "11:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "ELUTHUMATTUVAL",
+    "arrivalTime": "17:37:00",
+    "depatureTime": "17:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "JAFFNA",
+    "arrivalTimeEndStation": "18:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

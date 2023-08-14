@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MANKULAM",
+    "arrivalTime": "16:13:00",
+    "depatureTime": "16:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KOKUVIL",
+    "arrivalTimeEndStation": "18:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

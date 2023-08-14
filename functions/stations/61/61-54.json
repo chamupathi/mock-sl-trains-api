@@ -1,0 +1,615 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "04:34:00",
+    "depatureTime": "04:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "04:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:10:00",
+    "depatureTime": "05:11:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "05:53:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "05:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8711"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:56:00",
+    "depatureTime": "05:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "06:47:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8717"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "07:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:32:00",
+    "depatureTime": "06:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:23:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "06:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8724"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "WEEKDAYS & NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:51:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "07:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:57:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:32:00",
+    "depatureTime": "07:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "07:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8727"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:37:00",
+    "depatureTime": "07:38:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "RATMALANA",
+    "arrivalTimeFinalStation": "08:12:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "08:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8725"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:54:00",
+    "depatureTime": "07:55:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "08:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8729"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:16:00",
+    "depatureTime": "08:18:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "08:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8732"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:39:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "09:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "09:10:00",
+    "depatureTime": "09:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "10:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "11:14:00",
+    "depatureTime": "11:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "11:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:34:00",
+    "depatureTime": "13:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "14:25:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "13:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8748"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "14:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "14:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8749"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:15:00",
+    "depatureTime": "15:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "15:43:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "15:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8755"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:25:00",
+    "depatureTime": "17:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:58:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "15:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8756"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:54:00",
+    "depatureTime": "15:55:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "16:32:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "16:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8762"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:19:00",
+    "depatureTime": "16:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "16:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:29:00",
+    "depatureTime": "16:30:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8763"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:49:00",
+    "depatureTime": "16:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "17:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:14:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "17:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "18:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Yal Devi",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "18:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4078"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "19:15:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:04:00",
+    "depatureTime": "20:05:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "20:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:07:00",
+    "depatureTime": "20:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "A.C. - INTERCITY",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "20:31:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "20:27:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      }
+    ],
+    "trainNo": "4022"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:39:00",
+    "depatureTime": "20:40:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "20:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "21:34:00",
+    "depatureTime": "21:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "DEHIWALA",
+    "arrivalTimeEndStation": "21:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

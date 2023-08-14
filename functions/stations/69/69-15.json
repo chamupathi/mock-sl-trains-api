@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "09:43:00",
+    "depatureTime": "09:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "ANURADHAPURA TOWN",
+    "arrivalTimeEndStation": "10:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "17:08:00",
+    "depatureTime": "17:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "ANURADHAPURA TOWN",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

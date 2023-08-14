@@ -1,0 +1,89 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "04:24:00",
+    "depatureTime": "04:25:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "05:18:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "06:45:00",
+    "depatureTime": "06:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "08:06:00",
+    "depatureTime": "08:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8057"
+  }
+]

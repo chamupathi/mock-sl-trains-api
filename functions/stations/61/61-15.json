@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "ANURADHAPURA TOWN",
+    "arrivalTimeEndStation": "10:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:15:00",
+    "depatureTime": "13:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "ANURADHAPURA TOWN",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

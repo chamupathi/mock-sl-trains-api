@@ -1,0 +1,190 @@
+[
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "12:28:00",
+    "depatureTime": "12:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "12:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "15:16:00",
+    "depatureTime": "15:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "15:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "17:58:00",
+    "depatureTime": "17:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "18:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "18:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "19:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "19:34:00",
+    "depatureTime": "19:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "20:03:00",
+    "depatureTime": "20:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "20:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "20:31:00",
+    "depatureTime": "20:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "20:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8775"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "21:17:00",
+    "depatureTime": "21:18:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "21:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "21:52:00",
+    "depatureTime": "21:53:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "22:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "22:47:00",
+    "depatureTime": "22:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "23:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

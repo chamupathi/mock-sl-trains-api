@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KONDAVIL",
+    "arrivalTime": "06:26:00",
+    "depatureTime": "06:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "MIRUSUVIL",
+    "arrivalTimeEndStation": "07:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "KONDAVIL",
+    "arrivalTime": "14:26:00",
+    "depatureTime": "14:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "MIRUSUVIL",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "06:16:00",
+    "depatureTime": "06:18:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "06:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "07:49:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "12:30:00",
+    "depatureTime": "12:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "12:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "15:23:00",
+    "depatureTime": "15:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "15:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

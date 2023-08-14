@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "BADULLA",
+    "arrivalTime": "11:00:00",
+    "depatureTime": "11:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

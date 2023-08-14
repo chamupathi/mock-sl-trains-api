@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "05:44:00",
+    "depatureTime": "05:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "NELUMPATHGAMA",
+    "arrivalTimeEndStation": "06:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "11:22:00",
+    "depatureTime": "11:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "NELUMPATHGAMA",
+    "arrivalTimeEndStation": "11:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "NELUMPATHGAMA",
+    "arrivalTimeEndStation": "14:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "17:16:00",
+    "depatureTime": "17:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "NELUMPATHGAMA",
+    "arrivalTimeEndStation": "17:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

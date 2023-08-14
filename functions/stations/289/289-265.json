@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VAVUNIYA",
+    "arrivalTime": "15:30:00",
+    "depatureTime": "15:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "THANDIKULAM",
+    "arrivalTimeEndStation": "15:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:43:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9648"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "06:07:00",
+    "depatureTime": "06:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:03:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9647"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "06:32:00",
+    "depatureTime": "06:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "06:50:00",
+    "depatureTime": "06:51:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "07:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9645"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "07:23:00",
+    "depatureTime": "07:24:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:18:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "07:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9652"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "07:41:00",
+    "depatureTime": "07:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "08:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9641"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "08:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "14:29:00",
+    "depatureTime": "14:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9657"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "16:32:00",
+    "depatureTime": "16:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:38:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "17:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9661"
+  }
+]

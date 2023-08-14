@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "HAPUTALE",
+    "arrivalTime": "07:39:00",
+    "depatureTime": "07:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "12:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "HAPUTALE",
+    "arrivalTime": "10:16:00",
+    "depatureTime": "10:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "HAPUTALE",
+    "arrivalTime": "12:13:00",
+    "depatureTime": "12:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "16:42:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "HAPUTALE",
+    "arrivalTime": "13:21:00",
+    "depatureTime": "13:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "19:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "HAPUTALE",
+    "arrivalTime": "20:12:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "01:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

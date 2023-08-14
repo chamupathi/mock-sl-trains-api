@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALOYA JUNCTION",
+    "arrivalTimeFinalStation": "08:38:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "07:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "7886"
+  },
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "19:10:00",
+    "depatureTime": "19:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "Thambalagamuwa",
+    "arrivalTimeEndStation": "19:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

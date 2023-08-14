@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "KOSGODA",
+    "arrivalTimeEndStation": "13:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "18:11:00",
+    "depatureTime": "18:12:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KOSGODA",
+    "arrivalTimeEndStation": "19:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8764"
+  }
+]

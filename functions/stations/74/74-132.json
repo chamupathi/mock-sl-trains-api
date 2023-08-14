@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "03:22:00",
+    "depatureTime": "03:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "KANTALE",
+    "arrivalTimeEndStation": "04:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "12:00:00",
+    "depatureTime": "12:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "13:40:00",
+    "endStationName": "KANTALE",
+    "arrivalTimeEndStation": "12:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "7490"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "15:30:00",
+    "depatureTime": "15:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "17:07:00",
+    "endStationName": "KANTALE",
+    "arrivalTimeEndStation": "16:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "7491"
+  }
+]

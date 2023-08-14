@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "ARACHCHIKATTUWA",
+    "arrivalTime": "10:53:00",
+    "depatureTime": "10:54:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KELANIYA",
+    "arrivalTimeEndStation": "14:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "ARACHCHIKATTUWA",
+    "arrivalTime": "14:32:00",
+    "depatureTime": "14:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KELANIYA",
+    "arrivalTimeEndStation": "18:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "3820"
+  }
+]

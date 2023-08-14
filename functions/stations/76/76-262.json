@@ -1,0 +1,171 @@
+[
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "04:12:00",
+    "depatureTime": "04:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "04:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "07:05:00",
+    "depatureTime": "07:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1121",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "07:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1121"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "09:32:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "09:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "10:57:00",
+    "depatureTime": "10:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "11:31:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "11:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1142"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "14:46:00",
+    "depatureTime": "14:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "15:26:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "14:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1153"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "17:58:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "18:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "19:53:00",
+    "depatureTime": "19:54:00",
+    "trainFrequncy": "Weekdays",
+    "trainName": "2185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:24:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "20:01:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "19:58:00",
+    "depatureTime": "19:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:32:00",
+    "endStationName": "TEMBLIGALA",
+    "arrivalTimeEndStation": "20:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1185"
+  }
+]

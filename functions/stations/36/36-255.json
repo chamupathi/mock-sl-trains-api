@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "BERUWALA",
+    "arrivalTime": "11:08:00",
+    "depatureTime": "11:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "14:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

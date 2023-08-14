@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MEDDEGAMA",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "TALAWATTEGEDARA",
+    "arrivalTimeEndStation": "15:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

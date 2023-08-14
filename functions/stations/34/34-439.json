@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "04:18:00",
+    "depatureTime": "04:19:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "05:12:00",
+    "depatureTime": "05:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

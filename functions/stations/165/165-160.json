@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MANGALAELIYA",
+    "arrivalTime": "04:56:00",
+    "depatureTime": "04:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "MANGALAELIYA",
+    "arrivalTime": "10:22:00",
+    "depatureTime": "10:23:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "14:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "MANGALAELIYA",
+    "arrivalTime": "13:59:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "MANGALAELIYA",
+    "arrivalTime": "17:12:00",
+    "depatureTime": "17:13:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "21:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

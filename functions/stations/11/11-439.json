@@ -1,0 +1,93 @@
+[
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "06:47:00",
+    "depatureTime": "06:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "09:44:00",
+    "depatureTime": "09:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "12:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8085"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:11:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "16:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8039"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "14:40:00",
+    "depatureTime": "14:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "17:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

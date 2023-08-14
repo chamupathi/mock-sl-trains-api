@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "01:19:00",
+    "depatureTime": "01:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "04:48:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1046"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "12:19:00",
+    "depatureTime": "12:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "15:26:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "15:07:00",
+    "depatureTime": "15:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "16:42:00",
+    "depatureTime": "16:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

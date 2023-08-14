@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "03:58:00",
+    "depatureTime": "03:59:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "05:31:00",
+    "depatureTime": "05:32:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "05:43:00",
+    "depatureTime": "05:44:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8327"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KATUKURUNDA",
+    "arrivalTime": "10:50:00",
+    "depatureTime": "10:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "AKURALA",
+    "arrivalTimeEndStation": "14:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "KATUKURUNDA",
+    "arrivalTime": "20:45:00",
+    "depatureTime": "20:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "AKURALA",
+    "arrivalTimeEndStation": "22:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

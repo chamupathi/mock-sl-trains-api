@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:10:00",
+    "depatureTime": "05:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "Hadiriwalana",
+    "arrivalTimeEndStation": "06:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "13:45:00",
+    "depatureTime": "13:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "Hadiriwalana",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

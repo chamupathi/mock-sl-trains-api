@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "16:52:00",
+    "depatureTime": "16:53:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "18:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "17:16:00",
+    "depatureTime": "17:17:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "17:56:00",
+    "depatureTime": "17:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "19:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "18:56:00",
+    "depatureTime": "18:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "20:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "KIRULAPANA",
+    "arrivalTime": "20:26:00",
+    "depatureTime": "20:27:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "PINNAWALA",
+    "arrivalTimeEndStation": "21:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

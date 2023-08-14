@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "03:01:00",
+    "depatureTime": "03:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "GANTALAWA",
+    "arrivalTimeEndStation": "04:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "09:55:00",
+    "depatureTime": "09:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KADUGANNAWA",
+    "arrivalTimeEndStation": "11:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

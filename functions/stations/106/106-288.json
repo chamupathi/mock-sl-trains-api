@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "JAYANTHIPURA",
+    "arrivalTime": "09:51:00",
+    "depatureTime": "09:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "VANDARAMULLAI",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6479"
+  }
+]

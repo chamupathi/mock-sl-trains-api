@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "06:07:00",
+    "depatureTime": "06:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "09:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "17:24:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "MONDAY TO SATURDAY",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:05:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "19:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "17:24:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:00:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1037"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "12:30:00",
+    "depatureTime": "12:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

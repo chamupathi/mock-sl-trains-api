@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "Hadiriwalana",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "WERAGALA",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4455"
+  }
+]

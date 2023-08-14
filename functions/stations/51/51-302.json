@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "DODANDUWA",
+    "arrivalTime": "10:36:00",
+    "depatureTime": "10:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "11:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "DODANDUWA",
+    "arrivalTime": "16:34:00",
+    "depatureTime": "16:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "17:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8750"
+  }
+]

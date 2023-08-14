@@ -1,0 +1,121 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:27:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "16:50:00",
+    "depatureTime": "16:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "WATAWALA",
+    "arrivalTime": "05:38:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "HYINPORT",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "WATAWALA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "HYINPORT",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "WEHERAHENA",
+    "arrivalTimeEndStation": "18:01:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "220.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "04:38:00",
+    "depatureTime": "04:39:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "08:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:50:00",
+    "depatureTime": "08:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "DODANDUWA",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "DODANDUWA",
+    "arrivalTimeEndStation": "14:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

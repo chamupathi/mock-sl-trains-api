@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "04:17:00",
+    "depatureTime": "04:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "PULACHCHIKULAM",
+    "arrivalTimeEndStation": "07:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:01:00",
+    "depatureTime": "08:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "PULACHCHIKULAM",
+    "arrivalTimeEndStation": "11:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "12:22:00",
+    "depatureTime": "12:23:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "PULACHCHIKULAM",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "3417"
+  }
+]

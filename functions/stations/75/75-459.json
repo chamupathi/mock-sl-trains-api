@@ -1,0 +1,52 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "PERAKUMPURA",
+    "arrivalTimeEndStation": "13:21:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "09:01:00",
+    "depatureTime": "09:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "PERAKUMPURA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1015"
+  }
+]

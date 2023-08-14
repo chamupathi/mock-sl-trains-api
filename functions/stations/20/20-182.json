@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "AVISSAWELLA",
+    "arrivalTime": "04:40:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "MAKUMBURA",
+    "arrivalTimeEndStation": "06:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "AVISSAWELLA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "MAKUMBURA",
+    "arrivalTimeEndStation": "06:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "AVISSAWELLA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:30:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "MAKUMBURA",
+    "arrivalTimeEndStation": "08:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "AVISSAWELLA",
+    "arrivalTime": "12:25:00",
+    "depatureTime": "12:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "MAKUMBURA",
+    "arrivalTimeEndStation": "14:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

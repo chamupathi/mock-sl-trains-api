@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "06:17:00",
+    "depatureTime": "06:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "KILINOCHCHI",
+    "arrivalTimeEndStation": "07:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "14:17:00",
+    "depatureTime": "14:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "KILINOCHCHI",
+    "arrivalTimeEndStation": "15:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "12:04:00",
+    "depatureTime": "12:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

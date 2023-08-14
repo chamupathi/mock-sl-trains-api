@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "06:17:00",
+    "depatureTime": "06:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "JAFFNA",
+    "arrivalTimeEndStation": "06:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "14:17:00",
+    "depatureTime": "14:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "JAFFNA",
+    "arrivalTimeEndStation": "14:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4882"
+  },
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "18:17:00",
+    "depatureTime": "18:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "40900",
+    "finalStationName": "JAFFNA",
+    "arrivalTimeFinalStation": "18:35:00",
+    "endStationName": "JAFFNA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "40900"
+  }
+]

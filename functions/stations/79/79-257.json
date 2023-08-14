@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "03:18:00",
+    "depatureTime": "03:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "SARASAVIUYANA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "SARASAVIUYANA",
+    "arrivalTimeEndStation": "10:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "09:32:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "SARASAVIUYANA",
+    "arrivalTimeEndStation": "13:17:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "12:17:00",
+    "depatureTime": "12:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "SARASAVIUYANA",
+    "arrivalTimeEndStation": "16:07:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "16:24:00",
+    "depatureTime": "16:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "SARASAVIUYANA",
+    "arrivalTimeEndStation": "20:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

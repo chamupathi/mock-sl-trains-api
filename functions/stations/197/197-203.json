@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "03:39:00",
+    "depatureTime": "03:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "04:51:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "09:06:00",
+    "depatureTime": "09:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "10:31:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "13:04:00",
+    "depatureTime": "13:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "14:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "14:31:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "15:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "16:04:00",
+    "depatureTime": "16:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

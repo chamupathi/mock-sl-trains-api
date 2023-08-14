@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "10:10:00",
+    "depatureTime": "10:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "PILIDUWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

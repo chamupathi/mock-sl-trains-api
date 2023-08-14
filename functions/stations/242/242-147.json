@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "03:19:00",
+    "depatureTime": "03:20:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "05:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "05:19:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "08:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

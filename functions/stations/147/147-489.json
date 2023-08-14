@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "07:49:00",
+    "depatureTime": "07:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "11:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

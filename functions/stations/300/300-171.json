@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "WATAWALA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "13:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "WATAWALA",
+    "arrivalTime": "15:44:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

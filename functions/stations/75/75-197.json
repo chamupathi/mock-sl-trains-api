@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "13:04:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "09:01:00",
+    "depatureTime": "09:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "14:31:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "10:18:00",
+    "depatureTime": "10:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "16:04:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "21:10:00",
+    "depatureTime": "21:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "03:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1045"
+  }
+]

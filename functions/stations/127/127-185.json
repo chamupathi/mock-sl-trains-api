@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "10:29:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "12:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

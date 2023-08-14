@@ -1,0 +1,171 @@
+[
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "05:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "07:10:00",
+    "depatureTime": "07:11:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "07:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "09:02:00",
+    "depatureTime": "09:03:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "2630",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:37:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "09:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2630"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "09:18:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "-",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:55:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "09:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2640"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "11:08:00",
+    "depatureTime": "11:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "11:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "14:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "14:47:00",
+    "depatureTime": "14:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:25:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "14:56:00",
+    "classList": [],
+    "trainNo": "2020"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "18:07:00",
+    "depatureTime": "18:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "YATIRAWANA",
+    "arrivalTime": "19:45:00",
+    "depatureTime": "19:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "UDATALAWINNA",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

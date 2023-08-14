@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "HINGURALA",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "HINGURALA",
+    "arrivalTimeEndStation": "20:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9264"
+  }
+]

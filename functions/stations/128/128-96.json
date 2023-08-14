@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "07:42:00",
+    "depatureTime": "07:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "HATTON",
+    "arrivalTimeEndStation": "11:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "HATTON",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

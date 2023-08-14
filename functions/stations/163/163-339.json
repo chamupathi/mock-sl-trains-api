@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "working days only",
+    "trainName": "6",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "SIYABALANGAMUWA",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "6"
+  },
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "15:01:00",
+    "depatureTime": "15:02:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "10",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:31:00",
+    "endStationName": "SIYABALANGAMUWA",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "10"
+  },
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "18:07:00",
+    "depatureTime": "18:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "12",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:40:00",
+    "endStationName": "SIYABALANGAMUWA",
+    "arrivalTimeEndStation": "18:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "12"
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "07:18:00",
+    "depatureTime": "07:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "11:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "420.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "18:47:00",
+    "depatureTime": "18:48:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "22:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

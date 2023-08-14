@@ -1,0 +1,150 @@
+[
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "15:38:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "15:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9260"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:03:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "17:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "17:27:00",
+    "depatureTime": "17:28:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "18:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "18:07:00",
+    "depatureTime": "18:08:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "18:36:00",
+    "depatureTime": "18:37:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "19:43:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "19:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9268"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "19:06:00",
+    "depatureTime": "19:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "19:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "19:51:00",
+    "depatureTime": "19:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "20:59:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "20:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9270"
+  },
+  {
+    "startStationName": "PANGIRIWATTA",
+    "arrivalTime": "20:36:00",
+    "depatureTime": "20:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "HOMAGAMA HOSPITAL",
+    "arrivalTimeEndStation": "21:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

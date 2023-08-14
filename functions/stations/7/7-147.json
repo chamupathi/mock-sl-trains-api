@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "AKURALA",
+    "arrivalTime": "06:10:00",
+    "depatureTime": "06:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "08:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

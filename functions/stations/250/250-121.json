@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "05:21:00",
+    "depatureTime": "05:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "07:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "07:34:00",
+    "depatureTime": "07:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "09:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "17:56:00",
+    "depatureTime": "17:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

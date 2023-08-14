@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "07:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4857"
+  }
+]

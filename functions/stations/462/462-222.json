@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "06:52:00",
+    "depatureTime": "06:53:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "08:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1026"
+  }
+]

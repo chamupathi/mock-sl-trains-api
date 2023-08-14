@@ -1,0 +1,72 @@
+[
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "04:38:00",
+    "depatureTime": "04:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "06:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "05:48:00",
+    "depatureTime": "05:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "08:23:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "320.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "09:10:00",
+    "depatureTime": "09:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "11:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

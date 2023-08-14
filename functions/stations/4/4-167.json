@@ -1,0 +1,128 @@
+[
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "11:45:00",
+    "depatureTime": "11:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "12:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "14:36:00",
+    "depatureTime": "14:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "15:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "17:21:00",
+    "depatureTime": "17:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "18:52:00",
+    "depatureTime": "18:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "19:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "19:13:00",
+    "depatureTime": "19:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "20:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "20:35:00",
+    "depatureTime": "20:36:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "21:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "ANGULANA",
+    "arrivalTime": "22:05:00",
+    "depatureTime": "22:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "23:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

@@ -1,0 +1,164 @@
+[
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "04:23:00",
+    "depatureTime": "05:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "05:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "07:17:00",
+    "depatureTime": "07:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "07:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "10:23:00",
+    "depatureTime": "10:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "10:55:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "13:11:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "13:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "15:11:00",
+    "depatureTime": "15:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "15:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "17:36:00",
+    "depatureTime": "17:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "17:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "23:32:00",
+    "depatureTime": "23:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "ROSELLA",
+    "arrivalTimeEndStation": "23:51:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

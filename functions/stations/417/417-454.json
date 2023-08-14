@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "06:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "15:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "17:50:00",
+    "depatureTime": "17:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

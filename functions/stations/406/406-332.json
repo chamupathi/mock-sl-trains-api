@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "PUNKANKULAM",
+    "arrivalTime": "06:43:00",
+    "depatureTime": "06:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "MURIKANDY",
+    "arrivalTimeEndStation": "08:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "PUNKANKULAM",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "MURIKANDY",
+    "arrivalTimeEndStation": "16:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

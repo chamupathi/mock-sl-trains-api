@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "16:08:00",
+    "depatureTime": "16:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "KEKANADURA",
+    "arrivalTimeEndStation": "18:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:01:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KEKANADURA",
+    "arrivalTimeEndStation": "22:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

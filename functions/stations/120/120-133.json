@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "08:13:00",
+    "depatureTime": "08:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "10:37:00",
+    "depatureTime": "10:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "16:35:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "12:05:00",
+    "depatureTime": "12:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "18:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "23:15:00",
+    "depatureTime": "23:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "06:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1045"
+  }
+]

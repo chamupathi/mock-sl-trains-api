@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "14:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "16:51:00",
+    "depatureTime": "16:52:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "GALABODA",
+    "arrivalTimeFinalStation": "17:10:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "17:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1139"
+  }
+]

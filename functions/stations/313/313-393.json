@@ -1,0 +1,216 @@
+[
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "04:10:00",
+    "depatureTime": "04:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "05:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "04:55:00",
+    "depatureTime": "04:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "06:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "05:30:00",
+    "depatureTime": "05:31:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "06:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1537"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "07:30:00",
+    "depatureTime": "07:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "08:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "10:05:00",
+    "depatureTime": "10:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "11:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "11:05:00",
+    "depatureTime": "11:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "12:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "12:50:00",
+    "depatureTime": "12:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "14:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "13:25:00",
+    "depatureTime": "13:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "14:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "15:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "17:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:26:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "MAGALEGODA",
+    "arrivalTimeEndStation": "20:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1576"
+  }
+]

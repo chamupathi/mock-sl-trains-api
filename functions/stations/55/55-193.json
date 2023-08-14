@@ -1,0 +1,208 @@
+[
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "04:24:00",
+    "depatureTime": "04:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "05:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "05:24:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "06:23:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "06:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3406"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "08:09:00",
+    "depatureTime": "08:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "09:59:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "10:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "12:29:00",
+    "depatureTime": "12:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "13:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "13:34:00",
+    "depatureTime": "13:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "14:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "16:54:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "17:54:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "18:50:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3426"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "19:29:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "20:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "20:44:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "NEGOMBO",
+    "arrivalTimeEndStation": "21:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

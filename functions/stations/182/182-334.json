@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "14:59:00",
+    "depatureTime": "15:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "15:38:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "15:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9260"
+  },
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "17:31:00",
+    "depatureTime": "17:32:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "18:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "19:35:00",
+    "depatureTime": "19:36:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "20:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "20:20:00",
+    "depatureTime": "20:21:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "20:59:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "20:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9270"
+  },
+  {
+    "startStationName": "MAKUMBURA",
+    "arrivalTime": "21:05:00",
+    "depatureTime": "21:06:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "21:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

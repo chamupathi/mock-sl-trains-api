@@ -1,0 +1,150 @@
+[
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "04:24:00",
+    "depatureTime": "04:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "07:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "08:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "08:09:00",
+    "depatureTime": "08:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "11:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "09:59:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "12:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "12:29:00",
+    "depatureTime": "12:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "16:54:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "19:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "19:29:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "21:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "ENDERAMULLA",
+    "arrivalTime": "20:44:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "22:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

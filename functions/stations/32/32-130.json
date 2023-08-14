@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "08:22:00",
+    "depatureTime": "08:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "10:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "09:56:00",
+    "depatureTime": "09:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "11:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "15:48:00",
+    "depatureTime": "15:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KAMBURUGAMUWA",
+    "arrivalTimeEndStation": "17:45:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

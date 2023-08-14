@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "ANGAMPITIYA",
+    "arrivalTime": "18:17:00",
+    "depatureTime": "18:18:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "ANGAMPITIYA",
+    "arrivalTime": "18:46:00",
+    "depatureTime": "18:47:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "ANGAMPITIYA",
+    "arrivalTime": "19:23:00",
+    "depatureTime": "19:24:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "ANGAMPITIYA",
+    "arrivalTime": "21:51:00",
+    "depatureTime": "21:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "22:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

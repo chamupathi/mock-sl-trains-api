@@ -1,0 +1,199 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:25:00",
+    "depatureTime": "06:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "08:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "16:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:40:00",
+    "depatureTime": "15:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "RUHUNU KUMARI",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "18:21:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8058"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:40:00",
+    "depatureTime": "16:40:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "19:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:45:00",
+    "depatureTime": "17:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "19:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "20:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8766"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "AMBALANGODA",
+    "arrivalTimeEndStation": "22:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

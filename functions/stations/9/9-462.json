@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ALAWWA",
+    "arrivalTime": "11:51:00",
+    "depatureTime": "11:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "MARAKONA",
+    "arrivalTimeEndStation": "15:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

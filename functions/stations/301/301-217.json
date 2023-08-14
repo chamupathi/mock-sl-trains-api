@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WALGAMA",
+    "arrivalTime": "10:39:00",
+    "depatureTime": "10:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "PILIDUWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

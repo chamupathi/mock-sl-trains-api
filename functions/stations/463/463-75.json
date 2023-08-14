@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "07:03:00",
+    "depatureTime": "07:04:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1026"
+  }
+]

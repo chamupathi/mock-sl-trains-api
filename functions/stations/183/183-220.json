@@ -1,0 +1,93 @@
+[
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "03:24:00",
+    "depatureTime": "03:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "03:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "08:16:00",
+    "depatureTime": "08:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "08:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "13:37:00",
+    "depatureTime": "13:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "13:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "22:10:00",
+    "depatureTime": "22:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "22:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

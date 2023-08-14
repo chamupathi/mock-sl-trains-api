@@ -1,0 +1,151 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "06:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "05:38:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "07:05:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "09:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "09:12:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "10:42:00",
+    "depatureTime": "10:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "12:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8349"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "15:38:00",
+    "depatureTime": "15:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:11:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8039"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "16:39:00",
+    "depatureTime": "16:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "17:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

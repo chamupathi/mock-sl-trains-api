@@ -1,0 +1,212 @@
+[
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "00:14:00",
+    "depatureTime": "00:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "01:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "05:49:00",
+    "depatureTime": "05:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "08:22:00",
+    "depatureTime": "08:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "09:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "09:20:00",
+    "depatureTime": "09:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "10:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "10:13:00",
+    "depatureTime": "10:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "11:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "11:30:00",
+    "depatureTime": "11:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "12:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "12:37:00",
+    "depatureTime": "12:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "13:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "14:45:00",
+    "depatureTime": "14:46:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "15:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "18:22:00",
+    "depatureTime": "18:23:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "19:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "19:37:00",
+    "depatureTime": "19:38:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "20:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "21:05:00",
+    "depatureTime": "21:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "YATAGAMA",
+    "arrivalTimeEndStation": "22:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1191"
+  }
+]

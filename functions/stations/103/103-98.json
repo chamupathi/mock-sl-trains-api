@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "06:15:00",
+    "depatureTime": "06:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "HYINPORT",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "08:26:00",
+    "depatureTime": "08:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "HYINPORT",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

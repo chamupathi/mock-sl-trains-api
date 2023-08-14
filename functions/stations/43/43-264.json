@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "05:16:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "TRINCOMALEE",
+    "arrivalTimeEndStation": "05:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "13:28:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "13:40:00",
+    "endStationName": "TRINCOMALEE",
+    "arrivalTimeEndStation": "13:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7490"
+  },
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "17:07:00",
+    "endStationName": "TRINCOMALEE",
+    "arrivalTimeEndStation": "17:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7491"
+  }
+]

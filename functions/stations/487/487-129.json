@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "05:48:00",
+    "depatureTime": "05:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "06:39:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "80.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "06:48:00",
+    "depatureTime": "06:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "07:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8338"
+  }
+]

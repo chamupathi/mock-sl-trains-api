@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "ANGULANA",
+    "arrivalTimeEndStation": "09:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

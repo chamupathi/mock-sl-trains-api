@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "07:22:00",
+    "depatureTime": "07:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "REDEETHENNA",
+    "arrivalTimeEndStation": "11:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "400.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "10:17:00",
+    "depatureTime": "10:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "REDEETHENNA",
+    "arrivalTimeEndStation": "13:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "800.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "400.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

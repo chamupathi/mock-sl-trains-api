@@ -1,0 +1,154 @@
+[
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "04:21:00",
+    "depatureTime": "04:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "06:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:02:00",
+    "depatureTime": "06:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "08:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:05:00",
+    "depatureTime": "08:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "09:56:00",
+    "depatureTime": "09:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "11:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "12:26:00",
+    "depatureTime": "12:27:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "13:31:00",
+    "depatureTime": "13:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "15:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "19:26:00",
+    "depatureTime": "19:27:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "21:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "20:41:00",
+    "depatureTime": "20:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "NELUMPOKUNA",
+    "arrivalTimeEndStation": "22:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

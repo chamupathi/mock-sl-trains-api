@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "03:56:00",
+    "depatureTime": "03:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "BADULLA",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "1126"
+  }
+]

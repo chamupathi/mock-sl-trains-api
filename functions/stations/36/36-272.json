@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "BERUWALA",
+    "arrivalTime": "11:08:00",
+    "depatureTime": "11:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "THIRANAGAMA",
+    "arrivalTimeEndStation": "14:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

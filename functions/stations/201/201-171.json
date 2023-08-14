@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "08:41:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "13:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

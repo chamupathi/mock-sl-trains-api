@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "11:37:00",
+    "depatureTime": "11:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "MAVITTAPURAM",
+    "arrivalTimeEndStation": "11:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "CHUNNAKAM",
+    "arrivalTime": "18:41:00",
+    "depatureTime": "18:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "MAVITTAPURAM",
+    "arrivalTimeEndStation": "18:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

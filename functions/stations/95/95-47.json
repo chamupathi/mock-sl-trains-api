@@ -1,0 +1,737 @@
+[
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "05:10:00",
+    "depatureTime": "05:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "05:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:26:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "05:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "06:04:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "06:04:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "07:27:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:56:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "07:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1530"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "07:59:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1529"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "08:33:00",
+    "depatureTime": "08:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "08:42:00",
+    "depatureTime": "08:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "09:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "09:24:00",
+    "depatureTime": "09:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "09:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "10:04:00",
+    "depatureTime": "10:05:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "1547",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:31:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "10:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1547"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "10:35:00",
+    "depatureTime": "10:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "11:15:00",
+    "depatureTime": "11:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:42:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "11:17:00",
+    "depatureTime": "11:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "11:20:00",
+    "depatureTime": "11:21:00",
+    "trainFrequncy": "MONDAYS ONLY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:47:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "11:54:00",
+    "depatureTime": "11:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "12:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "13:03:00",
+    "depatureTime": "13:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "13:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "13:55:00",
+    "depatureTime": "13:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "14:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "14:52:00",
+    "depatureTime": "14:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "15:27:00",
+    "depatureTime": "15:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "16:17:00",
+    "depatureTime": "16:18:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "16:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "16:52:00",
+    "depatureTime": "16:53:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "17:14:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1595"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "17:39:00",
+    "depatureTime": "17:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "17:47:00",
+    "depatureTime": "17:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "18:05:00",
+    "depatureTime": "18:06:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "18:28:00",
+    "depatureTime": "18:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "18:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "19:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "19:42:00",
+    "depatureTime": "19:43:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:35:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3830"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "20:38:00",
+    "depatureTime": "20:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:07:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1584"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "21:18:00",
+    "depatureTime": "21:19:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "21:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "22:06:00",
+    "depatureTime": "22:07:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:33:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "22:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1589"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "22:50:00",
+    "depatureTime": "22:51:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "23:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

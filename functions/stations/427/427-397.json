@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MALLAKAM",
+    "arrivalTime": "06:13:00",
+    "depatureTime": "06:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "KODIKAMAM",
+    "arrivalTimeEndStation": "07:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "MALLAKAM",
+    "arrivalTime": "14:13:00",
+    "depatureTime": "14:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "KODIKAMAM",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

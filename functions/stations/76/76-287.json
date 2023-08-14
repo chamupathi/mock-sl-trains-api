@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "01:34:00",
+    "depatureTime": "01:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "04:17:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1046"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "09:27:00",
+    "depatureTime": "09:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "13:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "12:33:00",
+    "depatureTime": "12:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "15:22:00",
+    "depatureTime": "15:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "18:09:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "19:27:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

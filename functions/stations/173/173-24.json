@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MINNERIYA",
+    "arrivalTime": "09:26:00",
+    "depatureTime": "09:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "BATTICALOA",
+    "arrivalTimeEndStation": "13:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6479"
+  }
+]

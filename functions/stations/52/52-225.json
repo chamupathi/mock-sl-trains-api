@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "DEWAPURAM",
+    "arrivalTime": "11:37:00",
+    "depatureTime": "11:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "PUNANI",
+    "arrivalTimeEndStation": "12:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

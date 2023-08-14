@@ -1,0 +1,194 @@
+[
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "03:50:00",
+    "depatureTime": "03:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "04:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "04:20:00",
+    "depatureTime": "04:20:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "05:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "04:50:00",
+    "depatureTime": "04:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:26:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "06:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3803"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "05:45:00",
+    "depatureTime": "05:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "07:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "09:10:00",
+    "depatureTime": "09:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "10:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "11:11:00",
+    "depatureTime": "11:17:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "12:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "12:40:00",
+    "depatureTime": "12:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "13:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "15:05:00",
+    "depatureTime": "15:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "16:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "17:15:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "CHILAW",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KATTUWA",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

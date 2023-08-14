@@ -1,0 +1,407 @@
+[
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "03:53:00",
+    "depatureTime": "03:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "05:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "04:16:00",
+    "depatureTime": "04:17:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "05:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "04:48:00",
+    "depatureTime": "04:49:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "06:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "04:48:00",
+    "depatureTime": "04:49:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "06:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "05:18:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "06:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "08:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "08:07:00",
+    "depatureTime": "08:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "09:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "09:13:00",
+    "depatureTime": "09:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "10:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "10:43:00",
+    "depatureTime": "10:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "11:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "11:43:00",
+    "depatureTime": "11:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "13:28:00",
+    "depatureTime": "13:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "14:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "13:28:00",
+    "depatureTime": "13:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "14:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "14:08:00",
+    "depatureTime": "14:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "15:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "15:00:00",
+    "depatureTime": "15:01:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "16:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "15:43:00",
+    "depatureTime": "15:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "17:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "16:14:00",
+    "depatureTime": "16:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "17:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "17:01:00",
+    "depatureTime": "17:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "18:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "17:43:00",
+    "depatureTime": "17:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "18:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "19:34:00",
+    "depatureTime": "19:35:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "21:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "21:39:00",
+    "depatureTime": "21:40:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "22:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

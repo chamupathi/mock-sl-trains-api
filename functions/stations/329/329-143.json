@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "ALUTH AMBALAMA",
+    "arrivalTime": "05:42:00",
+    "depatureTime": "05:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "ALUTH AMBALAMA",
+    "arrivalTime": "06:49:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "ALUTH AMBALAMA",
+    "arrivalTime": "12:50:00",
+    "depatureTime": "12:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "12:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

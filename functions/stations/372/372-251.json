@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MADHU ROAD",
+    "arrivalTime": "06:55:00",
+    "depatureTime": "06:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5846",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "08:15:00",
+    "endStationName": "SALIYAPURA",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "5846"
+  }
+]

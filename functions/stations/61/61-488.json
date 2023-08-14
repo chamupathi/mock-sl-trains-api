@@ -1,0 +1,116 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "11:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "14:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "18:13:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "460.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:44:00",
+    "depatureTime": "16:46:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "19:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:17:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "22:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

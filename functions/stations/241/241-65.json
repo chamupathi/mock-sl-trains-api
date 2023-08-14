@@ -1,0 +1,203 @@
+[
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "04:18:00",
+    "depatureTime": "04:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:08:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "04:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1120"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "05:53:00",
+    "depatureTime": "05:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:38:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "06:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1128"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "12:18:00",
+    "depatureTime": "12:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "13:55:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "12:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "12:18:00",
+    "depatureTime": "12:21:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "12:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "18:11:00",
+    "depatureTime": "18:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "19:34:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "18:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1035"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:46:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:00:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "19:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "18:51:00",
+    "trainFrequncy": "MONDAY TO SATURDAY",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:05:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "19:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "RAMBUKKANA",
+    "arrivalTime": "19:33:00",
+    "depatureTime": "19:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:55:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1039"
+  }
+]

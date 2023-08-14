@@ -1,0 +1,82 @@
+[
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "03:15:00",
+    "depatureTime": "03:15:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "BERUWALA",
+    "arrivalTimeEndStation": "04:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "04:35:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "BERUWALA",
+    "arrivalTimeEndStation": "05:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "05:15:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "BERUWALA",
+    "arrivalTimeEndStation": "07:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "08:50:00",
+    "depatureTime": "08:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "BERUWALA",
+    "arrivalTimeEndStation": "11:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "MAGULEGODA",
+    "arrivalTimeEndStation": "14:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4552"
+  }
+]

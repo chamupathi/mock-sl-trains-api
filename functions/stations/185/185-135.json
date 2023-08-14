@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "08:02:00",
+    "depatureTime": "08:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "09:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

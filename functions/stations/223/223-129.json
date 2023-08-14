@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "07:29:00",
+    "depatureTime": "07:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "10:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "15:13:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "17:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "18:58:00",
+    "depatureTime": "18:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "21:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

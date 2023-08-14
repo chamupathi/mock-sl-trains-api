@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ASGIRIYA",
+    "arrivalTime": "07:43:00",
+    "depatureTime": "07:44:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "09:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1026"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WADDUWA",
+    "arrivalTime": "07:37:00",
+    "depatureTime": "07:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KATUGODA",
+    "arrivalTimeEndStation": "09:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

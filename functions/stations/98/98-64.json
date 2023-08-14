@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "GALABODA",
+    "arrivalTimeEndStation": "14:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "16:43:00",
+    "depatureTime": "16:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "GALABODA",
+    "arrivalTimeFinalStation": "17:10:00",
+    "endStationName": "GALABODA",
+    "arrivalTimeEndStation": "17:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "1139"
+  }
+]

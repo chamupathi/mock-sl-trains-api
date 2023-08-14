@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "04:21:00",
+    "depatureTime": "04:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "MANUWANGAMA",
+    "arrivalTimeEndStation": "07:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:05:00",
+    "depatureTime": "08:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "MANUWANGAMA",
+    "arrivalTimeEndStation": "11:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "12:26:00",
+    "depatureTime": "12:27:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "MANUWANGAMA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3417"
+  }
+]

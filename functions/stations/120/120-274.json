@@ -1,0 +1,133 @@
+[
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "02:03:00",
+    "depatureTime": "02:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "03:13:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "03:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1511"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "06:55:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "11:21:00",
+    "depatureTime": "11:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "12:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "14:55:00",
+    "depatureTime": "14:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1544"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "16:06:00",
+    "depatureTime": "16:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "17:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "18:57:00",
+    "depatureTime": "19:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1583"
+  }
+]

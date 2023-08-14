@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GANGODA",
+    "arrivalTime": "14:41:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "18:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

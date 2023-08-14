@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "HEENDENIYA",
+    "arrivalTime": "10:03:00",
+    "depatureTime": "10:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "HEENDENIYA",
+    "arrivalTime": "17:29:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4468"
+  }
+]

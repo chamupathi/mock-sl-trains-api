@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "SEVANAPITIYA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "08:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "SEVANAPITIYA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "13:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

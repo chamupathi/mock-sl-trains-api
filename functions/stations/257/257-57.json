@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "03:45:00",
+    "depatureTime": "03:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "13:24:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1126"
+  }
+]

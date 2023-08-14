@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MUNDAL",
+    "arrivalTime": "05:06:00",
+    "depatureTime": "05:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "MUNDAL",
+    "arrivalTime": "10:32:00",
+    "depatureTime": "10:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "11:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "MUNDAL",
+    "arrivalTime": "14:09:00",
+    "depatureTime": "14:12:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "15:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "MUNDAL",
+    "arrivalTime": "17:22:00",
+    "depatureTime": "17:23:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

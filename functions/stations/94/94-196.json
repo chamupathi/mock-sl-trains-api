@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "06:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "15:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

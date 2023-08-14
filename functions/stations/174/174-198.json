@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "MADURANKULIYA",
+    "arrivalTime": "07:59:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "NOORANAGAR",
+    "arrivalTimeEndStation": "08:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "MADURANKULIYA",
+    "arrivalTime": "15:36:00",
+    "depatureTime": "15:37:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "NOORANAGAR",
+    "arrivalTimeEndStation": "16:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3417"
+  }
+]

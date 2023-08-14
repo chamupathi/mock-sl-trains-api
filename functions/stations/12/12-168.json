@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "ANURADHAPURA",
+    "arrivalTime": "05:15:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "working days only",
+    "trainName": "5",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "06:00:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "05:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "5"
+  },
+  {
+    "startStationName": "ANURADHAPURA",
+    "arrivalTime": "13:44:00",
+    "depatureTime": "13:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "9",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "13:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9"
+  },
+  {
+    "startStationName": "ANURADHAPURA",
+    "arrivalTime": "17:00:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "11",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "17:46:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "17:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "11"
+  },
+  {
+    "startStationName": "ANURADHAPURA",
+    "arrivalTime": "17:00:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "17:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

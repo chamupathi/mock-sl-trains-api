@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "BUTHGAMUWA",
+    "arrivalTime": "10:46:00",
+    "depatureTime": "10:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "BUTHGAMUWA",
+    "arrivalTime": "17:58:00",
+    "depatureTime": "17:59:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4468"
+  },
+  {
+    "startStationName": "BUTHGAMUWA",
+    "arrivalTime": "18:49:00",
+    "depatureTime": "18:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

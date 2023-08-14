@@ -1,0 +1,89 @@
+[
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "02:37:00",
+    "depatureTime": "02:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night mail",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "03:55:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "03:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6079"
+  },
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "11:33:00",
+    "depatureTime": "11:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "12:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "13:35:00",
+    "depatureTime": "13:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "20:48:00",
+    "depatureTime": "20:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "21:52:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "21:13:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6075"
+  }
+]

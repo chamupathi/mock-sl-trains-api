@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "19:32:00",
+    "depatureTime": "19:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night mail",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "03:55:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "02:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "420.00"
+      }
+    ],
+    "trainNo": "6079"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "08:02:00",
+    "depatureTime": "08:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "380.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

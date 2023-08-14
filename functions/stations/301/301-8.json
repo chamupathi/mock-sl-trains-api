@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "WALGAMA",
+    "arrivalTime": "06:16:00",
+    "depatureTime": "06:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "08:23:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "WALGAMA",
+    "arrivalTime": "14:09:00",
+    "depatureTime": "14:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "16:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

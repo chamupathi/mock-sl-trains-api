@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "17:38:00",
+    "depatureTime": "17:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "19:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8760"
+  }
+]

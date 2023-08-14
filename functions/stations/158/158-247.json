@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "LAKSAUYANA",
+    "arrivalTime": "14:28:00",
+    "depatureTime": "14:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "RANAMUGGAMUWA",
+    "arrivalTimeEndStation": "18:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

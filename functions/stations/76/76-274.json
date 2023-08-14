@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "09:27:00",
+    "depatureTime": "09:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "TISMALPOLA",
+    "arrivalTimeEndStation": "12:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

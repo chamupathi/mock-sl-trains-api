@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KILINOCHCHI",
+    "arrivalTime": "07:56:00",
+    "depatureTime": "07:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "PULIYANKULAM",
+    "arrivalTimeEndStation": "08:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4880"
+  }
+]

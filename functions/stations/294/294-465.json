@@ -1,0 +1,154 @@
+[
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "05:26:00",
+    "depatureTime": "05:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "05:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "07:07:00",
+    "depatureTime": "07:08:00",
+    "trainFrequncy": "Not Saturdays & Not Mondays",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "07:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2027"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "09:00:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "2630",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:37:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "09:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2630"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "-",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:55:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "09:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2640"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "10:56:00",
+    "depatureTime": "11:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "11:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "14:31:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "14:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "18:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "18:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "WATTEGAMA",
+    "arrivalTime": "19:41:00",
+    "depatureTime": "19:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "PALLE TALAVINNA",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

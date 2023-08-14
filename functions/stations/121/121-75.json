@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "09:55:00",
+    "depatureTime": "09:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "13:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

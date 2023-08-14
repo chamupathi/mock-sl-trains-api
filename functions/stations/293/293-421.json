@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "06:23:00",
+    "depatureTime": "06:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "MEDDEGAMA",
+    "arrivalTimeEndStation": "06:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "12:13:00",
+    "depatureTime": "12:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "MEDDEGAMA",
+    "arrivalTimeEndStation": "12:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "15:06:00",
+    "depatureTime": "15:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "MEDDEGAMA",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "17:04:00",
+    "depatureTime": "18:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "MEDDEGAMA",
+    "arrivalTimeEndStation": "18:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

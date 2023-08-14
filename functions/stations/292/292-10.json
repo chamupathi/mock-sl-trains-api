@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "WADDUWA",
+    "arrivalTime": "10:32:00",
+    "depatureTime": "10:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "ANDADOLA",
+    "arrivalTimeEndStation": "13:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "WADDUWA",
+    "arrivalTime": "20:21:00",
+    "depatureTime": "20:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "ANDADOLA",
+    "arrivalTimeEndStation": "22:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

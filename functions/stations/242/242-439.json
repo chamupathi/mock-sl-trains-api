@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "03:19:00",
+    "depatureTime": "03:20:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "RICHMOND HILL",
+    "arrivalTime": "05:19:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

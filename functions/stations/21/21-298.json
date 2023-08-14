@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "07:15:00",
+    "depatureTime": "07:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "11:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "10:10:00",
+    "depatureTime": "10:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

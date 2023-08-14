@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "10:29:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "12:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "KALAWEWA",
+    "arrivalTime": "22:21:00",
+    "depatureTime": "22:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "00:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

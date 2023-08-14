@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "08:30:00",
+    "depatureTime": "08:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "TALAWA",
+    "arrivalTimeEndStation": "10:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "15:32:00",
+    "depatureTime": "15:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "TALAWA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

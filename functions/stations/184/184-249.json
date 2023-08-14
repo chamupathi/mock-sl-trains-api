@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "10:12:00",
+    "depatureTime": "10:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "RATHGAMA",
+    "arrivalTimeEndStation": "14:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "RATHGAMA",
+    "arrivalTime": "03:35:00",
+    "depatureTime": "03:36:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "05:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "RATHGAMA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "RATHGAMA",
+    "arrivalTime": "09:16:00",
+    "depatureTime": "09:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "MAGGONA",
+    "arrivalTimeEndStation": "11:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

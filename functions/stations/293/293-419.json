@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "09:14:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "PORAPOLA",
+    "arrivalTimeEndStation": "09:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "PORAPOLA",
+    "arrivalTimeEndStation": "14:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "PORAPOLA",
+    "arrivalTimeEndStation": "14:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4455"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:09:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "PORAPOLA",
+    "arrivalTimeEndStation": "19:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4467"
+  }
+]

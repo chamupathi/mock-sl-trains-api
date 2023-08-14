@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "05:37:00",
+    "depatureTime": "05:38:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "JA-ELA",
+    "arrivalTimeEndStation": "07:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "11:03:00",
+    "depatureTime": "11:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "JA-ELA",
+    "arrivalTimeEndStation": "13:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "14:57:00",
+    "depatureTime": "14:58:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "JA-ELA",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "17:53:00",
+    "depatureTime": "17:54:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "JA-ELA",
+    "arrivalTimeEndStation": "20:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "11:29:00",
+    "depatureTime": "11:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "17:06:00",
+    "depatureTime": "17:07:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "17:16:00",
+    "depatureTime": "17:17:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "18:36:00",
+    "depatureTime": "18:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "18:53:00",
+    "depatureTime": "18:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "20:19:00",
+    "depatureTime": "20:20:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "21:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8780"
+  }
+]

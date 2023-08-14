@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ERAVUR",
+    "arrivalTime": "06:27:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "12:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

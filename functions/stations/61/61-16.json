@@ -1,0 +1,96 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ARUKKUWATTE",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:50:00",
+    "depatureTime": "16:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "ARUKKUWATTE",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ARUKKUWATTE",
+    "arrivalTimeEndStation": "19:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:30:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "ARUKKUWATTE",
+    "arrivalTimeEndStation": "20:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:00:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "ARUKKUWATTE",
+    "arrivalTimeEndStation": "21:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

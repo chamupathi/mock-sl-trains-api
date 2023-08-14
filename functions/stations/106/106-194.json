@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "JAYANTHIPURA",
+    "arrivalTime": "14:33:00",
+    "depatureTime": "14:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "NEGAMA",
+    "arrivalTimeEndStation": "17:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

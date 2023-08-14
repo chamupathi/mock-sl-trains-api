@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KUMARAKANDA",
+    "arrivalTime": "03:42:00",
+    "depatureTime": "03:43:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "KUMARAKANDA",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

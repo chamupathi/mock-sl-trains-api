@@ -1,0 +1,198 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:10:00",
+    "depatureTime": "06:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:39:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "08:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "11:33:00",
+    "depatureTime": "11:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "13:45:00",
+    "depatureTime": "13:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "15:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "15:32:00",
+    "depatureTime": "15:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "16:44:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4078"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "23:25:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "01:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

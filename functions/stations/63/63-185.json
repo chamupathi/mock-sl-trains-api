@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GANEMULLA",
+    "arrivalTime": "18:41:00",
+    "depatureTime": "18:42:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

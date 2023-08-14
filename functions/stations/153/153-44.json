@@ -1,0 +1,230 @@
+[
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "07:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "08:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "10:47:00",
+    "depatureTime": "10:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "11:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "11:47:00",
+    "depatureTime": "11:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "12:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "14:17:00",
+    "depatureTime": "14:18:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "16:36:00",
+    "depatureTime": "16:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "17:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "18:27:00",
+    "depatureTime": "18:28:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "18:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3424"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "18:55:00",
+    "depatureTime": "18:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "19:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "19:20:00",
+    "depatureTime": "19:21:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "19:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3425"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "20:23:00",
+    "depatureTime": "20:24:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "20:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "21:17:00",
+    "depatureTime": "21:18:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "21:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "KUDA WAWA",
+    "arrivalTime": "22:32:00",
+    "depatureTime": "22:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "CHILAW",
+    "arrivalTimeEndStation": "22:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "18:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

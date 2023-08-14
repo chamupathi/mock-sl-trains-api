@@ -1,0 +1,136 @@
+[
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "05:01:00",
+    "depatureTime": "05:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "07:26:00",
+    "depatureTime": "07:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "08:21:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "08:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2236"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "10:47:00",
+    "depatureTime": "10:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "11:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2237"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2019"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "14:25:00",
+    "depatureTime": "14:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "18:49:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2243"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "19:21:00",
+    "depatureTime": "19:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "20:22:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "20:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2244"
+  }
+]

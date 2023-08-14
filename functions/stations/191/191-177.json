@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "00:19:00",
+    "depatureTime": "00:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "MOLLIPATANA",
+    "arrivalTimeEndStation": "04:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

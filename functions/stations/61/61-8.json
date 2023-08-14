@@ -1,0 +1,351 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "08:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:35:00",
+    "depatureTime": "08:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "09:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "11:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "11:14:00",
+    "depatureTime": "11:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "15:45:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:44:00",
+    "depatureTime": "15:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "RUHUNU KUMARI",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "18:21:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "16:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8058"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:44:00",
+    "depatureTime": "16:46:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:49:00",
+    "depatureTime": "16:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:59:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:29:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "18:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:50:00",
+    "depatureTime": "17:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "19:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:17:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "19:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8766"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "21:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8775"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:04:00",
+    "depatureTime": "20:05:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "21:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8780"
+  }
+]

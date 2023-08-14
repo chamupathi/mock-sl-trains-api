@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "KITAL ELLE",
+    "arrivalTime": "06:48:00",
+    "depatureTime": "06:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "13:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "KITAL ELLE",
+    "arrivalTime": "12:12:00",
+    "depatureTime": "12:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

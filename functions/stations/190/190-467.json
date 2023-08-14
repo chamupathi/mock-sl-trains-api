@@ -1,0 +1,154 @@
+[
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "05:57:00",
+    "depatureTime": "05:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "06:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "07:40:00",
+    "depatureTime": "07:41:00",
+    "trainFrequncy": "Not Saturdays & Not Mondays",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "07:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2027"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "09:30:00",
+    "depatureTime": "09:31:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "2630",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:37:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "09:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2630"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "09:48:00",
+    "depatureTime": "09:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "-",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:55:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "09:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2640"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "11:36:00",
+    "depatureTime": "11:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "11:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "15:10:00",
+    "depatureTime": "15:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "15:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "18:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "20:13:00",
+    "depatureTime": "20:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

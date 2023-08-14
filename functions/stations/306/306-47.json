@@ -1,0 +1,781 @@
+[
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "05:20:00",
+    "depatureTime": "05:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "05:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "05:35:00",
+    "depatureTime": "05:36:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "05:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "06:11:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "06:15:00",
+    "depatureTime": "06:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "06:15:00",
+    "depatureTime": "06:16:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "06:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "07:38:00",
+    "depatureTime": "07:39:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:56:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "07:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1530"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:05:00",
+    "depatureTime": "08:06:00",
+    "trainFrequncy": "WEEKDAYS & NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:23:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1534"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:10:00",
+    "depatureTime": "08:11:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1529"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:14:00",
+    "depatureTime": "08:15:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:30:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1542"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:44:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "08:52:00",
+    "depatureTime": "08:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "09:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "09:34:00",
+    "depatureTime": "09:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "09:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "10:14:00",
+    "depatureTime": "10:15:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "1547",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:31:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "10:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1547"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "10:45:00",
+    "depatureTime": "10:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "11:25:00",
+    "depatureTime": "11:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:42:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "11:28:00",
+    "depatureTime": "11:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "11:30:00",
+    "depatureTime": "11:31:00",
+    "trainFrequncy": "MONDAYS ONLY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:47:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "11:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "12:04:00",
+    "depatureTime": "12:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "12:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "13:13:00",
+    "depatureTime": "13:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "13:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "14:06:00",
+    "depatureTime": "14:07:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "14:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "14:53:00",
+    "depatureTime": "14:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "14:53:00",
+    "depatureTime": "14:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "15:03:00",
+    "depatureTime": "15:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "15:38:00",
+    "depatureTime": "15:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "15:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "16:27:00",
+    "depatureTime": "16:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "16:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:03:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "17:14:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1595"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "17:13:00",
+    "depatureTime": "17:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "17:49:00",
+    "depatureTime": "17:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "17:57:00",
+    "depatureTime": "17:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "18:18:00",
+    "depatureTime": "18:19:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "18:38:00",
+    "depatureTime": "18:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "19:01:00",
+    "depatureTime": "19:02:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "19:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "19:53:00",
+    "depatureTime": "19:54:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "20:17:00",
+    "depatureTime": "20:18:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:35:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3830"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "20:49:00",
+    "depatureTime": "20:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:07:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "20:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1584"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "21:32:00",
+    "depatureTime": "21:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "21:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "22:16:00",
+    "depatureTime": "22:17:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:33:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "22:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1589"
+  },
+  {
+    "startStationName": "WANAWASALA",
+    "arrivalTime": "23:00:00",
+    "depatureTime": "23:01:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "23:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

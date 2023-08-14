@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "20:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4467"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "09:33:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "10:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:34:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "15:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "DEWEDDA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "16:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4455"
+  }
+]

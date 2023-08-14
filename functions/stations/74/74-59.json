@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "00:30:00",
+    "depatureTime": "00:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night mail",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "03:55:00",
+    "endStationName": "ERAVUR",
+    "arrivalTimeEndStation": "03:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6079"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "08:39:00",
+    "depatureTime": "09:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "ERAVUR",
+    "arrivalTimeEndStation": "12:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "11:36:00",
+    "depatureTime": "11:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "ERAVUR",
+    "arrivalTimeEndStation": "14:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

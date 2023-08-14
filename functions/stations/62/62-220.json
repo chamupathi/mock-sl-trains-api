@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GALLELLA",
+    "arrivalTime": "13:48:00",
+    "depatureTime": "13:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "POLONNARUWA",
+    "arrivalTimeEndStation": "13:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:02:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "19:07:00",
+    "depatureTime": "19:08:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "9264"
+  }
+]

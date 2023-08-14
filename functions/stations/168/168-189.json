@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MIHINTALE JUNCTION",
+    "arrivalTime": "05:19:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "working days only",
+    "trainName": "5",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "06:00:00",
+    "endStationName": "MEDAWACHCHIYA",
+    "arrivalTimeEndStation": "06:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5"
+  },
+  {
+    "startStationName": "MIHINTALE JUNCTION",
+    "arrivalTime": "13:49:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "9",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MEDAWACHCHIYA",
+    "arrivalTimeEndStation": "14:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9"
+  },
+  {
+    "startStationName": "MIHINTALE JUNCTION",
+    "arrivalTime": "17:04:00",
+    "depatureTime": "17:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "11",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "17:46:00",
+    "endStationName": "MEDAWACHCHIYA",
+    "arrivalTimeEndStation": "17:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "11"
+  },
+  {
+    "startStationName": "MIHINTALE JUNCTION",
+    "arrivalTime": "17:04:00",
+    "depatureTime": "17:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "MEDAWACHCHIYA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

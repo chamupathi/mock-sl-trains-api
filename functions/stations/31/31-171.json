@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "BALANA",
+    "arrivalTime": "11:30:00",
+    "depatureTime": "11:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "13:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "BALANA",
+    "arrivalTime": "16:15:00",
+    "depatureTime": "16:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "BALANA",
+    "arrivalTime": "17:50:00",
+    "depatureTime": "17:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

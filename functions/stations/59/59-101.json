@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ERAVUR",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "IHALAGAMA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

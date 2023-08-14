@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "07:58:00",
+    "depatureTime": "07:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "10:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "23:35:00",
+    "depatureTime": "23:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "02:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "TRAIN HALT 01",
+    "arrivalTimeEndStation": "05:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "07:05:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "TRAIN HALT 01",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

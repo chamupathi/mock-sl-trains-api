@@ -1,0 +1,77 @@
+[
+  {
+    "startStationName": "KITAL ELLE",
+    "arrivalTime": "06:48:00",
+    "depatureTime": "06:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:41:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "KITAL ELLE",
+    "arrivalTime": "11:17:00",
+    "depatureTime": "11:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "KITAL ELLE",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "05:12:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "02:20:00",
+    "depatureTime": "02:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "IDALGASINNA",
+    "arrivalTimeEndStation": "05:11:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "IDALGASINNA",
+    "arrivalTimeEndStation": "11:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "11:39:00",
+    "depatureTime": "11:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "IDALGASINNA",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "13:19:00",
+    "depatureTime": "13:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "IDALGASINNA",
+    "arrivalTimeEndStation": "15:47:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "HATTON",
+    "arrivalTime": "14:36:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "IDALGASINNA",
+    "arrivalTimeEndStation": "17:17:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

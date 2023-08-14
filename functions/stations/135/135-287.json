@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KONWEWA",
+    "arrivalTime": "11:16:00",
+    "depatureTime": "11:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "14:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "KONWEWA",
+    "arrivalTime": "23:06:00",
+    "depatureTime": "23:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "02:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

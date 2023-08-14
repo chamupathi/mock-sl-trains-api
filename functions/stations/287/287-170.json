@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "08:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "09:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "14:06:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "16:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "22:18:00",
+    "depatureTime": "22:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "00:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

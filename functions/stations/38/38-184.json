@@ -1,0 +1,82 @@
+[
+  {
+    "startStationName": "BOOSSA",
+    "arrivalTime": "03:30:00",
+    "depatureTime": "03:31:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "06:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BOOSSA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "09:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "BOOSSA",
+    "arrivalTime": "06:02:00",
+    "depatureTime": "06:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "BOOSSA",
+    "arrivalTime": "09:06:00",
+    "depatureTime": "09:12:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "12:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

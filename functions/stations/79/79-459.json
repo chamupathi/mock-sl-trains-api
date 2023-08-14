@@ -1,0 +1,77 @@
+[
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "08:40:00",
+    "depatureTime": "08:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "PERAKUMPURA",
+    "arrivalTimeEndStation": "09:36:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "12:46:00",
+    "depatureTime": "12:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "PERAKUMPURA",
+    "arrivalTimeEndStation": "13:21:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "14:13:00",
+    "depatureTime": "14:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "PERAKUMPURA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1015"
+  }
+]

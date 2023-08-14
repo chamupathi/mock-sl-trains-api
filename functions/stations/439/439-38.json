@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "BOOSSA",
+    "arrivalTimeEndStation": "14:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8788"
+  }
+]

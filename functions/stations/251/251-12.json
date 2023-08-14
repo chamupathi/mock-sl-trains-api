@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "SALIYAPURA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "working days only",
+    "trainName": "6",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "ANURADHAPURA",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6"
+  },
+  {
+    "startStationName": "SALIYAPURA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5846",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "08:15:00",
+    "endStationName": "ANURADHAPURA",
+    "arrivalTimeEndStation": "08:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "5846"
+  },
+  {
+    "startStationName": "SALIYAPURA",
+    "arrivalTime": "15:20:00",
+    "depatureTime": "15:21:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "10",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:31:00",
+    "endStationName": "ANURADHAPURA",
+    "arrivalTimeEndStation": "15:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "10"
+  },
+  {
+    "startStationName": "SALIYAPURA",
+    "arrivalTime": "18:28:00",
+    "depatureTime": "18:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "12",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:40:00",
+    "endStationName": "ANURADHAPURA",
+    "arrivalTimeEndStation": "18:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "12"
+  }
+]

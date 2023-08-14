@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "DARALUWA",
+    "arrivalTime": "09:52:00",
+    "depatureTime": "09:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4141"
+  }
+]

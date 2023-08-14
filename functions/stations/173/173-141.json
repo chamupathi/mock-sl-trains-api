@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MINNERIYA",
+    "arrivalTime": "14:59:00",
+    "depatureTime": "15:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "16:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

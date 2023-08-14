@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "NAILIYA",
+    "arrivalTime": "06:42:00",
+    "depatureTime": "06:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "ADAGALA",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4448"
+  }
+]

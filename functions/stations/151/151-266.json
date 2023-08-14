@@ -1,0 +1,208 @@
+[
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "05:14:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "06:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "06:54:00",
+    "depatureTime": "06:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "07:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "09:18:00",
+    "depatureTime": "09:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "10:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "10:49:00",
+    "depatureTime": "10:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "11:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "13:19:00",
+    "depatureTime": "13:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "14:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "14:24:00",
+    "depatureTime": "14:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "15:38:00",
+    "depatureTime": "15:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "16:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "18:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "19:21:00",
+    "depatureTime": "19:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "20:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "20:19:00",
+    "depatureTime": "20:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "21:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "KURANA",
+    "arrivalTime": "21:34:00",
+    "depatureTime": "21:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "TUMMODARA",
+    "arrivalTimeEndStation": "22:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

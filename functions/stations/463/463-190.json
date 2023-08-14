@@ -1,0 +1,122 @@
+[
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "05:19:00",
+    "depatureTime": "05:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "05:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "07:03:00",
+    "depatureTime": "07:04:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "07:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "10:49:00",
+    "depatureTime": "10:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "11:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "14:24:00",
+    "depatureTime": "14:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "17:44:00",
+    "depatureTime": "17:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "YATAWARA",
+    "arrivalTime": "19:34:00",
+    "depatureTime": "19:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "20:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

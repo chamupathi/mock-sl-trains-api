@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KALUTARA NORTH",
+    "arrivalTime": "07:49:00",
+    "depatureTime": "07:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WALGAMA",
+    "arrivalTimeEndStation": "10:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

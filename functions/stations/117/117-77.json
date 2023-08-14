@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "10:13:00",
+    "depatureTime": "10:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "KEENAWALA",
+    "arrivalTime": "18:14:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "19:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

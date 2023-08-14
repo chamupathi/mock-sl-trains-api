@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "05:41:00",
+    "depatureTime": "05:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MIRISSA",
+    "arrivalTimeEndStation": "06:25:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "80.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "MIRISSA",
+    "arrivalTimeEndStation": "07:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8338"
+  },
+  {
+    "startStationName": "BAMBARENDA",
+    "arrivalTime": "09:02:00",
+    "depatureTime": "09:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "MIRISSA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

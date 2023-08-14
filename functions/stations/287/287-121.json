@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "13:25:00",
+    "depatureTime": "13:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

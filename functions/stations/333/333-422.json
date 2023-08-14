@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "KILINOCHCHI",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "KONDAVIL",
+    "arrivalTimeEndStation": "11:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "KILINOCHCHI",
+    "arrivalTime": "16:41:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KONDAVIL",
+    "arrivalTimeEndStation": "18:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

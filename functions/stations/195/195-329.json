@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "16:46:00",
+    "depatureTime": "16:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "NARAHENPITA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "ALUTH AMBALAMA",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "9264"
+  }
+]

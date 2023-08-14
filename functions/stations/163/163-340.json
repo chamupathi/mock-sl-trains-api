@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:48:00",
+    "trainFrequncy": "working days only",
+    "trainName": "5",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "06:00:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "05:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5"
+  },
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "14:17:00",
+    "depatureTime": "14:18:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "9",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "14:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9"
+  },
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "17:33:00",
+    "depatureTime": "17:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "11",
+    "finalStationName": "MEDAWACHCHIYA",
+    "arrivalTimeFinalStation": "17:46:00",
+    "endStationName": "VIRALMURIPPUWA",
+    "arrivalTimeEndStation": "17:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "11"
+  }
+]

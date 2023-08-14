@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KADUGANNAWA",
+    "arrivalTimeEndStation": "23:15:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "13:55:00",
+    "endStationName": "KADUGANNAWA",
+    "arrivalTimeEndStation": "13:06:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:42:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "KADUGANNAWA",
+    "arrivalTimeEndStation": "13:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

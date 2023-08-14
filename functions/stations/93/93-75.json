@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "08:52:00",
+    "depatureTime": "08:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "14:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "380.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "22:48:00",
+    "depatureTime": "22:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "04:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "380.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

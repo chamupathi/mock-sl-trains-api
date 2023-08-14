@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MEESALAI",
+    "arrivalTime": "10:52:00",
+    "depatureTime": "10:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "MALLAKAM",
+    "arrivalTimeEndStation": "11:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "MEESALAI",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "MALLAKAM",
+    "arrivalTimeEndStation": "18:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

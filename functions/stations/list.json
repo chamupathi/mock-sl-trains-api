@@ -1,0 +1,2058 @@
+[
+	{
+		"id": "3",
+		"key": "ABAN",
+		"text": "ABANPOLA"
+	},
+	{
+		"id": "410",
+		"key": "ADAG",
+		"text": "ADAGALA"
+	},
+	{
+		"id": "13",
+		"key": "AGBO",
+		"text": "AGBOPURA"
+	},
+	{
+		"id": "11",
+		"key": "AHAN",
+		"text": "AHANGAMA"
+	},
+	{
+		"id": "18",
+		"key": "AHUN",
+		"text": "AHUNGALLE"
+	},
+	{
+		"id": "7",
+		"key": "AKUR",
+		"text": "AKURALA"
+	},
+	{
+		"id": "22",
+		"key": "ALAW",
+		"text": "ALAWATUPITIYA"
+	},
+	{
+		"id": "9",
+		"key": "ALAW",
+		"text": "ALAWWA"
+	},
+	{
+		"id": "329",
+		"key": "ALUT",
+		"text": "ALUTH AMBALAMA"
+	},
+	{
+		"id": "8",
+		"key": "ALUT",
+		"text": "ALUTHGAMA"
+	},
+	{
+		"id": "1",
+		"key": "AMBA",
+		"text": "AMBALANGODA"
+	},
+	{
+		"id": "2",
+		"key": "AMBE",
+		"text": "AMBEWELA"
+	},
+	{
+		"id": "14",
+		"key": "AMBE",
+		"text": "AMBEYPUSSA"
+	},
+	{
+		"id": "19",
+		"key": "ANAW",
+		"text": "ANAWILUNDAWA"
+	},
+	{
+		"id": "10",
+		"key": "ANDA",
+		"text": "ANDADOLA"
+	},
+	{
+		"id": "5",
+		"key": "ANGA",
+		"text": "ANGAMPITIYA"
+	},
+	{
+		"id": "4",
+		"key": "ANGU",
+		"text": "ANGULANA"
+	},
+	{
+		"id": "12",
+		"key": "ANUR",
+		"text": "ANURADHAPURA"
+	},
+	{
+		"id": "15",
+		"key": "ANUR",
+		"text": "ANURADHAPURA TOWN"
+	},
+	{
+		"id": "6",
+		"key": "ARAC",
+		"text": "ARACHCHIKATTUWA"
+	},
+	{
+		"id": "343",
+		"key": "ARAP",
+		"text": "ARAPATHGAMA"
+	},
+	{
+		"id": "483",
+		"key": "Ariv",
+		"text": "Arivial Nagar"
+	},
+	{
+		"id": "16",
+		"key": "ARUK",
+		"text": "ARUKKUWATTE"
+	},
+	{
+		"id": "17",
+		"key": "ASEL",
+		"text": "ASELAPURA"
+	},
+	{
+		"id": "467",
+		"key": "ASGI",
+		"text": "ASGIRIYA"
+	},
+	{
+		"id": "21",
+		"key": "AUKA",
+		"text": "AUKANA"
+	},
+	{
+		"id": "20",
+		"key": "AVIS",
+		"text": "AVISSAWELLA"
+	},
+	{
+		"id": "23",
+		"key": "BADU",
+		"text": "BADULLA"
+	},
+	{
+		"id": "31",
+		"key": "BALA",
+		"text": "BALANA"
+	},
+	{
+		"id": "34",
+		"key": "BALA",
+		"text": "BALAPITIYA"
+	},
+	{
+		"id": "35",
+		"key": "BAMB",
+		"text": "BAMBALAPITIYA"
+	},
+	{
+		"id": "488",
+		"key": "BAMB",
+		"text": "BAMBARENDA"
+	},
+	{
+		"id": "25",
+		"key": "BAND",
+		"text": "BANDARAWELA"
+	},
+	{
+		"id": "475",
+		"key": "Band",
+		"text": "Bandirippuwa",
+		"deactivated": true
+	},
+	{
+		"id": "28",
+		"key": "BANG",
+		"text": "BANGADENIYA"
+	},
+	{
+		"id": "39",
+		"key": "BASE",
+		"text": "BASELINE ROAD"
+	},
+	{
+		"id": "33",
+		"key": "BATT",
+		"text": "BATTALUOYA"
+	},
+	{
+		"id": "24",
+		"key": "BATT",
+		"text": "BATTICALOA"
+	},
+	{
+		"id": "41",
+		"key": "BATU",
+		"text": "BATUWATTE"
+	},
+	{
+		"id": "490",
+		"key": "BELI",
+		"text": "BELIATHTHA"
+	},
+	{
+		"id": "26",
+		"key": "BEMM",
+		"text": "BEMMULLA"
+	},
+	{
+		"id": "32",
+		"key": "BENT",
+		"text": "BENTOTA"
+	},
+	{
+		"id": "36",
+		"key": "BERU",
+		"text": "BERUWALA"
+	},
+	{
+		"id": "30",
+		"key": "BOLA",
+		"text": "BOLAWATTE"
+	},
+	{
+		"id": "38",
+		"key": "BOOS",
+		"text": "BOOSSA"
+	},
+	{
+		"id": "37",
+		"key": "BORE",
+		"text": "BORELESSA"
+	},
+	{
+		"id": "40",
+		"key": "BOTA",
+		"text": "BOTALE"
+	},
+	{
+		"id": "27",
+		"key": "BULU",
+		"text": "BULUGAHAGODA"
+	},
+	{
+		"id": "29",
+		"key": "BUTH",
+		"text": "BUTHGAMUWA"
+	},
+	{
+		"id": "398",
+		"key": "CHAV",
+		"text": "CHAVAKACHCHERI"
+	},
+	{
+		"id": "371",
+		"key": "CHED",
+		"text": "CHEDDIIKULAM"
+	},
+	{
+		"id": "44",
+		"key": "CHIL",
+		"text": "CHILAW"
+	},
+	{
+		"id": "43",
+		"key": "CHIN",
+		"text": "CHINA BEY"
+	},
+	{
+		"id": "423",
+		"key": "CHUN",
+		"text": "CHUNNAKAM"
+	},
+	{
+		"id": "61",
+		"key": "COLO",
+		"text": "COLOMBO FORT"
+	},
+	{
+		"id": "46",
+		"key": "COTT",
+		"text": "COTTA ROAD"
+	},
+	{
+		"id": "53",
+		"key": "DARA",
+		"text": "DARALUWA"
+	},
+	{
+		"id": "54",
+		"key": "DEHI",
+		"text": "DEHIWALA"
+	},
+	{
+		"id": "337",
+		"key": "Deki",
+		"text": "Dekinda"
+	},
+	{
+		"id": "47",
+		"key": "DEMA",
+		"text": "DEMATAGODA"
+	},
+	{
+		"id": "48",
+		"key": "DEMO",
+		"text": "DEMODARA"
+	},
+	{
+		"id": "52",
+		"key": "DEWA",
+		"text": "DEWAPURAM"
+	},
+	{
+		"id": "417",
+		"key": "DEWE",
+		"text": "DEWEDDA"
+	},
+	{
+		"id": "50",
+		"key": "DIYA",
+		"text": "DIYATALAWA"
+	},
+	{
+		"id": "51",
+		"key": "DODA",
+		"text": "DODANDUWA"
+	},
+	{
+		"id": "60",
+		"key": "EGOD",
+		"text": "EGODA UYANA"
+	},
+	{
+		"id": "395",
+		"key": "ELIP",
+		"text": "ELIPHANT PASS"
+	},
+	{
+		"id": "57",
+		"key": "ELLE",
+		"text": "ELLE"
+	},
+	{
+		"id": "401",
+		"key": "ELUT",
+		"text": "ELUTHUMATTUVAL"
+	},
+	{
+		"id": "341",
+		"key": "ELWA",
+		"text": "ELWALA"
+	},
+	{
+		"id": "55",
+		"key": "ENDE",
+		"text": "ENDERAMULLA"
+	},
+	{
+		"id": "56",
+		"key": "ERAT",
+		"text": "ERATTAPERIYAKULAM",
+		"deactivated": true
+	},
+	{
+		"id": "59",
+		"key": "ERAV",
+		"text": "ERAVUR"
+	},
+	{
+		"id": "58",
+		"key": "ERUK",
+		"text": "ERUKKALAM PENDU"
+	},
+	{
+		"id": "104",
+		"key": "FREE",
+		"text": "FREE TRADE ZONE"
+	},
+	{
+		"id": "64",
+		"key": "GALA",
+		"text": "GALABODA"
+	},
+	{
+		"id": "69",
+		"key": "GALG",
+		"text": "GALGAMUWA"
+	},
+	{
+		"id": "68",
+		"key": "GALL",
+		"text": "GALLE"
+	},
+	{
+		"id": "62",
+		"key": "GALL",
+		"text": "GALLELLA"
+	},
+	{
+		"id": "74",
+		"key": "GALO",
+		"text": "GALOYA JUNCTION"
+	},
+	{
+		"id": "70",
+		"key": "GAMM",
+		"text": "GAMMANA"
+	},
+	{
+		"id": "75",
+		"key": "GAMP",
+		"text": "GAMPAHA"
+	},
+	{
+		"id": "76",
+		"key": "GAMP",
+		"text": "GAMPOLA"
+	},
+	{
+		"id": "71",
+		"key": "GANE",
+		"text": "GANEGODA"
+	},
+	{
+		"id": "63",
+		"key": "GANE",
+		"text": "GANEMULLA"
+	},
+	{
+		"id": "73",
+		"key": "GANE",
+		"text": "GANEWATTE"
+	},
+	{
+		"id": "479",
+		"key": "Gang",
+		"text": "Gangathilaka",
+		"deactivated": true
+	},
+	{
+		"id": "65",
+		"key": "GANG",
+		"text": "GANGODA"
+	},
+	{
+		"id": "440",
+		"key": "GANT",
+		"text": "GANTALAWA"
+	},
+	{
+		"id": "66",
+		"key": "GELI",
+		"text": "GELIOYA"
+	},
+	{
+		"id": "72",
+		"key": "GINT",
+		"text": "GINTHOTA"
+	},
+	{
+		"id": "77",
+		"key": "GIRA",
+		"text": "GIRAMBE"
+	},
+	{
+		"id": "67",
+		"key": "GODA",
+		"text": "GODAGAMA"
+	},
+	{
+		"id": "79",
+		"key": "GREA",
+		"text": "GREAT WESTERN"
+	},
+	{
+		"id": "81",
+		"key": "HABA",
+		"text": "HABARADUWA"
+	},
+	{
+		"id": "82",
+		"key": "HABA",
+		"text": "HABARANA"
+	},
+	{
+		"id": "456",
+		"key": "Hadi",
+		"text": "Hadiriwalana"
+	},
+	{
+		"id": "84",
+		"key": "HALI",
+		"text": "HALIELA"
+	},
+	{
+		"id": "92",
+		"key": "HAPU",
+		"text": "HAPUTALE"
+	},
+	{
+		"id": "80",
+		"key": "HATA",
+		"text": "HATAMUNA"
+	},
+	{
+		"id": "87",
+		"key": "HATA",
+		"text": "HATARAS KOTUWA"
+	},
+	{
+		"id": "96",
+		"key": "HATT",
+		"text": "HATTON"
+	},
+	{
+		"id": "89",
+		"key": "HEEL",
+		"text": "HEEL OYA"
+	},
+	{
+		"id": "83",
+		"key": "HEEN",
+		"text": "HEENDENIYA"
+	},
+	{
+		"id": "91",
+		"key": "HETT",
+		"text": "HETTIMULLA"
+	},
+	{
+		"id": "86",
+		"key": "HIKK",
+		"text": "HIKKADUWA"
+	},
+	{
+		"id": "93",
+		"key": "HING",
+		"text": "HINGURAKGODA"
+	},
+	{
+		"id": "444",
+		"key": "HING",
+		"text": "HINGURALA"
+	},
+	{
+		"id": "94",
+		"key": "HIRI",
+		"text": "HIRIYALA"
+	},
+	{
+		"id": "90",
+		"key": "HOMA",
+		"text": "HOMAGAMA"
+	},
+	{
+		"id": "85",
+		"key": "HOMA",
+		"text": "HOMAGAMA HOSPITAL"
+	},
+	{
+		"id": "95",
+		"key": "HORA",
+		"text": "HORAPE"
+	},
+	{
+		"id": "88",
+		"key": "HORI",
+		"text": "HORIWIALA"
+	},
+	{
+		"id": "97",
+		"key": "HUNU",
+		"text": "HUNUPITIYA"
+	},
+	{
+		"id": "98",
+		"key": "HYIN",
+		"text": "HYINPORT"
+	},
+	{
+		"id": "100",
+		"key": "IDAL",
+		"text": "IDALGASINNA"
+	},
+	{
+		"id": "101",
+		"key": "IHAL",
+		"text": "IHALAGAMA"
+	},
+	{
+		"id": "102",
+		"key": "IHAL",
+		"text": "IHALAKOTTE"
+	},
+	{
+		"id": "105",
+		"key": "IHAL",
+		"text": "IHALAWATAWALA"
+	},
+	{
+		"id": "99",
+		"key": "INDU",
+		"text": "INDURUWA"
+	},
+	{
+		"id": "103",
+		"key": "INGU",
+		"text": "INGURUOYA"
+	},
+	{
+		"id": "428",
+		"key": "INUV",
+		"text": "INUVIL"
+	},
+	{
+		"id": "107",
+		"key": "JA-E",
+		"text": "JA-ELA"
+	},
+	{
+		"id": "400",
+		"key": "JAFF",
+		"text": "JAFFNA"
+	},
+	{
+		"id": "106",
+		"key": "JAYA",
+		"text": "JAYANTHIPURA"
+	},
+	{
+		"id": "114",
+		"key": "KADA",
+		"text": "KADADASI NAGAR"
+	},
+	{
+		"id": "128",
+		"key": "KADI",
+		"text": "KADIGAMUWA"
+	},
+	{
+		"id": "120",
+		"key": "KADU",
+		"text": "KADUGANNAWA"
+	},
+	{
+		"id": "113",
+		"key": "KADU",
+		"text": "KADUGODA"
+	},
+	{
+		"id": "480",
+		"key": "Kaha",
+		"text": "Kahatapitiya",
+		"deactivated": true
+	},
+	{
+		"id": "152",
+		"key": "KAHA",
+		"text": "KAHAWA"
+	},
+	{
+		"id": "154",
+		"key": "KAKK",
+		"text": "KAKKAPALLIYA"
+	},
+	{
+		"id": "127",
+		"key": "KALA",
+		"text": "KALAWEWA"
+	},
+	{
+		"id": "123",
+		"key": "KALK",
+		"text": "KALKUDAH"
+	},
+	{
+		"id": "147",
+		"key": "KALU",
+		"text": "KALUTARA NORTH"
+	},
+	{
+		"id": "148",
+		"key": "KALU",
+		"text": "KALUTARA SOUTH"
+	},
+	{
+		"id": "130",
+		"key": "KAMB",
+		"text": "KAMBURUGAMUWA"
+	},
+	{
+		"id": "108",
+		"key": "KAND",
+		"text": "KANDANA"
+	},
+	{
+		"id": "119",
+		"key": "KAND",
+		"text": "KANDEGODA"
+	},
+	{
+		"id": "115",
+		"key": "KAND",
+		"text": "KANDY"
+	},
+	{
+		"id": "424",
+		"key": "KANK",
+		"text": "KANKESANTHURAI"
+	},
+	{
+		"id": "132",
+		"key": "KANT",
+		"text": "KANTALE"
+	},
+	{
+		"id": "110",
+		"key": "KAPU",
+		"text": "KAPUWATTE"
+	},
+	{
+		"id": "139",
+		"key": "KARA",
+		"text": "KARADIPUWAL",
+		"deactivated": true
+	},
+	{
+		"id": "146",
+		"key": "KATH",
+		"text": "KATHALUWA"
+	},
+	{
+		"id": "109",
+		"key": "KATT",
+		"text": "KATTUWA"
+	},
+	{
+		"id": "144",
+		"key": "KATU",
+		"text": "KATUGASTOTA"
+	},
+	{
+		"id": "468",
+		"key": "KATU",
+		"text": "KATUGASTOTA     ROAD"
+	},
+	{
+		"id": "150",
+		"key": "KATU",
+		"text": "KATUGODA"
+	},
+	{
+		"id": "122",
+		"key": "KATU",
+		"text": "KATUKURUNDA"
+	},
+	{
+		"id": "42",
+		"key": "KATU",
+		"text": "KATUNAYAKA AIRPORT",
+		"deactivated": true
+	},
+	{
+		"id": "145",
+		"key": "KATU",
+		"text": "KATUNAYAKE"
+	},
+	{
+		"id": "117",
+		"key": "KEEN",
+		"text": "KEENAWALA"
+	},
+	{
+		"id": "487",
+		"key": "KEKA",
+		"text": "KEKANADURA"
+	},
+	{
+		"id": "141",
+		"key": "KEKI",
+		"text": "KEKIRAWA"
+	},
+	{
+		"id": "124",
+		"key": "KELA",
+		"text": "KELANIYA"
+	},
+	{
+		"id": "333",
+		"key": "KILI",
+		"text": "KILINOCHCHI"
+	},
+	{
+		"id": "133",
+		"key": "KINI",
+		"text": "KINIGAMA"
+	},
+	{
+		"id": "447",
+		"key": "KIRI",
+		"text": "KIRINDIWELA"
+	},
+	{
+		"id": "138",
+		"key": "KIRU",
+		"text": "KIRULAPANA"
+	},
+	{
+		"id": "116",
+		"key": "KITA",
+		"text": "KITAL ELLE"
+	},
+	{
+		"id": "111",
+		"key": "KOCH",
+		"text": "KOCHCHIKADE"
+	},
+	{
+		"id": "397",
+		"key": "KODI",
+		"text": "KODIKAMAM"
+	},
+	{
+		"id": "134",
+		"key": "KOGG",
+		"text": "KOGGALA"
+	},
+	{
+		"id": "474",
+		"key": "KOHO",
+		"text": "KOHOMBILIWALA"
+	},
+	{
+		"id": "429",
+		"key": "KOKU",
+		"text": "KOKUVIL"
+	},
+	{
+		"id": "126",
+		"key": "KOLL",
+		"text": "KOLLUPITIYA"
+	},
+	{
+		"id": "453",
+		"key": "KOLO",
+		"text": "KOLONNAWA",
+		"deactivated": true
+	},
+	{
+		"id": "125",
+		"key": "KOLO",
+		"text": "KOLONNAWA",
+		"deactivated": true
+	},
+	{
+		"id": "140",
+		"key": "KOMP",
+		"text": "KOMPANNAVEDIYA"
+	},
+	{
+		"id": "422",
+		"key": "KOND",
+		"text": "KONDAVIL"
+	},
+	{
+		"id": "135",
+		"key": "KONW",
+		"text": "KONWEWA"
+	},
+	{
+		"id": "136",
+		"key": "KORA",
+		"text": "KORALAWELLA"
+	},
+	{
+		"id": "143",
+		"key": "KOSG",
+		"text": "KOSGAMA"
+	},
+	{
+		"id": "112",
+		"key": "KOSG",
+		"text": "KOSGODA"
+	},
+	{
+		"id": "121",
+		"key": "KOSH",
+		"text": "KOSHINNA"
+	},
+	{
+		"id": "118",
+		"key": "KOTA",
+		"text": "KOTAGALA"
+	},
+	{
+		"id": "137",
+		"key": "KOTT",
+		"text": "KOTTAWA"
+	},
+	{
+		"id": "153",
+		"key": "KUDA",
+		"text": "KUDA WAWA"
+	},
+	{
+		"id": "149",
+		"key": "KUDA",
+		"text": "KUDAHAKAPOLA"
+	},
+	{
+		"id": "131",
+		"key": "KUMA",
+		"text": "KUMARAKANDA"
+	},
+	{
+		"id": "129",
+		"key": "KUMB",
+		"text": "KUMBALGAMA"
+	},
+	{
+		"id": "408",
+		"key": "KURA",
+		"text": "KURAHANHENAGAMA"
+	},
+	{
+		"id": "151",
+		"key": "KURA",
+		"text": "KURANA"
+	},
+	{
+		"id": "142",
+		"key": "KURU",
+		"text": "KURUNEGALA"
+	},
+	{
+		"id": "158",
+		"key": "LAKS",
+		"text": "LAKSAUYANA"
+	},
+	{
+		"id": "155",
+		"key": "LIYA",
+		"text": "LIYANAGEMULLA"
+	},
+	{
+		"id": "334",
+		"key": "LIYA",
+		"text": "LIYANWALA"
+	},
+	{
+		"id": "156",
+		"key": "LUNA",
+		"text": "LUNAWA"
+	},
+	{
+		"id": "157",
+		"key": "LUNU",
+		"text": "LUNUWILA"
+	},
+	{
+		"id": "181",
+		"key": "MADA",
+		"text": "MADAMPAGAMA"
+	},
+	{
+		"id": "161",
+		"key": "MADA",
+		"text": "MADAMPE"
+	},
+	{
+		"id": "372",
+		"key": "MADH",
+		"text": "MADHU ROAD"
+	},
+	{
+		"id": "174",
+		"key": "MADU",
+		"text": "MADURANKULIYA"
+	},
+	{
+		"id": "472",
+		"key": "Maga",
+		"text": "Magalegoda",
+		"deactivated": true
+	},
+	{
+		"id": "393",
+		"key": "MAGA",
+		"text": "MAGALEGODA"
+	},
+	{
+		"id": "167",
+		"key": "MAGG",
+		"text": "MAGGONA"
+	},
+	{
+		"id": "452",
+		"key": "MAGU",
+		"text": "MAGULEGODA"
+	},
+	{
+		"id": "190",
+		"key": "MAHA",
+		"text": "MAHAIYAWA"
+	},
+	{
+		"id": "159",
+		"key": "MAHA",
+		"text": "MAHARAGAMA"
+	},
+	{
+		"id": "170",
+		"key": "MAHO",
+		"text": "MAHO"
+	},
+	{
+		"id": "182",
+		"key": "MAKU",
+		"text": "MAKUMBURA"
+	},
+	{
+		"id": "427",
+		"key": "MALL",
+		"text": "MALLAKAM"
+	},
+	{
+		"id": "183",
+		"key": "MANA",
+		"text": "MANAMPITIYA"
+	},
+	{
+		"id": "165",
+		"key": "MANG",
+		"text": "MANGALAELIYA"
+	},
+	{
+		"id": "331",
+		"key": "MANK",
+		"text": "MANKULAM"
+	},
+	{
+		"id": "434",
+		"key": "MANN",
+		"text": "MANNAR"
+	},
+	{
+		"id": "179",
+		"key": "MANU",
+		"text": "MANUWANGAMA"
+	},
+	{
+		"id": "160",
+		"key": "MARA",
+		"text": "MARADANA"
+	},
+	{
+		"id": "462",
+		"key": "MARA",
+		"text": "MARAKONA"
+	},
+	{
+		"id": "454",
+		"key": "MARA",
+		"text": "MARALUWEWA"
+	},
+	{
+		"id": "186",
+		"key": "MATA",
+		"text": "MATALE"
+	},
+	{
+		"id": "187",
+		"key": "MATA",
+		"text": "MATARA"
+	},
+	{
+		"id": "432",
+		"key": "MATH",
+		"text": "MATHOTTAM"
+	},
+	{
+		"id": "466",
+		"key": "MAVI",
+		"text": "MAVILMADA"
+	},
+	{
+		"id": "425",
+		"key": "MAVI",
+		"text": "MAVITTAPURAM"
+	},
+	{
+		"id": "163",
+		"key": "MEDA",
+		"text": "MEDAGAMA"
+	},
+	{
+		"id": "189",
+		"key": "MEDA",
+		"text": "MEDAWACHCHIYA"
+	},
+	{
+		"id": "421",
+		"key": "MEDD",
+		"text": "MEDDEGAMA"
+	},
+	{
+		"id": "464",
+		"key": "MEEG",
+		"text": "MEEGAMMANA"
+	},
+	{
+		"id": "164",
+		"key": "MEEG",
+		"text": "MEEGODA"
+	},
+	{
+		"id": "403",
+		"key": "MEES",
+		"text": "MEESALAI"
+	},
+	{
+		"id": "188",
+		"key": "MHA ",
+		"text": "MHA INDURUWA"
+	},
+	{
+		"id": "162",
+		"key": "MIDI",
+		"text": "MIDIGAMA"
+	},
+	{
+		"id": "169",
+		"key": "MIHI",
+		"text": "MIHINTALE",
+		"deactivated": true
+	},
+	{
+		"id": "168",
+		"key": "MIHI",
+		"text": "MIHINTALE JUNCTION"
+	},
+	{
+		"id": "173",
+		"key": "MINN",
+		"text": "MINNERIYA"
+	},
+	{
+		"id": "171",
+		"key": "MIRI",
+		"text": "MIRIGAMA"
+	},
+	{
+		"id": "409",
+		"key": "MIRI",
+		"text": "MIRIHANPITIGAMA"
+	},
+	{
+		"id": "172",
+		"key": "MIRI",
+		"text": "MIRISSA"
+	},
+	{
+		"id": "443",
+		"key": "MIRI",
+		"text": "MIRISWATTA"
+	},
+	{
+		"id": "402",
+		"key": "MIRU",
+		"text": "MIRUSUVIL"
+	},
+	{
+		"id": "177",
+		"key": "MOLL",
+		"text": "MOLLIPATANA"
+	},
+	{
+		"id": "176",
+		"key": "MORA",
+		"text": "MORAGOLLAGAMA"
+	},
+	{
+		"id": "175",
+		"key": "MORA",
+		"text": "MORAKELE"
+	},
+	{
+		"id": "184",
+		"key": "MORA",
+		"text": "MORATUWA"
+	},
+	{
+		"id": "439",
+		"key": "MOUN",
+		"text": "MOUNT LAVINIA"
+	},
+	{
+		"id": "180",
+		"key": "MUND",
+		"text": "MUNDAL"
+	},
+	{
+		"id": "332",
+		"key": "MURI",
+		"text": "MURIKANDY"
+	},
+	{
+		"id": "431",
+		"key": "MURU",
+		"text": "MURUNKAN"
+	},
+	{
+		"id": "185",
+		"key": "MUTH",
+		"text": "MUTHTHETTUGALA"
+	},
+	{
+		"id": "191",
+		"key": "NAGO",
+		"text": "NAGOLLAGAMA"
+	},
+	{
+		"id": "196",
+		"key": "NAIL",
+		"text": "NAILIYA"
+	},
+	{
+		"id": "492",
+		"key": "NAKU",
+		"text": "NAKULUGAMUWA"
+	},
+	{
+		"id": "197",
+		"key": "NANU",
+		"text": "NANUOYA"
+	},
+	{
+		"id": "195",
+		"key": "NARA",
+		"text": "NARAHENPITA"
+	},
+	{
+		"id": "192",
+		"key": "NATT",
+		"text": "NATTANDIYA"
+	},
+	{
+		"id": "399",
+		"key": "NAVA",
+		"text": "NAVATKULI"
+	},
+	{
+		"id": "201",
+		"key": "NAWA",
+		"text": "NAWALAPITIYA"
+	},
+	{
+		"id": "202",
+		"key": "NAWI",
+		"text": "NAWINNA"
+	},
+	{
+		"id": "194",
+		"key": "NEGA",
+		"text": "NEGAMA"
+	},
+	{
+		"id": "193",
+		"key": "NEGO",
+		"text": "NEGOMBO"
+	},
+	{
+		"id": "415",
+		"key": "NELU",
+		"text": "NELUMPATHGAMA"
+	},
+	{
+		"id": "199",
+		"key": "NELU",
+		"text": "NELUMPOKUNA"
+	},
+	{
+		"id": "370",
+		"key": "NERI",
+		"text": "NERIYAKULAM"
+	},
+	{
+		"id": "198",
+		"key": "NOOR",
+		"text": "NOORANAGAR"
+	},
+	{
+		"id": "200",
+		"key": "NUGE",
+		"text": "NUGEGODA"
+	},
+	{
+		"id": "203",
+		"key": "OHIY",
+		"text": "OHIYA"
+	},
+	{
+		"id": "204",
+		"key": "OMAN",
+		"text": "OMANTHAI"
+	},
+	{
+		"id": "208",
+		"key": "PADU",
+		"text": "PADUKKA"
+	},
+	{
+		"id": "420",
+		"key": "PAHA",
+		"text": "PAHALAWARDHANA"
+	},
+	{
+		"id": "238",
+		"key": "PALA",
+		"text": "PALAVI"
+	},
+	{
+		"id": "396",
+		"key": "PALL",
+		"text": "PALLAI"
+	},
+	{
+		"id": "465",
+		"key": "PALL",
+		"text": "PALLE TALAVINNA"
+	},
+	{
+		"id": "219",
+		"key": "PALL",
+		"text": "PALLEWALA"
+	},
+	{
+		"id": "237",
+		"key": "PALU",
+		"text": "PALUGASWEWA"
+	},
+	{
+		"id": "223",
+		"key": "PANA",
+		"text": "PANADURA"
+	},
+	{
+		"id": "224",
+		"key": "PANA",
+		"text": "PANAGODA"
+	},
+	{
+		"id": "226",
+		"key": "PANA",
+		"text": "PANALEEYA"
+	},
+	{
+		"id": "233",
+		"key": "PANG",
+		"text": "PANGIRIWATTA"
+	},
+	{
+		"id": "205",
+		"key": "PANN",
+		"text": "PANNIPITIYA"
+	},
+	{
+		"id": "216",
+		"key": "PARA",
+		"text": "PARAKUMUYANA"
+	},
+	{
+		"id": "394",
+		"key": "PARA",
+		"text": "PARANTHAN"
+	},
+	{
+		"id": "213",
+		"key": "PARA",
+		"text": "PARASANGAHAWEWA"
+	},
+	{
+		"id": "209",
+		"key": "PATA",
+		"text": "PATAGAMGODA"
+	},
+	{
+		"id": "236",
+		"key": "PATH",
+		"text": "PATHANPAHA"
+	},
+	{
+		"id": "230",
+		"key": "PATT",
+		"text": "PATTIPOLA"
+	},
+	{
+		"id": "211",
+		"key": "PAYA",
+		"text": "PAYAGALA NORTH"
+	},
+	{
+		"id": "212",
+		"key": "PAYA",
+		"text": "PAYAGALA SOUTH"
+	},
+	{
+		"id": "232",
+		"key": "PEMR",
+		"text": "PEMROSE"
+	},
+	{
+		"id": "207",
+		"key": "PERA",
+		"text": "PERADENIYA"
+	},
+	{
+		"id": "459",
+		"key": "PERA",
+		"text": "PERAKUMPURA"
+	},
+	{
+		"id": "231",
+		"key": "PERA",
+		"text": "PERALANDA"
+	},
+	{
+		"id": "227",
+		"key": "PERI",
+		"text": "PERIYANAGAVILLU"
+	},
+	{
+		"id": "436",
+		"key": "PESA",
+		"text": "PESALAI"
+	},
+	{
+		"id": "485",
+		"key": "PILA",
+		"text": "PILADUWA"
+	},
+	{
+		"id": "217",
+		"key": "PILI",
+		"text": "PILIDUWA"
+	},
+	{
+		"id": "222",
+		"key": "PILI",
+		"text": "PILIMATALAWA"
+	},
+	{
+		"id": "416",
+		"key": "PINN",
+		"text": "PINNAGOLLA"
+	},
+	{
+		"id": "228",
+		"key": "PINN",
+		"text": "PINNAWALA"
+	},
+	{
+		"id": "214",
+		"key": "PINW",
+		"text": "PINWATTE"
+	},
+	{
+		"id": "210",
+		"key": "PIYA",
+		"text": "PIYADIGAMA"
+	},
+	{
+		"id": "240",
+		"key": "PIYA",
+		"text": "PIYAGAMA"
+	},
+	{
+		"id": "477",
+		"key": "Polg",
+		"text": "Polgaha Anga"
+	},
+	{
+		"id": "218",
+		"key": "POLG",
+		"text": "POLGAHAWELA"
+	},
+	{
+		"id": "220",
+		"key": "POLO",
+		"text": "POLONNARUWA"
+	},
+	{
+		"id": "221",
+		"key": "POLW",
+		"text": "POLWATHUMODARA"
+	},
+	{
+		"id": "229",
+		"key": "POON",
+		"text": "POONEWA"
+	},
+	{
+		"id": "419",
+		"key": "PORA",
+		"text": "PORAPOLA"
+	},
+	{
+		"id": "418",
+		"key": "PORA",
+		"text": "PORAPOLA JUNC."
+	},
+	{
+		"id": "234",
+		"key": "POTU",
+		"text": "POTUHERA"
+	},
+	{
+		"id": "206",
+		"key": "PULA",
+		"text": "PULACHCHIKULAM"
+	},
+	{
+		"id": "330",
+		"key": "PULI",
+		"text": "PULIYANKULAM"
+	},
+	{
+		"id": "225",
+		"key": "PUNA",
+		"text": "PUNANI"
+	},
+	{
+		"id": "406",
+		"key": "PUNK",
+		"text": "PUNKANKULAM"
+	},
+	{
+		"id": "235",
+		"key": "PUTT",
+		"text": "PUTTALAM"
+	},
+	{
+		"id": "445",
+		"key": "PUWA",
+		"text": "PUWAKPITIYA"
+	},
+	{
+		"id": "446",
+		"key": "PUWA",
+		"text": "PUWAKPITIYA TOWN"
+	},
+	{
+		"id": "243",
+		"key": "RADE",
+		"text": "RADELLA"
+	},
+	{
+		"id": "246",
+		"key": "RAGA",
+		"text": "RAGAMA"
+	},
+	{
+		"id": "241",
+		"key": "RAMB",
+		"text": "RAMBUKKANA"
+	},
+	{
+		"id": "247",
+		"key": "RANA",
+		"text": "RANAMUGGAMUWA"
+	},
+	{
+		"id": "245",
+		"key": "RAND",
+		"text": "RANDENIGAMA"
+	},
+	{
+		"id": "249",
+		"key": "RATH",
+		"text": "RATHGAMA"
+	},
+	{
+		"id": "248",
+		"key": "RATM",
+		"text": "RATMALANA"
+	},
+	{
+		"id": "244",
+		"key": "REDE",
+		"text": "REDEETHENNA"
+	},
+	{
+		"id": "242",
+		"key": "RICH",
+		"text": "RICHMOND HILL"
+	},
+	{
+		"id": "250",
+		"key": "ROSE",
+		"text": "ROSELLA"
+	},
+	{
+		"id": "251",
+		"key": "SALI",
+		"text": "SALIYAPURA"
+	},
+	{
+		"id": "404",
+		"key": "SANK",
+		"text": "SANKATHANAI"
+	},
+	{
+		"id": "257",
+		"key": "SARA",
+		"text": "SARASAVIUYANA"
+	},
+	{
+		"id": "259",
+		"key": "SAWA",
+		"text": "SAWARANA"
+	},
+	{
+		"id": "252",
+		"key": "SECR",
+		"text": "SECRETARTAT HALT"
+	},
+	{
+		"id": "253",
+		"key": "SEED",
+		"text": "SEEDUWA"
+	},
+	{
+		"id": "255",
+		"key": "SEEN",
+		"text": "SEENIGAMA"
+	},
+	{
+		"id": "254",
+		"key": "SENA",
+		"text": "SENARATHGAMA"
+	},
+	{
+		"id": "258",
+		"key": "SEVA",
+		"text": "SEVANAPITIYA"
+	},
+	{
+		"id": "339",
+		"key": "SIYA",
+		"text": "SIYABALANGAMUWA"
+	},
+	{
+		"id": "260",
+		"key": "SIYA",
+		"text": "SIYALANGAMUWA"
+	},
+	{
+		"id": "256",
+		"key": "SRAW",
+		"text": "SRAWASTHIPURA"
+	},
+	{
+		"id": "437",
+		"key": "TALA",
+		"text": "TALAIMANNAR"
+	},
+	{
+		"id": "438",
+		"key": "TALA",
+		"text": "TALAIMANNAR PIER"
+	},
+	{
+		"id": "270",
+		"key": "TALA",
+		"text": "TALAWA"
+	},
+	{
+		"id": "269",
+		"key": "TALA",
+		"text": "TALAWAKELE"
+	},
+	{
+		"id": "276",
+		"key": "TALA",
+		"text": "TALAWATTEGEDARA"
+	},
+	{
+		"id": "461",
+		"key": "TAWA",
+		"text": "TAWALANOYA"
+	},
+	{
+		"id": "426",
+		"key": "TELL",
+		"text": "TELLIPALLAI"
+	},
+	{
+		"id": "277",
+		"key": "TELW",
+		"text": "TELWATTE"
+	},
+	{
+		"id": "262",
+		"key": "TEMB",
+		"text": "TEMBLIGALA"
+	},
+	{
+		"id": "405",
+		"key": "THAC",
+		"text": "THACHANTHOPPU"
+	},
+	{
+		"id": "271",
+		"key": "THAL",
+		"text": "THALPE"
+	},
+	{
+		"id": "414",
+		"key": "THAM",
+		"text": "THAMBAGALLA"
+	},
+	{
+		"id": "450",
+		"key": "Tham",
+		"text": "Thambalagamuwa"
+	},
+	{
+		"id": "263",
+		"key": "THAM",
+		"text": "THAMBUTTEGAMA"
+	},
+	{
+		"id": "265",
+		"key": "THAN",
+		"text": "THANDIKULAM"
+	},
+	{
+		"id": "433",
+		"key": "THII",
+		"text": "THIIRUKETHEESWARAM"
+	},
+	{
+		"id": "267",
+		"key": "THIL",
+		"text": "THILLADIYA"
+	},
+	{
+		"id": "272",
+		"key": "THIR",
+		"text": "THIRANAGAMA"
+	},
+	{
+		"id": "435",
+		"key": "THOD",
+		"text": "THODDAVELI"
+	},
+	{
+		"id": "455",
+		"key": "Thur",
+		"text": "Thuruliyagama"
+	},
+	{
+		"id": "268",
+		"key": "TIMB",
+		"text": "TIMBIRIYAGEDARA"
+	},
+	{
+		"id": "274",
+		"key": "TISM",
+		"text": "TISMALPOLA"
+	},
+	{
+		"id": "273",
+		"key": "TRAI",
+		"text": "TRAIN HALT 01"
+	},
+	{
+		"id": "264",
+		"key": "TRIN",
+		"text": "TRINCOMALEE"
+	},
+	{
+		"id": "275",
+		"key": "TUDE",
+		"text": "TUDELLA"
+	},
+	{
+		"id": "266",
+		"key": "TUMM",
+		"text": "TUMMODARA"
+	},
+	{
+		"id": "278",
+		"key": "UDAT",
+		"text": "UDATALAWINNA"
+	},
+	{
+		"id": "285",
+		"key": "UDAT",
+		"text": "UDATHTHAWALA"
+	},
+	{
+		"id": "281",
+		"key": "UDHA",
+		"text": "UDHAMULLA"
+	},
+	{
+		"id": "413",
+		"key": "UDUG",
+		"text": "UDUGODAGAMA"
+	},
+	{
+		"id": "279",
+		"key": "UDUW",
+		"text": "UDUWARA"
+	},
+	{
+		"id": "280",
+		"key": "UGGA",
+		"text": "UGGALLA"
+	},
+	{
+		"id": "282",
+		"key": "UKUW",
+		"text": "UKUWELA"
+	},
+	{
+		"id": "283",
+		"key": "ULAP",
+		"text": "ULAPANE"
+	},
+	{
+		"id": "284",
+		"key": "UNAW",
+		"text": "UNAWATUNA"
+	},
+	{
+		"id": "451",
+		"key": "Urug",
+		"text": "Urugodawattha"
+	},
+	{
+		"id": "412",
+		"key": "UYAN",
+		"text": "UYANGALLA"
+	},
+	{
+		"id": "286",
+		"key": "VALA",
+		"text": "VALACHCHENEI"
+	},
+	{
+		"id": "288",
+		"key": "VAND",
+		"text": "VANDARAMULLAI"
+	},
+	{
+		"id": "289",
+		"key": "VAVU",
+		"text": "VAVUNIYA"
+	},
+	{
+		"id": "287",
+		"key": "VEYA",
+		"text": "VEYANGODA"
+	},
+	{
+		"id": "340",
+		"key": "VIRA",
+		"text": "VIRALMURIPPUWA"
+	},
+	{
+		"id": "292",
+		"key": "WADD",
+		"text": "WADDUWA"
+	},
+	{
+		"id": "295",
+		"key": "WAGA",
+		"text": "WAGA"
+	},
+	{
+		"id": "299",
+		"key": "WAIK",
+		"text": "WAIKKALA"
+	},
+	{
+		"id": "296",
+		"key": "WALA",
+		"text": "WALAHAPITIYA"
+	},
+	{
+		"id": "407",
+		"key": "WALA",
+		"text": "WALASWEWA"
+	},
+	{
+		"id": "301",
+		"key": "WALG",
+		"text": "WALGAMA"
+	},
+	{
+		"id": "303",
+		"key": "WALP",
+		"text": "WALPOLA"
+	},
+	{
+		"id": "306",
+		"key": "WANA",
+		"text": "WANAWASALA"
+	},
+	{
+		"id": "305",
+		"key": "WAND",
+		"text": "WANDURAWA"
+	},
+	{
+		"id": "308",
+		"key": "WATA",
+		"text": "WATAGODA"
+	},
+	{
+		"id": "336",
+		"key": "WATA",
+		"text": "WATARAKA"
+	},
+	{
+		"id": "300",
+		"key": "WATA",
+		"text": "WATAWALA"
+	},
+	{
+		"id": "294",
+		"key": "WATT",
+		"text": "WATTEGAMA"
+	},
+	{
+		"id": "486",
+		"key": "WEHE",
+		"text": "WEHERAHENA"
+	},
+	{
+		"id": "478",
+		"key": "Weli",
+		"text": "Weligalla"
+	},
+	{
+		"id": "302",
+		"key": "WELI",
+		"text": "WELIGAMA"
+	},
+	{
+		"id": "298",
+		"key": "WELI",
+		"text": "WELIKANDA"
+	},
+	{
+		"id": "293",
+		"key": "WELL",
+		"text": "WELLAWA"
+	},
+	{
+		"id": "307",
+		"key": "WELL",
+		"text": "WELLAWATTA"
+	},
+	{
+		"id": "411",
+		"key": "WERA",
+		"text": "WERAGALA"
+	},
+	{
+		"id": "489",
+		"key": "WEWU",
+		"text": "WEWURUKANNALA"
+	},
+	{
+		"id": "304",
+		"key": "WIJA",
+		"text": "WIJAYARAJADAHANA"
+	},
+	{
+		"id": "309",
+		"key": "WILW",
+		"text": "WILWATTE"
+	},
+	{
+		"id": "297",
+		"key": "WLAK",
+		"text": "WLAKUBURA"
+	},
+	{
+		"id": "391",
+		"key": "Yago",
+		"text": "Yagoda",
+		"deactivated": true
+	},
+	{
+		"id": "473",
+		"key": "YAGO",
+		"text": "YAGODA",
+		"deactivated": true
+	},
+	{
+		"id": "312",
+		"key": "YAGO",
+		"text": "YAGODA",
+		"deactivated": true
+	},
+	{
+		"id": "387",
+		"key": "YAGO",
+		"text": "YAGODA"
+	},
+	{
+		"id": "390",
+		"key": "Yago",
+		"text": "Yagoda",
+		"deactivated": true
+	},
+	{
+		"id": "388",
+		"key": "Yago",
+		"text": "Yagoda",
+		"deactivated": true
+	},
+	{
+		"id": "389",
+		"key": "Yago",
+		"text": "Yagoda",
+		"deactivated": true
+	},
+	{
+		"id": "315",
+		"key": "YAPA",
+		"text": "YAPAHUWA"
+	},
+	{
+		"id": "313",
+		"key": "YATA",
+		"text": "YATAGAMA"
+	},
+	{
+		"id": "463",
+		"key": "YATA",
+		"text": "YATAWARA"
+	},
+	{
+		"id": "311",
+		"key": "YATI",
+		"text": "YATIRAWANA"
+	},
+	{
+		"id": "316",
+		"key": "YATT",
+		"text": "YATTALGODA"
+	}
+]

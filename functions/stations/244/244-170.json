@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "REDEETHENNA",
+    "arrivalTime": "07:37:00",
+    "depatureTime": "07:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "REDEETHENNA",
+    "arrivalTime": "12:41:00",
+    "depatureTime": "12:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "18:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ALUTHGAMA",
+    "arrivalTime": "08:14:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "PILIDUWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

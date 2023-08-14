@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "09:56:00",
+    "depatureTime": "09:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "10:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "21:49:00",
+    "depatureTime": "21:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "22:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

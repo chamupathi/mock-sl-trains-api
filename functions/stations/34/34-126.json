@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "04:18:00",
+    "depatureTime": "04:19:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "05:12:00",
+    "depatureTime": "05:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "05:44:00",
+    "depatureTime": "05:45:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "BALAPITIYA",
+    "arrivalTime": "06:04:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8327"
+  }
+]

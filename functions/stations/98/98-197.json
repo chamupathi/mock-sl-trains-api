@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "NANUOYA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1159"
+  }
+]

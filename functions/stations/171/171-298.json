@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MIRIGAMA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "WELIKANDA",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "800.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "400.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

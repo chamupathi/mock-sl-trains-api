@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "05:35:00",
+    "depatureTime": "05:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:56:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1236"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "08:41:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "10:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:50:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "11:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1541"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "12:02:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "13:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "14:51:00",
+    "depatureTime": "14:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "15:53:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:16:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1244"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

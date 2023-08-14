@@ -1,0 +1,136 @@
+[
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "04:40:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "05:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "08:21:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2236"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "11:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2237"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "13:52:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "14:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "13:55:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "14:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2019"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "17:20:00",
+    "depatureTime": "17:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "18:49:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "18:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2243"
+  },
+  {
+    "startStationName": "KANDY",
+    "arrivalTime": "19:00:00",
+    "depatureTime": "19:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "20:22:00",
+    "endStationName": "YATAWARA",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2244"
+  }
+]

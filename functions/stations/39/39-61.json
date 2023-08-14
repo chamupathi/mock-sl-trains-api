@@ -1,0 +1,186 @@
+[
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:43:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "06:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9648"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:03:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9647"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "07:13:00",
+    "depatureTime": "07:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "07:34:00",
+    "depatureTime": "07:35:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9645"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "07:48:00",
+    "depatureTime": "07:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "08:06:00",
+    "depatureTime": "08:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:18:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9652"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "08:25:00",
+    "depatureTime": "08:26:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9641"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "09:03:00",
+    "depatureTime": "09:04:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "09:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "15:23:00",
+    "depatureTime": "15:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "15:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9657"
+  },
+  {
+    "startStationName": "BASELINE ROAD",
+    "arrivalTime": "17:23:00",
+    "depatureTime": "17:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:38:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9661"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MIRUSUVIL",
+    "arrivalTime": "10:43:00",
+    "depatureTime": "10:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "INUVIL",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "MIRUSUVIL",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "INUVIL",
+    "arrivalTimeEndStation": "18:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

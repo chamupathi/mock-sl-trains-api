@@ -1,0 +1,96 @@
+[
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "04:51:00",
+    "depatureTime": "04:52:00",
+    "trainFrequncy": "Train will be stop at BERUWALA on 25th & 26th January 2020",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "05:48:00",
+    "endStationName": "KANDEGODA",
+    "arrivalTimeEndStation": "05:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8322"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "05:36:00",
+    "depatureTime": "05:37:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "KANDEGODA",
+    "arrivalTimeEndStation": "05:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KANDEGODA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "09:36:00",
+    "depatureTime": "09:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "KANDEGODA",
+    "arrivalTimeEndStation": "10:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8349"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "17:40:00",
+    "depatureTime": "17:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "KANDEGODA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8379"
+  }
+]

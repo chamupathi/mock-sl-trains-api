@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "08:30:00",
+    "depatureTime": "08:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "10:40:00",
+    "endStationName": "GALGAMUWA",
+    "arrivalTimeEndStation": "09:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4077"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "13:29:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "uttara devi",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "GALGAMUWA",
+    "arrivalTimeEndStation": "14:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4017"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "15:32:00",
+    "depatureTime": "15:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "GALGAMUWA",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "21:53:00",
+    "depatureTime": "21:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Mail",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "00:25:00",
+    "endStationName": "GALGAMUWA",
+    "arrivalTimeEndStation": "23:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4089"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "WILWATTE",
+    "arrivalTime": "10:31:00",
+    "depatureTime": "10:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "TALAWATTEGEDARA",
+    "arrivalTimeEndStation": "11:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "WILWATTE",
+    "arrivalTime": "18:33:00",
+    "depatureTime": "18:34:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "TALAWATTEGEDARA",
+    "arrivalTimeEndStation": "19:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "WILWATTE",
+    "arrivalTime": "19:17:00",
+    "depatureTime": "19:18:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "TALAWATTEGEDARA",
+    "arrivalTimeEndStation": "19:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

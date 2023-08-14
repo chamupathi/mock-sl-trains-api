@@ -1,0 +1,83 @@
+[
+	{
+		"trainFrequncy": "DAILY",
+		"finalStationName": "MARADANA",
+		"classList": [
+			{
+				"classID": 2,
+				"className": "2nd Class",
+				"price": "80"
+			},
+			{
+				"classID": 3,
+				"className": "3rd Class",
+				"price": "40"
+			}
+		],
+		"trainID": 890,
+		"trainNo": 8056,
+		"arrivalTime": "14:19:00",
+		"endStation": "2",
+		"endStationName": "COLOMBO FORT",
+		"arrivalTimeEndStation": "17:48:00",
+		"depatureTime": "14:25:00",
+		"trainType": "COLOMBO COMMUTER",
+		"trainName": "Galu Kumari",
+		"startStationName": "GALLE",
+		"arrivalTimeFinalStation": "17:48:00"
+	},
+	{
+		"trainFrequncy": "DAILY",
+		"finalStationName": "MARADANA",
+		"classList": [
+			{
+				"classID": 2,
+				"className": "2nd Class",
+				"price": "80"
+			},
+			{
+				"classID": 3,
+				"className": "3rd Class",
+				"price": "40"
+			}
+		],
+		"trainID": 890,
+		"trainNo": 8056,
+		"arrivalTime": "14:19:00",
+		"endStation": "3",
+		"endStationName": "MARADANA",
+		"arrivalTimeEndStation": "17:48:00",
+		"depatureTime": "14:25:00",
+		"trainType": "COLOMBO COMMUTER",
+		"trainName": "Galu Kumari",
+		"startStationName": "GALLE",
+		"arrivalTimeFinalStation": "17:48:00"
+	},
+	{
+		"trainFrequncy": "DAILY",
+		"finalStationName": "MARADANA",
+		"classList": [
+			{
+				"classID": 2,
+				"className": "2nd Class",
+				"price": "80"
+			},
+			{
+				"classID": 3,
+				"className": "3rd Class",
+				"price": "40"
+			}
+		],
+		"trainID": 890,
+		"trainNo": 8056,
+		"arrivalTime": "15:19:00",
+		"endStation": "3",
+		"endStationName": "MARADANA",
+		"arrivalTimeEndStation": "17:48:00",
+		"depatureTime": "14:25:00",
+		"trainType": "COLOMBO COMMUTER",
+		"trainName": "Galu Kumari",
+		"startStationName": "GALLE",
+		"arrivalTimeFinalStation": "17:48:00"
+	}
+]

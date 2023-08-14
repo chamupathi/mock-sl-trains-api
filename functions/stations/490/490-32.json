@@ -1,0 +1,28 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "BENTOTA",
+    "arrivalTimeEndStation": "08:19:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "360.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8057"
+  }
+]

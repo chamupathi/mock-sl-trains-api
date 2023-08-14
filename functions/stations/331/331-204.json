@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MANKULAM",
+    "arrivalTime": "08:24:00",
+    "depatureTime": "08:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "OMANTHAI",
+    "arrivalTimeEndStation": "08:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4880"
+  }
+]

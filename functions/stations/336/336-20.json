@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:02:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:31:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "19:07:00",
+    "depatureTime": "19:08:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "21:35:00",
+    "depatureTime": "21:36:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "22:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

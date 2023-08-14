@@ -1,0 +1,155 @@
+[
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "03:48:00",
+    "depatureTime": "03:49:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "06:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "04:49:00",
+    "depatureTime": "04:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "07:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "07:44:00",
+    "depatureTime": "07:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "10:44:00",
+    "depatureTime": "10:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "12:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8085"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:11:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "16:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8039"
+  },
+  {
+    "startStationName": "HIKKADUWA",
+    "arrivalTime": "15:54:00",
+    "depatureTime": "15:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "17:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

@@ -1,0 +1,456 @@
+[
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "00:42:00",
+    "depatureTime": "00:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "00:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "05:07:00",
+    "depatureTime": "05:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "05:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "06:17:00",
+    "depatureTime": "06:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "08:09:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1127"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "08:53:00",
+    "depatureTime": "08:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "09:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "09:48:00",
+    "depatureTime": "09:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "10:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "10:42:00",
+    "depatureTime": "10:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "10:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "10:46:00",
+    "depatureTime": "10:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "11:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "11:58:00",
+    "depatureTime": "11:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "12:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "13:05:00",
+    "depatureTime": "13:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "13:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "14:37:00",
+    "depatureTime": "14:38:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "14:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "15:22:00",
+    "depatureTime": "15:23:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "15:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "16:00:00",
+    "depatureTime": "16:01:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1152",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "17:17:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "16:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1152"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "16:46:00",
+    "depatureTime": "16:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:05:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "17:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1162"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "17:35:00",
+    "depatureTime": "17:36:00",
+    "trainFrequncy": "NOT ON FRIDAY",
+    "trainName": "1170",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:54:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "17:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1170"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "18:50:00",
+    "depatureTime": "18:51:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "19:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "19:11:00",
+    "depatureTime": "19:12:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "19:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "19:29:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "19:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "20:10:00",
+    "depatureTime": "20:11:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "20:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "20:40:00",
+    "depatureTime": "20:41:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "20:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "21:33:00",
+    "depatureTime": "21:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "21:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "22:34:00",
+    "depatureTime": "22:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "WLAKUBURA",
+    "arrivalTimeEndStation": "22:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1192"
+  }
+]

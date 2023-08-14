@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "VEYANGODA",
+    "arrivalTimeEndStation": "02:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "380.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

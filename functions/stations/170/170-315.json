@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:12:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "YAPAHUWA",
+    "arrivalTimeEndStation": "06:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "YAPAHUWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

@@ -1,0 +1,230 @@
+[
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "06:01:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "06:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "07:41:00",
+    "depatureTime": "07:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "07:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "10:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "11:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "13:54:00",
+    "depatureTime": "13:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "14:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "14:59:00",
+    "depatureTime": "15:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "15:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "16:13:00",
+    "depatureTime": "16:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "16:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "18:34:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "18:57:00",
+    "depatureTime": "18:58:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "19:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3425"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:01:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "20:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "20:54:00",
+    "depatureTime": "20:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "21:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "22:09:00",
+    "depatureTime": "22:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "WALAHAPITIYA",
+    "arrivalTimeEndStation": "22:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

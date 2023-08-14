@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MEDAGAMA",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "NERIYAKULAM",
+    "arrivalTimeEndStation": "17:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

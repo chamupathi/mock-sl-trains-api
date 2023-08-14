@@ -1,0 +1,965 @@
+[
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "05:17:00",
+    "depatureTime": "05:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "05:34:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "05:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:03:00",
+    "depatureTime": "06:04:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:25:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1516"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:07:00",
+    "depatureTime": "06:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:11:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:11:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:37:00",
+    "depatureTime": "06:38:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "06:55:00",
+    "depatureTime": "06:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "07:22:00",
+    "depatureTime": "07:23:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "07:23:00",
+    "depatureTime": "07:24:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1537"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "07:34:00",
+    "depatureTime": "07:35:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:56:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1530"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "07:41:00",
+    "depatureTime": "07:42:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1525"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:06:00",
+    "depatureTime": "08:07:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1529"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:11:00",
+    "depatureTime": "08:12:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:30:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1542"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:40:00",
+    "depatureTime": "08:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "08:49:00",
+    "depatureTime": "08:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "09:31:00",
+    "depatureTime": "09:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "09:54:00",
+    "depatureTime": "09:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:16:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3821"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "10:11:00",
+    "depatureTime": "10:12:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "1547",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:31:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1547"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "10:42:00",
+    "depatureTime": "10:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "11:22:00",
+    "depatureTime": "11:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:42:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "11:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "11:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "11:27:00",
+    "depatureTime": "11:28:00",
+    "trainFrequncy": "MONDAYS ONLY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:47:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "11:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "12:01:00",
+    "depatureTime": "12:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "12:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "13:10:00",
+    "depatureTime": "13:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "13:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "14:02:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "14:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "14:49:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "14:49:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "14:59:00",
+    "depatureTime": "15:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "15:34:00",
+    "depatureTime": "15:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "16:04:00",
+    "depatureTime": "16:05:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:23:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "16:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1574"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "16:24:00",
+    "depatureTime": "16:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "16:59:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "17:14:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "17:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1595"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "17:04:00",
+    "depatureTime": "17:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1573",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:25:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "17:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1573"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "17:09:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "17:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "17:46:00",
+    "depatureTime": "17:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "17:54:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "18:06:00",
+    "depatureTime": "18:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "18:14:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "18:58:00",
+    "depatureTime": "18:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "19:19:00",
+    "depatureTime": "19:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:40:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "19:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3825"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "19:49:00",
+    "depatureTime": "19:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "20:01:00",
+    "depatureTime": "20:02:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1570"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "20:13:00",
+    "depatureTime": "20:14:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:35:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3830"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "20:45:00",
+    "depatureTime": "20:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:07:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "21:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1584"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "21:27:00",
+    "depatureTime": "21:29:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "21:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "22:13:00",
+    "depatureTime": "22:14:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:33:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "22:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1589"
+  },
+  {
+    "startStationName": "HUNUPITIYA",
+    "arrivalTime": "22:57:00",
+    "depatureTime": "22:58:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "23:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

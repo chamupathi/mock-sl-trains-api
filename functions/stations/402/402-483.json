@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MIRUSUVIL",
+    "arrivalTime": "07:15:00",
+    "depatureTime": "07:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "Arivial Nagar",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "MIRUSUVIL",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "Arivial Nagar",
+    "arrivalTimeEndStation": "16:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

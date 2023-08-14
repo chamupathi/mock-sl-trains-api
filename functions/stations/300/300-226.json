@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WATAWALA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "12:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

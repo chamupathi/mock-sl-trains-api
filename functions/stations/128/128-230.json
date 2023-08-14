@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "07:42:00",
+    "depatureTime": "07:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "PATTIPOLA",
+    "arrivalTimeEndStation": "13:49:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1005"
+  }
+]

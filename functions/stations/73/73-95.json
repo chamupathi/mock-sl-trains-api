@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "GANEWATTE",
+    "arrivalTime": "03:55:00",
+    "depatureTime": "03:55:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "4856"
+  }
+]

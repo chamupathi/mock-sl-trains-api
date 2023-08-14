@@ -1,0 +1,448 @@
+[
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:32:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "06:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:18:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8317"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:13:00",
+    "depatureTime": "07:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:31:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8316"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:26:00",
+    "depatureTime": "07:27:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:33:00",
+    "depatureTime": "07:34:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8324"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:59:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:07:00",
+    "depatureTime": "08:08:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8313"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:36:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8325"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:28:00",
+    "depatureTime": "08:29:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8328"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:44:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8331"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:32:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8335"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "09:49:00",
+    "depatureTime": "09:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:04:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8330"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:17:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8346"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "10:03:00",
+    "depatureTime": "10:04:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8339"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "10:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8336"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "11:50:00",
+    "depatureTime": "11:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "12:07:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "12:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8344"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "13:58:00",
+    "depatureTime": "13:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "14:15:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "14:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8350"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "14:49:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:01:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8352"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "15:27:00",
+    "depatureTime": "15:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:41:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8363"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "15:43:00",
+    "depatureTime": "15:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:55:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8355"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "19:51:00",
+    "depatureTime": "19:52:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "20:04:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8375"
+  }
+]

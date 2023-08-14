@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "10:36:00",
+    "depatureTime": "10:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "10:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "AUKANA",
+    "arrivalTime": "17:08:00",
+    "depatureTime": "17:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "17:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

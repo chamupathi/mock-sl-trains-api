@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "14:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:35:00",
+    "depatureTime": "16:35:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "GALABODA",
+    "arrivalTimeFinalStation": "17:10:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "17:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1139"
+  }
+]

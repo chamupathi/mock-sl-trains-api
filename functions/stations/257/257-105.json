@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "03:45:00",
+    "depatureTime": "03:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "IHALAWATAWALA",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "IHALAWATAWALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "IHALAWATAWALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

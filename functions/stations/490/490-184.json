@@ -1,0 +1,50 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "04:15:00",
+    "depatureTime": "04:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MORATUWA",
+    "arrivalTimeEndStation": "09:12:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "440.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8057"
+  }
+]

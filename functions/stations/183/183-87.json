@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "13:37:00",
+    "depatureTime": "13:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "HATARAS KOTUWA",
+    "arrivalTimeEndStation": "15:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

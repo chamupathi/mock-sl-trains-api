@@ -1,0 +1,172 @@
+[
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "04:28:00",
+    "depatureTime": "04:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "06:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "06:09:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "08:14:00",
+    "depatureTime": "08:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "10:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "10:03:00",
+    "depatureTime": "10:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "11:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "12:33:00",
+    "depatureTime": "12:34:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "14:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "13:38:00",
+    "depatureTime": "13:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "15:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "16:58:00",
+    "depatureTime": "16:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "19:33:00",
+    "depatureTime": "19:34:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "21:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "HORAPE",
+    "arrivalTime": "20:48:00",
+    "depatureTime": "20:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "KUDA WAWA",
+    "arrivalTimeEndStation": "22:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

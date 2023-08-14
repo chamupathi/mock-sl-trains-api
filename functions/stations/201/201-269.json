@@ -1,0 +1,167 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "00:52:00",
+    "depatureTime": "01:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "02:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "08:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "12:06:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "12:02:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "13:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "13:26:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "18:31:00",
+    "depatureTime": "18:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "20:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

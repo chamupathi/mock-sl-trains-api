@@ -1,0 +1,137 @@
+[
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "04:04:00",
+    "depatureTime": "04:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:08:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "05:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1120"
+  },
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "05:39:00",
+    "depatureTime": "05:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:38:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1128"
+  },
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "12:04:00",
+    "depatureTime": "12:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "13:55:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "13:15:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "12:04:00",
+    "depatureTime": "12:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "13:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "15:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "19:19:00",
+    "depatureTime": "19:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:55:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "20:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1039"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ASELAPURA",
+    "arrivalTime": "12:51:00",
+    "depatureTime": "12:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KALAWEWA",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

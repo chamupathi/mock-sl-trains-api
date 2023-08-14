@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "DEMODARA",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "WATAGODA",
+    "arrivalTimeEndStation": "09:42:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "DEMODARA",
+    "arrivalTime": "09:05:00",
+    "depatureTime": "09:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "WATAGODA",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "DEMODARA",
+    "arrivalTime": "10:55:00",
+    "depatureTime": "10:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "WATAGODA",
+    "arrivalTimeEndStation": "14:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "DEMODARA",
+    "arrivalTime": "11:45:00",
+    "depatureTime": "11:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "WATAGODA",
+    "arrivalTimeEndStation": "16:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "DEMODARA",
+    "arrivalTime": "18:44:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "WATAGODA",
+    "arrivalTimeEndStation": "22:45:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

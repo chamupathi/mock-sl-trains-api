@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "06:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "05:38:00",
+    "depatureTime": "05:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8327"
+  }
+]

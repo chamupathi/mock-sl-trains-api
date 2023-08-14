@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "11:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:05:00",
+    "depatureTime": "15:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "21:52:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "18:42:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "6075"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "03:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

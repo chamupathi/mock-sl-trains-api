@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "ANDADOLA",
+    "arrivalTime": "05:09:00",
+    "depatureTime": "05:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "KOMPANNAVEDIYA",
+    "arrivalTimeEndStation": "07:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "ANDADOLA",
+    "arrivalTime": "06:01:00",
+    "depatureTime": "06:02:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "KOMPANNAVEDIYA",
+    "arrivalTimeEndStation": "07:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8327"
+  }
+]

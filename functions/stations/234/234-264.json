@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "23:20:00",
+    "depatureTime": "23:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "TRINCOMALEE",
+    "arrivalTimeEndStation": "05:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

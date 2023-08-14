@@ -1,0 +1,136 @@
+[
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "03:15:00",
+    "depatureTime": "03:15:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "03:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "04:10:00",
+    "depatureTime": "04:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "AMBALANGODA",
+    "arrivalTimeFinalStation": "05:04:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "04:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8383"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "04:15:00",
+    "depatureTime": "04:15:00",
+    "trainFrequncy": "Train will be stop at BERUWALA on 25th & 26th January 2020",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "05:48:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "04:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8322"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "05:00:00",
+    "depatureTime": "05:00:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "05:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "05:15:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "06:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "08:50:00",
+    "depatureTime": "08:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "09:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8349"
+  },
+  {
+    "startStationName": "GALLE",
+    "arrivalTime": "17:05:00",
+    "depatureTime": "17:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "TELWATTE",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8379"
+  }
+]

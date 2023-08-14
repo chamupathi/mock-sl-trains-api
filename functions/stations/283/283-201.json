@@ -1,0 +1,221 @@
+[
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "00:37:00",
+    "depatureTime": "00:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "00:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "04:57:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "07:29:00",
+    "depatureTime": "07:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1121",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "07:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1121"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "09:46:00",
+    "depatureTime": "09:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "10:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "11:15:00",
+    "depatureTime": "11:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "11:31:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "11:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1142"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "11:49:00",
+    "depatureTime": "11:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "12:02:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "15:26:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "15:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1153"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "18:17:00",
+    "depatureTime": "18:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "18:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "20:09:00",
+    "depatureTime": "20:10:00",
+    "trainFrequncy": "Weekdays",
+    "trainName": "2185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:24:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "20:24:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "ULAPANE",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:32:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "20:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1185"
+  }
+]

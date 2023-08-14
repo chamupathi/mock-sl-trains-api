@@ -1,0 +1,72 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:25:00",
+    "depatureTime": "06:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "PILADUWA",
+    "arrivalTimeEndStation": "10:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "PILADUWA",
+    "arrivalTimeEndStation": "17:57:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "440.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "PILADUWA",
+    "arrivalTimeEndStation": "21:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

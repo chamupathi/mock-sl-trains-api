@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "05:11:00",
+    "depatureTime": "05:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "HALIELA",
+    "arrivalTimeEndStation": "07:16:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "HALIELA",
+    "arrivalTimeEndStation": "14:09:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "14:28:00",
+    "depatureTime": "14:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "HALIELA",
+    "arrivalTimeEndStation": "16:12:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "15:47:00",
+    "depatureTime": "15:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "HALIELA",
+    "arrivalTimeEndStation": "17:36:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "IDALGASINNA",
+    "arrivalTime": "17:17:00",
+    "depatureTime": "17:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "HALIELA",
+    "arrivalTimeEndStation": "19:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

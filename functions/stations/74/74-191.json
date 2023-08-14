@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "12:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "20:50:00",
+    "depatureTime": "21:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "00:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

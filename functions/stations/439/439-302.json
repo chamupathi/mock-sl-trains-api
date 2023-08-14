@@ -1,0 +1,93 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:08:00",
+    "depatureTime": "07:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "10:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:50:00",
+    "depatureTime": "08:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "11:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:45:00",
+    "depatureTime": "10:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "13:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:55:00",
+    "depatureTime": "14:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "WELIGAMA",
+    "arrivalTimeEndStation": "17:33:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

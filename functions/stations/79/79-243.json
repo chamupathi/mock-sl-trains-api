@@ -1,0 +1,120 @@
+[
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "08:40:00",
+    "depatureTime": "08:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "08:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "12:46:00",
+    "depatureTime": "12:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "12:55:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "14:13:00",
+    "depatureTime": "14:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "15:44:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "15:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "17:34:00",
+    "depatureTime": "17:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "17:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1159"
+  }
+]

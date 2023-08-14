@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "KINIGAMA",
+    "arrivalTime": "07:06:00",
+    "depatureTime": "07:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "POLGAHAWELA",
+    "arrivalTimeEndStation": "14:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "KINIGAMA",
+    "arrivalTime": "09:44:00",
+    "depatureTime": "09:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "POLGAHAWELA",
+    "arrivalTimeEndStation": "17:37:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "KINIGAMA",
+    "arrivalTime": "11:36:00",
+    "depatureTime": "11:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "POLGAHAWELA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "KINIGAMA",
+    "arrivalTime": "19:28:00",
+    "depatureTime": "19:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "POLGAHAWELA",
+    "arrivalTimeEndStation": "03:32:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

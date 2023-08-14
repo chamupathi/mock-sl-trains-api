@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "03:56:00",
+    "depatureTime": "03:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "IHALAWATAWALA",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "17:38:00",
+    "depatureTime": "17:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "IHALAWATAWALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

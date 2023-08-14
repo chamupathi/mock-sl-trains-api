@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "CHAVAKACHCHERI",
+    "arrivalTime": "06:59:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "PARANTHAN",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "CHAVAKACHCHERI",
+    "arrivalTime": "14:58:00",
+    "depatureTime": "14:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "PARANTHAN",
+    "arrivalTimeEndStation": "15:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

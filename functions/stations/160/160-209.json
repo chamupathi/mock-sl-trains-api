@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "PATAGAMGODA",
+    "arrivalTimeEndStation": "19:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "PATAGAMGODA",
+    "arrivalTimeEndStation": "21:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

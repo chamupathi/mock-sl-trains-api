@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "06:24:00",
+    "depatureTime": "06:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "06:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "08:33:00",
+    "depatureTime": "08:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "ULAPANE",
+    "arrivalTimeEndStation": "08:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

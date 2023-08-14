@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:53:00",
+    "depatureTime": "07:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "09:32:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "11:44:00",
+    "depatureTime": "11:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "13:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "14:48:00",
+    "depatureTime": "14:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GAMPOLA",
+    "arrivalTimeEndStation": "17:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

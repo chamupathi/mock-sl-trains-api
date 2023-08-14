@@ -1,0 +1,218 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "06:34:00",
+    "depatureTime": "06:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "06:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "07:47:00",
+    "depatureTime": "07:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "07:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "11:22:00",
+    "depatureTime": "11:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "15:13:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "15:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:34:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4468"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "19:24:00",
+    "depatureTime": "19:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "19:42:00",
+    "depatureTime": "19:43:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "19:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4470"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "20:02:00",
+    "depatureTime": "20:03:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "20:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "4472",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "20:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4472"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "23:20:00",
+    "depatureTime": "23:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "23:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "DEMATAGODA",
+    "arrivalTimeEndStation": "08:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4859"
+  }
+]

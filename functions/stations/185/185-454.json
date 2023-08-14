@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "09:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "14:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "14:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4455"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "18:54:00",
+    "depatureTime": "18:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "MARALUWEWA",
+    "arrivalTimeEndStation": "18:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4467"
+  }
+]

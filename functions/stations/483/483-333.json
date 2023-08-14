@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "Arivial Nagar",
+    "arrivalTime": "16:33:00",
+    "depatureTime": "16:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KILINOCHCHI",
+    "arrivalTimeEndStation": "16:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

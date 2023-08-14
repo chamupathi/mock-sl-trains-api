@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "05:18:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "05:49:00",
+    "depatureTime": "05:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "07:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8063"
+  }
+]

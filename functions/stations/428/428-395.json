@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "INUVIL",
+    "arrivalTime": "06:21:00",
+    "depatureTime": "06:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "ELIPHANT PASS",
+    "arrivalTimeEndStation": "07:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "INUVIL",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "ELIPHANT PASS",
+    "arrivalTimeEndStation": "15:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

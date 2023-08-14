@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "05:01:00",
+    "depatureTime": "05:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "PALLE TALAVINNA",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

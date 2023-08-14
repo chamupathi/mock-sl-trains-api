@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "HATARAS KOTUWA",
+    "arrivalTimeEndStation": "15:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

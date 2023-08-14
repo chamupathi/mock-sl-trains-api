@@ -1,0 +1,541 @@
+[
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "04:15:00",
+    "depatureTime": "04:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "04:57:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "04:38:00",
+    "depatureTime": "04:39:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "05:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:08:00",
+    "depatureTime": "05:09:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:08:00",
+    "depatureTime": "05:09:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "05:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:37:00",
+    "depatureTime": "05:38:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:52:00",
+    "depatureTime": "05:53:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "06:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "06:46:00",
+    "depatureTime": "06:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "07:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1531"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "07:38:00",
+    "depatureTime": "07:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:10:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "08:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1538"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "08:26:00",
+    "depatureTime": "08:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "09:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "09:03:00",
+    "depatureTime": "09:04:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "1547",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:31:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "09:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1547"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "09:32:00",
+    "depatureTime": "09:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "10:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "10:23:00",
+    "depatureTime": "10:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:42:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "11:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1539"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "11:02:00",
+    "depatureTime": "11:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "11:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "12:02:00",
+    "depatureTime": "12:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "12:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "13:48:00",
+    "depatureTime": "13:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "14:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "13:48:00",
+    "depatureTime": "13:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "14:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "14:28:00",
+    "depatureTime": "14:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "15:19:00",
+    "depatureTime": "15:20:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "15:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "16:08:00",
+    "depatureTime": "16:09:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "16:33:00",
+    "depatureTime": "16:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "17:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "16:52:00",
+    "depatureTime": "16:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:11:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "17:23:00",
+    "depatureTime": "17:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "18:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "17:59:00",
+    "depatureTime": "18:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "18:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:08:00",
+    "depatureTime": "18:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:22:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "18:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1569"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:56:00",
+    "depatureTime": "18:57:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "19:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1570"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "20:05:00",
+    "depatureTime": "20:06:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "20:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "20:47:00",
+    "depatureTime": "20:48:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:00:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "21:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1592"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "21:58:00",
+    "depatureTime": "21:59:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "BULUGAHAGODA",
+    "arrivalTimeEndStation": "22:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

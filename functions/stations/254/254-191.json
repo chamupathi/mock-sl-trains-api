@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "SENARATHGAMA",
+    "arrivalTime": "05:52:00",
+    "depatureTime": "05:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "SENARATHGAMA",
+    "arrivalTime": "14:47:00",
+    "depatureTime": "14:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "15:45:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4078"
+  }
+]

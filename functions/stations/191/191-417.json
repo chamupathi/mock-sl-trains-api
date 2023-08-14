@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "05:30:00",
+    "depatureTime": "05:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "DEWEDDA",
+    "arrivalTimeEndStation": "06:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "11:08:00",
+    "depatureTime": "11:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "DEWEDDA",
+    "arrivalTimeEndStation": "11:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "DEWEDDA",
+    "arrivalTimeEndStation": "14:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "16:57:00",
+    "depatureTime": "17:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "DEWEDDA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

@@ -1,0 +1,215 @@
+[
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "02:29:00",
+    "depatureTime": "02:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "05:12:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1046"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "04:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1038",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:12:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "07:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1038"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "05:30:00",
+    "depatureTime": "05:31:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:07:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "08:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1040"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "06:55:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "09:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "11:21:00",
+    "depatureTime": "11:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "13:37:00",
+    "depatureTime": "13:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "15:41:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "16:06:00",
+    "depatureTime": "16:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "16:27:00",
+    "depatureTime": "16:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "18:51:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "KADUGANNAWA",
+    "arrivalTime": "17:37:00",
+    "depatureTime": "17:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MARADANA",
+    "arrivalTimeEndStation": "20:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

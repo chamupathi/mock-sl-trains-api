@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "PUWAKPITIYA",
+    "arrivalTime": "04:54:00",
+    "depatureTime": "04:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "PUWAKPITIYA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "PUWAKPITIYA",
+    "arrivalTime": "06:37:00",
+    "depatureTime": "06:38:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "09:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "PUWAKPITIYA",
+    "arrivalTime": "12:37:00",
+    "depatureTime": "12:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

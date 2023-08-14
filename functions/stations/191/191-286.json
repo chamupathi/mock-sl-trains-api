@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "08:43:00",
+    "depatureTime": "08:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

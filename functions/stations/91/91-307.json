@@ -1,0 +1,100 @@
+[
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "03:14:00",
+    "depatureTime": "03:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:09:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "04:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8302"
+  },
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "03:44:00",
+    "depatureTime": "03:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:39:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "05:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8304"
+  },
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "04:19:00",
+    "depatureTime": "04:20:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:16:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "05:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8309"
+  },
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "05:15:00",
+    "depatureTime": "05:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:18:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "06:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8317"
+  },
+  {
+    "startStationName": "HETTIMULLA",
+    "arrivalTime": "16:19:00",
+    "depatureTime": "16:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:33:00",
+    "endStationName": "WELLAWATTA",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8373"
+  }
+]

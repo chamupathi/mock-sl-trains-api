@@ -1,0 +1,104 @@
+[
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "04:34:00",
+    "depatureTime": "04:35:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "PANADURA",
+    "arrivalTimeEndStation": "05:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "PANADURA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "06:21:00",
+    "depatureTime": "06:22:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "PANADURA",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "PANADURA",
+    "arrivalTimeEndStation": "08:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "10:31:00",
+    "depatureTime": "10:32:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "PANADURA",
+    "arrivalTimeEndStation": "11:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

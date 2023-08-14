@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "07:47:00",
+    "depatureTime": "07:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "PUNANI",
+    "arrivalTimeEndStation": "13:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "380.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

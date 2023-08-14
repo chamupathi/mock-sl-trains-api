@@ -1,0 +1,118 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "05:35:00",
+    "depatureTime": "05:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:56:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "06:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1236"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "07:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "08:41:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "09:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:50:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "11:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1541"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:16:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "17:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1244"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

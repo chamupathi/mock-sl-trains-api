@@ -1,0 +1,28 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "16:01:00",
+    "depatureTime": "16:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KEKANADURA",
+    "arrivalTimeEndStation": "18:05:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "280.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

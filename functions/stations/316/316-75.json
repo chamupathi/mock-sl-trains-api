@@ -1,0 +1,531 @@
+[
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "03:48:00",
+    "depatureTime": "03:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "04:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "04:11:00",
+    "depatureTime": "04:12:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "05:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "05:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "05:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "05:13:00",
+    "depatureTime": "05:14:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "05:27:00",
+    "depatureTime": "05:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "06:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:48:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "06:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1535"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "06:02:00",
+    "depatureTime": "06:03:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1537"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:09:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1526"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "06:38:00",
+    "depatureTime": "06:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1526",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1526"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "06:43:00",
+    "depatureTime": "06:44:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:30:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1542"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "08:02:00",
+    "depatureTime": "08:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "08:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "09:08:00",
+    "depatureTime": "09:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "10:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "10:38:00",
+    "depatureTime": "10:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "11:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "11:38:00",
+    "depatureTime": "11:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "12:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "14:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "14:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "15:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "14:55:00",
+    "depatureTime": "14:56:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "15:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "15:38:00",
+    "depatureTime": "15:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "16:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "16:09:00",
+    "depatureTime": "16:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "17:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "16:56:00",
+    "depatureTime": "16:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "17:38:00",
+    "depatureTime": "17:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "18:28:00",
+    "depatureTime": "18:29:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "19:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1570"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "19:28:00",
+    "depatureTime": "19:29:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "20:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "20:23:00",
+    "depatureTime": "20:24:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:00:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "21:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1592"
+  },
+  {
+    "startStationName": "YATTALGODA",
+    "arrivalTime": "21:34:00",
+    "depatureTime": "21:35:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "22:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "Dekinda",
+    "arrivalTimeEndStation": "15:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1159"
+  }
+]

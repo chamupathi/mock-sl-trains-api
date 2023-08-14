@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "17:54:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "18:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "18:27:00",
+    "depatureTime": "18:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "18:56:00",
+    "depatureTime": "18:57:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "19:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "19:13:00",
+    "depatureTime": "19:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "19:31:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "19:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9265"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "19:33:00",
+    "depatureTime": "19:34:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "19:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "20:31:00",
+    "depatureTime": "20:32:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "20:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "GAMMANA",
+    "arrivalTime": "22:01:00",
+    "depatureTime": "22:02:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "WAGA",
+    "arrivalTimeEndStation": "22:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

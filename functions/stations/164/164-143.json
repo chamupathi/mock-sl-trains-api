@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "17:26:00",
+    "depatureTime": "17:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "17:56:00",
+    "depatureTime": "17:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:26:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "18:44:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "19:31:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9265"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "19:02:00",
+    "depatureTime": "19:03:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:01:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "20:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "MEEGODA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:31:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "22:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

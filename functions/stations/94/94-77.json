@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "06:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "HIRIYALA",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "15:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "WADDUWA",
+    "arrivalTime": "07:37:00",
+    "depatureTime": "07:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "10:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

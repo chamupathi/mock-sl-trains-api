@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "SEVANAPITIYA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MUTHTHETTUGALA",
+    "arrivalTimeEndStation": "12:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

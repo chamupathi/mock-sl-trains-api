@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "06:25:00",
+    "depatureTime": "06:25:00",
+    "trainFrequncy": "working days only",
+    "trainName": "6",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "6"
+  },
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "07:36:00",
+    "depatureTime": "07:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5846",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "08:15:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "08:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5846"
+  },
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "10",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "15:31:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "15:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "10"
+  },
+  {
+    "startStationName": "MEDAWACHCHIYA",
+    "arrivalTime": "17:55:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "12",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:40:00",
+    "endStationName": "MIHINTALE JUNCTION",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "12"
+  }
+]

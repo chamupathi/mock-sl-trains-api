@@ -1,0 +1,82 @@
+[
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "04:38:00",
+    "depatureTime": "04:39:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "05:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "06:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "07:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "10:36:00",
+    "depatureTime": "10:38:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "PAYAGALA NORTH",
+    "arrivalTimeEndStation": "11:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

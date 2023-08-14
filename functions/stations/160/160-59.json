@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:09:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "ERAVUR",
+    "arrivalTimeEndStation": "14:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "1000.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "500.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

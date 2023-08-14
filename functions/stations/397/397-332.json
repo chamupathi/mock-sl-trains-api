@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KODIKAMAM",
+    "arrivalTime": "07:11:00",
+    "depatureTime": "07:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "MURIKANDY",
+    "arrivalTimeEndStation": "08:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "KODIKAMAM",
+    "arrivalTime": "15:10:00",
+    "depatureTime": "15:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "MURIKANDY",
+    "arrivalTimeEndStation": "16:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

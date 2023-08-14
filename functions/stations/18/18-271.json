@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "16:01:00",
+    "depatureTime": "16:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "THALPE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

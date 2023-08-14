@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "06:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "13:08:00",
+    "depatureTime": "13:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "13:24:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "15:23:00",
+    "depatureTime": "15:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "15:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "16:44:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "18:12:00",
+    "depatureTime": "18:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "18:26:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

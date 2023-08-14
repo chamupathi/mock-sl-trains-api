@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "05:32:00",
+    "depatureTime": "05:33:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "07:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "10:58:00",
+    "depatureTime": "10:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "13:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "14:37:00",
+    "depatureTime": "14:53:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "17:48:00",
+    "depatureTime": "17:49:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "20:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

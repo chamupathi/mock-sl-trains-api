@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "04:10:00",
+    "depatureTime": "04:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "PEMROSE",
+    "arrivalTimeEndStation": "08:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

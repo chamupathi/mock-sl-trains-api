@@ -1,0 +1,122 @@
+[
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "06:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:40:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "07:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "10:15:00",
+    "depatureTime": "10:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "11:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "13:50:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "15:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "18:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "19:00:00",
+    "depatureTime": "19:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "ASGIRIYA",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

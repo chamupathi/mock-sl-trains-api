@@ -1,0 +1,158 @@
+[
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "05:50:00",
+    "depatureTime": "05:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "05:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "07:32:00",
+    "depatureTime": "07:33:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "07:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "09:23:00",
+    "depatureTime": "09:24:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "2630",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:37:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "09:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2630"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "-",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "09:55:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "09:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2640"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "11:29:00",
+    "depatureTime": "11:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "11:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "15:03:00",
+    "depatureTime": "15:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "15:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "18:28:00",
+    "depatureTime": "18:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "20:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "06:08:00",
+    "depatureTime": "06:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:56:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1236"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "07:08:00",
+    "depatureTime": "07:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "09:27:00",
+    "depatureTime": "09:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "10:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "10:53:00",
+    "depatureTime": "11:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:50:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "11:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1541"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "12:33:00",
+    "depatureTime": "12:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "13:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "15:22:00",
+    "depatureTime": "15:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "15:53:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "17:18:00",
+    "depatureTime": "17:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:16:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1244"
+  },
+  {
+    "startStationName": "GAMPOLA",
+    "arrivalTime": "19:48:00",
+    "depatureTime": "19:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

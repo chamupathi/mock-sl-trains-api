@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "AGBOPURA",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "22:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

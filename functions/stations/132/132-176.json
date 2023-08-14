@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "22:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

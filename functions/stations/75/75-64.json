@@ -1,0 +1,77 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "GALABODA",
+    "arrivalTimeEndStation": "10:28:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "09:01:00",
+    "depatureTime": "09:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "GALABODA",
+    "arrivalTimeEndStation": "12:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "21:10:00",
+    "depatureTime": "21:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "GALABODA",
+    "arrivalTimeEndStation": "01:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1045"
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "VALACHCHENEI",
+    "arrivalTime": "07:03:00",
+    "depatureTime": "07:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "09:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "VALACHCHENEI",
+    "arrivalTime": "11:56:00",
+    "depatureTime": "12:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "VALACHCHENEI",
+    "arrivalTime": "21:01:00",
+    "depatureTime": "21:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "23:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

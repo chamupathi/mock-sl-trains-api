@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "KOSGAMA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "KOSGAMA",
+    "arrivalTime": "19:54:00",
+    "depatureTime": "19:55:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "20:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "KOSGAMA",
+    "arrivalTime": "22:22:00",
+    "depatureTime": "22:23:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "22:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

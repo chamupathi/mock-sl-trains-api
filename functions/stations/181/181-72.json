@@ -1,0 +1,100 @@
+[
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "05:23:00",
+    "depatureTime": "05:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "8708",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "06:30:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "06:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8708"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "06:52:00",
+    "depatureTime": "06:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "14:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "19:21:00",
+    "depatureTime": "19:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "19:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "22:14:00",
+    "depatureTime": "22:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "22:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "ANURADHAPURA TOWN",
+    "arrivalTime": "05:05:00",
+    "depatureTime": "05:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4086"
+  }
+]

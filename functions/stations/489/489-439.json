@@ -1,0 +1,50 @@
+[
+  {
+    "startStationName": "WEWURUKANNALA",
+    "arrivalTime": "05:36:00",
+    "depatureTime": "05:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "09:22:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "440.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "WEWURUKANNALA",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "MOUNT LAVINIA",
+    "arrivalTimeEndStation": "12:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "05:07:00",
+    "depatureTime": "05:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:43:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9648"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "05:27:00",
+    "depatureTime": "05:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:03:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9647"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "05:51:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "08:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9641"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "07:39:00",
+    "depatureTime": "07:40:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "08:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "13:46:00",
+    "depatureTime": "13:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9657"
+  },
+  {
+    "startStationName": "WATARAKA",
+    "arrivalTime": "15:52:00",
+    "depatureTime": "15:53:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:38:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "17:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9661"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "04:58:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "KELANIYA",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "KELANIYA",
+    "arrivalTimeEndStation": "08:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4859"
+  }
+]

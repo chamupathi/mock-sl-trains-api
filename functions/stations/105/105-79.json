@@ -1,0 +1,117 @@
+[
+  {
+    "startStationName": "IHALAWATAWALA",
+    "arrivalTime": "06:30:00",
+    "depatureTime": "06:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "08:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "IHALAWATAWALA",
+    "arrivalTime": "11:15:00",
+    "depatureTime": "11:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "IHALAWATAWALA",
+    "arrivalTime": "12:54:00",
+    "depatureTime": "12:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "14:13:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "IHALAWATAWALA",
+    "arrivalTime": "15:53:00",
+    "depatureTime": "15:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "IHALAWATAWALA",
+    "arrivalTime": "19:36:00",
+    "depatureTime": "19:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "21:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

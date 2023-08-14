@@ -1,0 +1,167 @@
+[
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "02:34:00",
+    "depatureTime": "02:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "03:20:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "07:36:00",
+    "depatureTime": "07:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "08:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "11:52:00",
+    "depatureTime": "11:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "13:31:00",
+    "depatureTime": "13:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "14:13:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "14:48:00",
+    "depatureTime": "15:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "15:44:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "16:38:00",
+    "depatureTime": "16:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "KOTAGALA",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "21:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "07:51:00",
+    "depatureTime": "07:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALOYA JUNCTION",
+    "arrivalTimeFinalStation": "08:38:00",
+    "endStationName": "AGBOPURA",
+    "arrivalTimeEndStation": "08:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7886"
+  },
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "12:23:00",
+    "depatureTime": "12:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALOYA JUNCTION",
+    "arrivalTimeFinalStation": "13:22:00",
+    "endStationName": "AGBOPURA",
+    "arrivalTimeEndStation": "12:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7887"
+  },
+  {
+    "startStationName": "KANTALE",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "AGBOPURA",
+    "arrivalTimeEndStation": "20:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

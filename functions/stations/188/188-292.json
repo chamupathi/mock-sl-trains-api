@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "04:34:00",
+    "depatureTime": "04:35:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "05:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "05:29:00",
+    "depatureTime": "05:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "06:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "MHA INDURUWA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "08:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

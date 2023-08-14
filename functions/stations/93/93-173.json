@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HINGURAKGODA",
+    "arrivalTime": "14:46:00",
+    "depatureTime": "14:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MINNERIYA",
+    "arrivalTimeEndStation": "14:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

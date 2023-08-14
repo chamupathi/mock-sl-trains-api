@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "06:41:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "10:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "09:11:00",
+    "depatureTime": "09:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "12:02:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "13:26:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "13:25:00",
+    "depatureTime": "13:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "18:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "21:22:00",
+    "depatureTime": "21:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "NAWALAPITIYA",
+    "arrivalTimeEndStation": "00:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1045"
+  }
+]

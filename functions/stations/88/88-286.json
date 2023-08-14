@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "07:57:00",
+    "depatureTime": "07:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "12:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "HORIWIALA",
+    "arrivalTime": "10:57:00",
+    "depatureTime": "10:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "VALACHCHENEI",
+    "arrivalTimeEndStation": "13:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

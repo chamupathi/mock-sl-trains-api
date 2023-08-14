@@ -1,0 +1,136 @@
+[
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "04:46:00",
+    "depatureTime": "04:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "07:06:00",
+    "depatureTime": "07:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "08:21:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "08:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2236"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "10:31:00",
+    "depatureTime": "10:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "11:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2237"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "14:06:00",
+    "depatureTime": "14:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2019"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "17:27:00",
+    "depatureTime": "17:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "18:49:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2243"
+  },
+  {
+    "startStationName": "MAHAIYAWA",
+    "arrivalTime": "19:06:00",
+    "depatureTime": "19:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "20:22:00",
+    "endStationName": "MATALE",
+    "arrivalTimeEndStation": "20:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2244"
+  }
+]

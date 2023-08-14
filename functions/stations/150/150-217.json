@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KATUGODA",
+    "arrivalTime": "09:41:00",
+    "depatureTime": "09:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "PILIDUWA",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8050"
+  }
+]

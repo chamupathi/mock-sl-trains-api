@@ -1,0 +1,428 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "04:58:00",
+    "depatureTime": "04:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "05:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:06:00",
+    "depatureTime": "06:07:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "06:47:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8717"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:23:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "07:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8724"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:30:00",
+    "depatureTime": "07:31:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:57:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "07:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:03:00",
+    "depatureTime": "08:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "08:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8727"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:20:00",
+    "depatureTime": "08:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "08:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8729"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:08:00",
+    "depatureTime": "09:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "09:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:08:00",
+    "depatureTime": "10:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "10:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "11:38:00",
+    "depatureTime": "11:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "11:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "13:58:00",
+    "depatureTime": "13:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "14:25:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "14:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8748"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:29:00",
+    "depatureTime": "14:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "14:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "14:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8749"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "15:50:00",
+    "depatureTime": "15:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:58:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "16:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8756"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "16:18:00",
+    "depatureTime": "16:19:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "16:32:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "16:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8762"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "16:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "17:40:00",
+    "depatureTime": "17:41:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:04:00",
+    "depatureTime": "19:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:40:00",
+    "depatureTime": "19:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "19:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "20:28:00",
+    "depatureTime": "20:29:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "20:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "21:03:00",
+    "depatureTime": "21:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "21:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "21:58:00",
+    "depatureTime": "21:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "LUNAWA",
+    "arrivalTimeEndStation": "22:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

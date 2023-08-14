@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "MEDDEGAMA",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "15:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

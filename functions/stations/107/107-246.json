@@ -1,0 +1,280 @@
+[
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "05:40:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "05:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "06:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "06:47:00",
+    "depatureTime": "06:48:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:26:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3803"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "07:24:00",
+    "depatureTime": "07:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:07:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3809"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "08:10:00",
+    "depatureTime": "08:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "09:34:00",
+    "depatureTime": "09:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:16:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3821"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "11:00:00",
+    "depatureTime": "11:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "11:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "13:37:00",
+    "depatureTime": "13:38:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "17:34:00",
+    "depatureTime": "17:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "18:59:00",
+    "depatureTime": "19:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:40:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3825"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "19:25:00",
+    "depatureTime": "19:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "19:49:00",
+    "depatureTime": "19:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:35:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3830"
+  },
+  {
+    "startStationName": "JA-ELA",
+    "arrivalTime": "20:44:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "20:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

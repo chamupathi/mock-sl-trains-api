@@ -1,0 +1,99 @@
+[
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "07:34:00",
+    "depatureTime": "07:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "10:55:00",
+    "depatureTime": "11:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "13:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "13:38:00",
+    "depatureTime": "13:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "16:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "ROSELLA",
+    "arrivalTime": "15:28:00",
+    "depatureTime": "15:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "PILIMATALAWA",
+    "arrivalTimeEndStation": "17:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

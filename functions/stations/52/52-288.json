@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "DEWAPURAM",
+    "arrivalTime": "12:20:00",
+    "depatureTime": "12:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "VANDARAMULLAI",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6479"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "GIRAMBE",
+    "arrivalTime": "06:23:00",
+    "depatureTime": "06:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "07:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "GIRAMBE",
+    "arrivalTime": "14:59:00",
+    "depatureTime": "15:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "NAGOLLAGAMA",
+    "arrivalTimeEndStation": "16:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

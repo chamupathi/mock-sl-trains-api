@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "ELIPHANT PASS",
+    "arrivalTime": "07:42:00",
+    "depatureTime": "07:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "KILINOCHCHI",
+    "arrivalTimeEndStation": "07:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "ELIPHANT PASS",
+    "arrivalTime": "15:41:00",
+    "depatureTime": "15:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "KILINOCHCHI",
+    "arrivalTimeEndStation": "15:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

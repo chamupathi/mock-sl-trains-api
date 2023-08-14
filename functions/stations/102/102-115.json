@@ -1,0 +1,246 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "04:51:00",
+    "depatureTime": "04:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:08:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "06:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1120"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "06:21:00",
+    "depatureTime": "06:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:38:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "07:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1128"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:53:00",
+    "depatureTime": "07:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "08:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "12:46:00",
+    "depatureTime": "12:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "13:55:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "13:55:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "12:47:00",
+    "depatureTime": "12:48:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "13:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "14:48:00",
+    "depatureTime": "14:53:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "15:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "18:39:00",
+    "depatureTime": "18:40:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "19:34:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "19:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1035"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "19:09:00",
+    "depatureTime": "19:10:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:00:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "19:14:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "MONDAY TO SATURDAY",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:05:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "20:01:00",
+    "depatureTime": "20:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:55:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1039"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "22:04:00",
+    "depatureTime": "22:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "23:27:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "23:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1189"
+  }
+]

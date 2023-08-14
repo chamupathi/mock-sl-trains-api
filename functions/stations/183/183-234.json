@@ -1,0 +1,49 @@
+[
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "03:24:00",
+    "depatureTime": "03:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "PULATHISI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6076"
+  },
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "08:16:00",
+    "depatureTime": "08:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

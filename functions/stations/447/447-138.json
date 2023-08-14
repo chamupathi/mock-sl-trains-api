@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "KIRINDIWELA",
+    "arrivalTime": "04:44:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "06:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "KIRINDIWELA",
+    "arrivalTime": "12:29:00",
+    "depatureTime": "12:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "KIRULAPANA",
+    "arrivalTimeEndStation": "15:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

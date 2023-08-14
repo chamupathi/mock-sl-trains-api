@@ -1,0 +1,142 @@
+[
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "01:29:00",
+    "depatureTime": "01:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "03:20:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "05:49:00",
+    "depatureTime": "06:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "08:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "10:28:00",
+    "depatureTime": "10:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "12:30:00",
+    "depatureTime": "12:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "14:13:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "14:58:00",
+    "depatureTime": "14:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "GALABODA",
+    "arrivalTime": "18:04:00",
+    "depatureTime": "18:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GREAT WESTERN",
+    "arrivalTimeEndStation": "21:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

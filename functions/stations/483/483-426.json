@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "Arivial Nagar",
+    "arrivalTime": "16:33:00",
+    "depatureTime": "16:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "TELLIPALLAI",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

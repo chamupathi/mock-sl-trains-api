@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "04:43:00",
+    "depatureTime": "04:44:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "04:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "07:05:00",
+    "depatureTime": "07:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "07:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "10:42:00",
+    "depatureTime": "10:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "10:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

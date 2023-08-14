@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "07:16:00",
+    "depatureTime": "07:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "07:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "11:32:00",
+    "depatureTime": "11:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "11:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "14:54:00",
+    "depatureTime": "14:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "15:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "BANGADENIYA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:01:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "20:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3425"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MATHOTTAM",
+    "arrivalTime": "06:34:00",
+    "depatureTime": "06:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5846",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "08:15:00",
+    "endStationName": "MEDAWACHCHIYA",
+    "arrivalTimeEndStation": "07:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "5846"
+  }
+]

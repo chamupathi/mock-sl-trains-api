@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:29:00",
+    "depatureTime": "18:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KUMBALGAMA",
+    "arrivalTimeEndStation": "21:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

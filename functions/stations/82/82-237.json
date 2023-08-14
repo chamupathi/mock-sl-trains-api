@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "PALUGASWEWA",
+    "arrivalTimeEndStation": "09:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "16:07:00",
+    "depatureTime": "16:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "PALUGASWEWA",
+    "arrivalTimeEndStation": "16:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "PALUGASWEWA",
+    "arrivalTimeEndStation": "21:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

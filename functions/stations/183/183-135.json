@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "08:16:00",
+    "depatureTime": "08:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "11:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "MANAMPITIYA",
+    "arrivalTime": "13:37:00",
+    "depatureTime": "13:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

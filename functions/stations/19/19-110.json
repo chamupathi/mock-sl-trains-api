@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "ANAWILUNDAWA",
+    "arrivalTime": "10:48:00",
+    "depatureTime": "10:49:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "13:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "ANAWILUNDAWA",
+    "arrivalTime": "14:27:00",
+    "depatureTime": "14:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "ANAWILUNDAWA",
+    "arrivalTime": "17:38:00",
+    "depatureTime": "17:39:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "20:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

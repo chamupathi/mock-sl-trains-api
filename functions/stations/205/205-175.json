@@ -1,0 +1,96 @@
+[
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "17:21:00",
+    "depatureTime": "17:22:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "MORAKELE",
+    "arrivalTimeEndStation": "18:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "17:47:00",
+    "depatureTime": "17:49:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "MORAKELE",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "18:27:00",
+    "depatureTime": "18:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "MORAKELE",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "19:25:00",
+    "depatureTime": "19:26:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "MORAKELE",
+    "arrivalTimeEndStation": "20:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "PANNIPITIYA",
+    "arrivalTime": "20:55:00",
+    "depatureTime": "20:56:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "MORAKELE",
+    "arrivalTimeEndStation": "22:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

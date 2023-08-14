@@ -1,0 +1,502 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "03:20:00",
+    "depatureTime": "03:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "03:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "04:35:00",
+    "depatureTime": "04:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "05:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:12:00",
+    "depatureTime": "05:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "06:51:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "05:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1124"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "06:18:00",
+    "depatureTime": "06:18:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "GAMPAHA",
+    "arrivalTimeFinalStation": "07:19:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "07:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1132"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "07:02:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "07:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:00:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "08:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "09:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "09:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:10:00",
+    "depatureTime": "10:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "10:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "11:15:00",
+    "depatureTime": "11:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "11:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "12:50:00",
+    "depatureTime": "12:50:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "13:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:25:00",
+    "depatureTime": "13:25:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "14:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:50:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1149",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "14:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1149"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:55:00",
+    "depatureTime": "13:55:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "VEYANGODA",
+    "arrivalTimeFinalStation": "15:07:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "14:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1154"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:20:00",
+    "depatureTime": "14:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1158",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "16:16:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "14:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1158"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "14:50:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:05:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "15:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1162"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "15:45:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "NOT ON FRIDAY",
+    "trainName": "1170",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:54:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "16:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1170"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:00:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "17:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "17:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:40:00",
+    "depatureTime": "17:40:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "VEYANGODA",
+    "arrivalTimeFinalStation": "19:23:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "18:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1177"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "19:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "19:50:00",
+    "depatureTime": "19:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "20:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:45:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "21:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1192"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "21:45:00",
+    "depatureTime": "21:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "22:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1196"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "23:00:00",
+    "depatureTime": "23:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "BATUWATTE",
+    "arrivalTimeEndStation": "23:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1194"
+  }
+]

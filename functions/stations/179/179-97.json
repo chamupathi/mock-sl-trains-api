@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "11:03:00",
+    "depatureTime": "11:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "14:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "MANUWANGAMA",
+    "arrivalTime": "14:57:00",
+    "depatureTime": "14:58:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3820"
+  }
+]

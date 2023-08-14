@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "06:22:00",
+    "depatureTime": "06:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "ERUKKALAM PENDU",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "10:35:00",
+    "depatureTime": "10:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "ERUKKALAM PENDU",
+    "arrivalTimeEndStation": "12:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "ERUKKALAM PENDU",
+    "arrivalTimeEndStation": "15:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "19:10:00",
+    "depatureTime": "19:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "ERUKKALAM PENDU",
+    "arrivalTimeEndStation": "20:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3425"
+  }
+]

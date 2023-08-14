@@ -1,0 +1,94 @@
+[
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "10:30:00",
+    "depatureTime": "10:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "BELIATHTHA",
+    "arrivalTimeEndStation": "11:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "17:41:00",
+    "depatureTime": "17:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "BELIATHTHA",
+    "arrivalTimeEndStation": "18:28:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "120.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "17:54:00",
+    "depatureTime": "17:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "BELIATHTHA",
+    "arrivalTimeEndStation": "18:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "21:40:00",
+    "depatureTime": "21:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "BELIATHTHA",
+    "arrivalTimeEndStation": "22:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

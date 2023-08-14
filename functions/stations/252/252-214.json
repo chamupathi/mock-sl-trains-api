@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "05:43:00",
+    "depatureTime": "05:44:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "16:22:00",
+    "depatureTime": "16:23:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "17:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "16:52:00",
+    "depatureTime": "16:53:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "17:17:00",
+    "depatureTime": "17:18:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "17:53:00",
+    "depatureTime": "17:54:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "18:22:00",
+    "depatureTime": "18:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "18:37:00",
+    "depatureTime": "18:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "19:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8774"
+  }
+]

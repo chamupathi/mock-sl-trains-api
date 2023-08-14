@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "04:53:00",
+    "depatureTime": "04:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "06:06:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "06:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2231"
+  },
+  {
+    "startStationName": "MAVILMADA",
+    "arrivalTime": "14:13:00",
+    "depatureTime": "14:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "KOHOMBILIWALA",
+    "arrivalTimeEndStation": "15:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2019"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:42:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "14:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

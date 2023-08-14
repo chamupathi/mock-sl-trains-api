@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "BANDARAWELA",
+    "arrivalTime": "12:44:00",
+    "depatureTime": "12:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "ANURADHAPURA TOWN",
+    "arrivalTime": "23:15:00",
+    "depatureTime": "23:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "AMBEYPUSSA",
+    "arrivalTimeEndStation": "02:41:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "4090"
+  }
+]

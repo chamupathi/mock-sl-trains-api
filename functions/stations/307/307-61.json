@@ -1,0 +1,538 @@
+[
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "04:51:00",
+    "depatureTime": "04:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:09:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "05:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8302"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "05:21:00",
+    "depatureTime": "05:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:39:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "05:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8304"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "05:56:00",
+    "depatureTime": "05:57:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:16:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8309"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "06:47:00",
+    "depatureTime": "06:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:08:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8310"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:18:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8317"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:31:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8316"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "07:11:00",
+    "depatureTime": "07:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "07:16:00",
+    "depatureTime": "07:17:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "07:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "07:58:00",
+    "depatureTime": "07:59:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:24:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8313"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "08:10:00",
+    "depatureTime": "08:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:36:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8325"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8328"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "08:35:00",
+    "depatureTime": "08:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:01:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "08:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8331"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "09:06:00",
+    "depatureTime": "09:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:32:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8335"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "09:39:00",
+    "depatureTime": "09:40:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:04:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "09:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8330"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "09:50:00",
+    "depatureTime": "09:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:17:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "10:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8346"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "09:54:00",
+    "depatureTime": "09:55:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "10:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8339"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "10:20:00",
+    "depatureTime": "10:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:45:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "10:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8336"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "12:07:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "12:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8344"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "13:49:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "14:15:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "14:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8350"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "14:41:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:01:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "14:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8352"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "15:35:00",
+    "depatureTime": "15:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:55:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "15:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8355"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "16:19:00",
+    "depatureTime": "16:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:37:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "16:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8356"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "16:50:00",
+    "depatureTime": "16:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:08:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8365"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8367"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "18:13:00",
+    "depatureTime": "18:14:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:29:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8378"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "18:16:00",
+    "depatureTime": "18:17:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:33:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8373"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:52:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8372"
+  },
+  {
+    "startStationName": "WELLAWATTA",
+    "arrivalTime": "19:43:00",
+    "depatureTime": "19:44:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "20:04:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "19:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8375"
+  }
+]

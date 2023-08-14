@@ -1,0 +1,227 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "00:11:00",
+    "depatureTime": "00:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "01:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "7084"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "04:58:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:46:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "05:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "04:58:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "05:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4857"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "05:30:00",
+    "depatureTime": "05:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "05:33:00",
+    "depatureTime": "05:34:00",
+    "trainFrequncy": "NSU",
+    "trainName": "4859",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "06:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4859"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "07:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "11:08:00",
+    "depatureTime": "11:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "12:06:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "12:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "15:45:00",
+    "depatureTime": "15:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "16:27:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4078"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "16:57:00",
+    "depatureTime": "17:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "18:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

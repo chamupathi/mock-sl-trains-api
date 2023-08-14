@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MANNAR",
+    "arrivalTime": "18:55:00",
+    "depatureTime": "18:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "TALAIMANNAR PIER",
+    "arrivalTimeEndStation": "19:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

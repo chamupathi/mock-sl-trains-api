@@ -1,0 +1,184 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:55:00",
+    "depatureTime": "05:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:35:00",
+    "depatureTime": "10:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "13:55:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "12:57:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "10:35:00",
+    "depatureTime": "10:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "13:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1019"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "12:40:00",
+    "depatureTime": "12:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "15:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:35:00",
+    "depatureTime": "16:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "19:34:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "18:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1035"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:15:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "MONDAY TO SATURDAY",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:05:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "19:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:15:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "1037",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:00:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "19:20:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1037"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:45:00",
+    "depatureTime": "17:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:55:00",
+    "endStationName": "BALANA",
+    "arrivalTimeEndStation": "20:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1039"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "07:14:00",
+    "depatureTime": "07:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "09:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "10:11:00",
+    "depatureTime": "10:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "11:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "12:27:00",
+    "depatureTime": "12:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "14:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "13:41:00",
+    "depatureTime": "13:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "15:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "16:31:00",
+    "depatureTime": "16:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "18:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "20:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "WAIKKALA",
+    "arrivalTime": "19:55:00",
+    "depatureTime": "19:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "21:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "11:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "22:18:00",
+    "depatureTime": "22:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "03:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "700.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "340.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,86 @@
+[
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "00:31:00",
+    "depatureTime": "00:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "03:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "06:12:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "08:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "11:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "MAHO",
+    "arrivalTime": "21:45:00",
+    "depatureTime": "22:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night mail",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "03:55:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "00:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6079"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "KANDANA",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "07:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "KANDANA",
+    "arrivalTime": "08:31:00",
+    "depatureTime": "08:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "11:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "KANDANA",
+    "arrivalTime": "12:44:00",
+    "depatureTime": "12:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "15:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "KANDANA",
+    "arrivalTime": "17:49:00",
+    "depatureTime": "17:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "BATTALUOYA",
+    "arrivalTimeEndStation": "20:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "3425"
+  }
+]

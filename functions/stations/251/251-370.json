@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "SALIYAPURA",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "NERIYAKULAM",
+    "arrivalTimeEndStation": "17:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

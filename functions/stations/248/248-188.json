@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "RATMALANA",
+    "arrivalTime": "10:03:00",
+    "depatureTime": "10:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "MHA INDURUWA",
+    "arrivalTimeEndStation": "13:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "RATMALANA",
+    "arrivalTime": "17:53:00",
+    "depatureTime": "17:54:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "MHA INDURUWA",
+    "arrivalTimeEndStation": "18:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "RATMALANA",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "MHA INDURUWA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8764"
+  }
+]

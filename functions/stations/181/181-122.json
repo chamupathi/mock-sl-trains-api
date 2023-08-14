@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "04:04:00",
+    "depatureTime": "04:05:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "05:19:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "06:14:00",
+    "depatureTime": "06:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "07:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "MADAMPAGAMA",
+    "arrivalTime": "09:50:00",
+    "depatureTime": "09:51:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "11:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

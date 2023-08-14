@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "MATARA",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "BENTOTA",
+    "arrivalTimeEndStation": "08:19:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "MATARA",
+    "arrivalTime": "13:40:00",
+    "depatureTime": "13:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:11:00",
+    "endStationName": "BENTOTA",
+    "arrivalTimeEndStation": "15:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8039"
+  },
+  {
+    "startStationName": "MATARA",
+    "arrivalTime": "14:05:00",
+    "depatureTime": "14:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "BENTOTA",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

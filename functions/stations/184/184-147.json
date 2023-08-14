@@ -1,0 +1,324 @@
+[
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "16:20:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "07:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "07:18:00",
+    "depatureTime": "07:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "07:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "09:21:00",
+    "depatureTime": "09:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "09:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "10:26:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "11:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "11:52:00",
+    "depatureTime": "11:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "12:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "14:43:00",
+    "depatureTime": "14:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "16:59:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "17:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "17:54:00",
+    "depatureTime": "18:01:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "18:21:00",
+    "depatureTime": "18:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "18:59:00",
+    "depatureTime": "19:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "19:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "19:21:00",
+    "depatureTime": "19:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "19:54:00",
+    "depatureTime": "19:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "20:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "19:56:00",
+    "depatureTime": "19:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "20:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8775"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "20:42:00",
+    "depatureTime": "20:43:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "21:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "21:17:00",
+    "depatureTime": "21:18:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "21:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "22:12:00",
+    "depatureTime": "22:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "22:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

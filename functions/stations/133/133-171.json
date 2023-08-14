@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "KINIGAMA",
+    "arrivalTime": "11:36:00",
+    "depatureTime": "11:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "750.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "360.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

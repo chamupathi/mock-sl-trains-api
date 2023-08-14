@@ -1,0 +1,50 @@
+[
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "08:22:00",
+    "depatureTime": "08:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "11:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "BENTOTA",
+    "arrivalTime": "15:48:00",
+    "depatureTime": "15:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "WEWURUKANNALA",
+    "arrivalTimeEndStation": "18:19:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "340.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "8056"
+  }
+]

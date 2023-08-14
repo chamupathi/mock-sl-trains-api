@@ -1,0 +1,102 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "05:55:00",
+    "depatureTime": "05:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "15:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:30:00",
+    "depatureTime": "08:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "09:45:00",
+    "depatureTime": "09:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "18:26:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1007"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "20:30:00",
+    "depatureTime": "20:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "ELLE",
+    "arrivalTimeEndStation": "06:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "900.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "1045"
+  }
+]

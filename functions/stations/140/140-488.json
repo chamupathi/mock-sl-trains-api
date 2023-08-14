@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "18:22:00",
+    "depatureTime": "18:23:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "22:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

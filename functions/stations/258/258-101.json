@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "SEVANAPITIYA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "IHALAGAMA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

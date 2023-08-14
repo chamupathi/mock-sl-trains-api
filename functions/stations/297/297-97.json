@@ -1,0 +1,451 @@
+[
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "03:34:00",
+    "depatureTime": "03:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:40:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "05:17:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1507"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "03:57:00",
+    "depatureTime": "03:58:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "05:50:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "05:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1512"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "04:29:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "06:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "04:29:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:34:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "06:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1518"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "04:59:00",
+    "depatureTime": "05:00:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "4856",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:53:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4856"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "05:13:00",
+    "depatureTime": "05:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "06:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1527"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "05:48:00",
+    "depatureTime": "05:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:39:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "07:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1537"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "06:29:00",
+    "depatureTime": "06:30:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:30:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "08:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1542"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "07:48:00",
+    "depatureTime": "07:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:51:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "09:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1536"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "08:54:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:02:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "10:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1549"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "10:24:00",
+    "depatureTime": "10:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:21:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "12:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1550"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:30:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1551"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "13:09:00",
+    "depatureTime": "13:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1552"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "13:09:00",
+    "depatureTime": "13:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "14:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4552"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "13:49:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:56:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "15:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1565"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:44:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "16:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1566"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "15:24:00",
+    "depatureTime": "15:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1568",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:31:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "17:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1568"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "15:55:00",
+    "depatureTime": "15:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "17:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1575"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "16:42:00",
+    "depatureTime": "16:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1581",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:58:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1581"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "17:24:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "18:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1578"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "18:14:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "20:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1570"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "19:10:00",
+    "depatureTime": "19:11:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "22:03:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "21:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1576"
+  },
+  {
+    "startStationName": "WLAKUBURA",
+    "arrivalTime": "21:20:00",
+    "depatureTime": "21:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "HUNUPITIYA",
+    "arrivalTimeEndStation": "22:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "1591"
+  }
+]

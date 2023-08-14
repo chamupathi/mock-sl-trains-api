@@ -1,0 +1,144 @@
+[
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "05:58:00",
+    "depatureTime": "06:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "13:23:00",
+    "depatureTime": "13:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "13:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "15:55:00",
+    "depatureTime": "15:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "16:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "18:27:00",
+    "depatureTime": "18:28:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "18:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "19:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "19:32:00",
+    "depatureTime": "19:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "INDURUWA",
+    "arrivalTime": "21:29:00",
+    "depatureTime": "21:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "BALAPITIYA",
+    "arrivalTimeEndStation": "21:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

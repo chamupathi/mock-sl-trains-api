@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "05:51:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "8708",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "06:30:00",
+    "endStationName": "PIYADIGAMA",
+    "arrivalTimeEndStation": "06:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8708"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "07:06:00",
+    "depatureTime": "07:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "PIYADIGAMA",
+    "arrivalTimeEndStation": "07:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "14:21:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "PIYADIGAMA",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "19:33:00",
+    "depatureTime": "19:34:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "PIYADIGAMA",
+    "arrivalTimeEndStation": "20:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "8760"
+  }
+]

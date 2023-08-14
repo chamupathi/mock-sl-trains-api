@@ -1,0 +1,496 @@
+[
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "00:18:00",
+    "depatureTime": "00:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "00:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "04:42:00",
+    "depatureTime": "04:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "04:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:53:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "06:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "06:27:00",
+    "depatureTime": "06:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "06:51:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1124"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "07:22:00",
+    "depatureTime": "07:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "08:09:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "07:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1127"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "08:26:00",
+    "depatureTime": "08:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "08:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "09:24:00",
+    "depatureTime": "09:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "09:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "10:17:00",
+    "depatureTime": "10:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "10:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "10:17:00",
+    "depatureTime": "10:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "10:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "11:34:00",
+    "depatureTime": "11:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "11:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "12:41:00",
+    "depatureTime": "12:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "12:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "14:12:00",
+    "depatureTime": "14:13:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "14:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "14:49:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "15:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "15:54:00",
+    "depatureTime": "15:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1158",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "16:16:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "16:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1158"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "16:16:00",
+    "depatureTime": "16:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:05:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "16:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1162"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "17:11:00",
+    "depatureTime": "17:12:00",
+    "trainFrequncy": "NOT ON FRIDAY",
+    "trainName": "1170",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:54:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "17:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1170"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:18:00",
+    "depatureTime": "18:19:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:26:00",
+    "depatureTime": "18:27:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "18:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:43:00",
+    "depatureTime": "18:44:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "18:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "19:05:00",
+    "depatureTime": "19:06:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "19:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "19:07:00",
+    "depatureTime": "19:08:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "19:41:00",
+    "depatureTime": "19:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "20:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "21:09:00",
+    "depatureTime": "21:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "21:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "22:10:00",
+    "depatureTime": "22:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "WILWATTE",
+    "arrivalTimeEndStation": "22:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1192"
+  }
+]

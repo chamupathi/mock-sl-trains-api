@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "04:24:00",
+    "depatureTime": "04:25:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "05:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "05:18:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "06:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "06:45:00",
+    "depatureTime": "06:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "WADDUWA",
+    "arrivalTimeEndStation": "08:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "8319"
+  }
+]

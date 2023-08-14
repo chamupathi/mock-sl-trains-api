@@ -1,0 +1,108 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "06:34:00",
+    "depatureTime": "06:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "06:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "11:22:00",
+    "depatureTime": "11:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "11:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "15:13:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "15:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:34:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "18:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4468"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "19:24:00",
+    "depatureTime": "19:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "19:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

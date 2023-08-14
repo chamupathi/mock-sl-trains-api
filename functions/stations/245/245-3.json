@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "RANDENIGAMA",
+    "arrivalTime": "16:43:00",
+    "depatureTime": "16:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "ABANPOLA",
+    "arrivalTimeEndStation": "16:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

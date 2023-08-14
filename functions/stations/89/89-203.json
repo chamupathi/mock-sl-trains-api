@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "06:57:00",
+    "depatureTime": "06:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "08:15:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "09:35:00",
+    "depatureTime": "09:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "10:53:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "11:27:00",
+    "depatureTime": "11:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "12:50:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "12:22:00",
+    "depatureTime": "12:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "14:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "HEEL OYA",
+    "arrivalTime": "19:18:00",
+    "depatureTime": "19:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "20:54:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

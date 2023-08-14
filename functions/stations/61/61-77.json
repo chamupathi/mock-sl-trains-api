@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "13:15:00",
+    "depatureTime": "13:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "14:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "16:40:00",
+    "depatureTime": "16:40:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4468"
+  },
+  {
+    "startStationName": "COLOMBO FORT",
+    "arrivalTime": "17:20:00",
+    "depatureTime": "17:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "19:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

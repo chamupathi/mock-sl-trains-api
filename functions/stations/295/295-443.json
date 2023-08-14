@@ -1,0 +1,60 @@
+[
+  {
+    "startStationName": "WAGA",
+    "arrivalTime": "18:35:00",
+    "depatureTime": "18:36:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "WAGA",
+    "arrivalTime": "19:41:00",
+    "depatureTime": "19:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "20:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "WAGA",
+    "arrivalTime": "22:09:00",
+    "depatureTime": "22:10:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "MIRISWATTA",
+    "arrivalTimeEndStation": "22:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

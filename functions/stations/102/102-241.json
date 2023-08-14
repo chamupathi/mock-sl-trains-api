@@ -1,0 +1,245 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "02:27:00",
+    "depatureTime": "02:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "03:13:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "02:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1511"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "05:17:00",
+    "depatureTime": "05:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1038",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:12:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "05:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1038"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "05:51:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:07:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "06:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1040"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:27:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "07:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "12:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "15:25:00",
+    "depatureTime": "15:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "15:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1544"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "16:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "16:50:00",
+    "depatureTime": "16:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "17:23:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "18:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "19:29:00",
+    "depatureTime": "19:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "20:21:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "20:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1583"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "23:10:00",
+    "depatureTime": "23:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "23:30:00",
+    "endStationName": "RAMBUKKANA",
+    "arrivalTimeEndStation": "23:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1587"
+  }
+]

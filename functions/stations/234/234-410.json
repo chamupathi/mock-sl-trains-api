@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "06:34:00",
+    "depatureTime": "06:36:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "ADAGALA",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4448"
+  }
+]

@@ -1,0 +1,143 @@
+[
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:07:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1040"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "07:41:00",
+    "depatureTime": "07:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "09:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "12:00:00",
+    "depatureTime": "12:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "13:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "16:40:00",
+    "depatureTime": "16:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "18:02:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1020"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "18:22:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "18:12:00",
+    "depatureTime": "18:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1008"
+  }
+]

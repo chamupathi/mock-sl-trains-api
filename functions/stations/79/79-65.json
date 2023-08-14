@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GREAT WESTERN",
+    "arrivalTime": "06:19:00",
+    "depatureTime": "06:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "GANGODA",
+    "arrivalTimeEndStation": "11:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

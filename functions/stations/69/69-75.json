@@ -1,0 +1,99 @@
+[
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "00:14:00",
+    "depatureTime": "00:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:00:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "03:15:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4090"
+  },
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "06:07:00",
+    "depatureTime": "06:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "09:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4086"
+  },
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "10:07:00",
+    "depatureTime": "10:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UTTARA DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "13:05:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "12:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4018"
+  },
+  {
+    "startStationName": "GALGAMUWA",
+    "arrivalTime": "15:04:00",
+    "depatureTime": "15:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL DEVI",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:32:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "4078"
+  }
+]

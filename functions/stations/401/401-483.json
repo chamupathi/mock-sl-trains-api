@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "ELUTHUMATTUVAL",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4880",
+    "finalStationName": "VAVUNIYA",
+    "arrivalTimeFinalStation": "09:08:00",
+    "endStationName": "Arivial Nagar",
+    "arrivalTimeEndStation": "08:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4880"
+  },
+  {
+    "startStationName": "ELUTHUMATTUVAL",
+    "arrivalTime": "15:19:00",
+    "depatureTime": "15:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4882",
+    "finalStationName": "MURIKANDY",
+    "arrivalTimeFinalStation": "16:10:00",
+    "endStationName": "Arivial Nagar",
+    "arrivalTimeEndStation": "16:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4882"
+  }
+]

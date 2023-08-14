@@ -1,0 +1,300 @@
+[
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "04:09:00",
+    "depatureTime": "04:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "04:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "05:55:00",
+    "depatureTime": "05:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "06:51:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "06:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1124"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "08:46:00",
+    "depatureTime": "08:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "09:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "09:44:00",
+    "depatureTime": "09:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "10:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "10:56:00",
+    "depatureTime": "10:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "11:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "12:01:00",
+    "depatureTime": "12:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "12:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "13:39:00",
+    "depatureTime": "13:40:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "14:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "14:14:00",
+    "depatureTime": "14:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "14:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "15:09:00",
+    "depatureTime": "15:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1158",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "16:16:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "15:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1158"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "17:40:00",
+    "depatureTime": "17:44:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "18:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "18:06:00",
+    "depatureTime": "18:07:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "18:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "18:26:00",
+    "depatureTime": "18:27:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "19:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "19:38:00",
+    "depatureTime": "19:39:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "20:36:00",
+    "depatureTime": "20:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "21:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "YAGODA",
+    "arrivalTime": "21:38:00",
+    "depatureTime": "21:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "KEENAWALA",
+    "arrivalTimeEndStation": "22:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1192"
+  }
+]

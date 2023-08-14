@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "UYANGALLA",
+    "arrivalTime": "05:47:00",
+    "depatureTime": "05:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "PINNAGOLLA",
+    "arrivalTimeEndStation": "06:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "UYANGALLA",
+    "arrivalTime": "11:24:00",
+    "depatureTime": "11:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "PINNAGOLLA",
+    "arrivalTimeEndStation": "11:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "UYANGALLA",
+    "arrivalTime": "14:22:00",
+    "depatureTime": "14:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "PINNAGOLLA",
+    "arrivalTimeEndStation": "14:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4858"
+  }
+]

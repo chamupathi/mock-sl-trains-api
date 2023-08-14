@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MURUNKAN",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "5445",
+    "finalStationName": "TALAIMANNAR PIER",
+    "arrivalTimeFinalStation": "19:25:00",
+    "endStationName": "PESALAI",
+    "arrivalTimeEndStation": "19:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "5445"
+  }
+]

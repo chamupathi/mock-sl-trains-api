@@ -1,0 +1,565 @@
+[
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "04:58:00",
+    "depatureTime": "04:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "05:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:06:00",
+    "depatureTime": "06:07:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "06:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "06:47:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "06:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8717"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:23:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "07:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8724"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:08:00",
+    "depatureTime": "07:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "07:12:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "07:30:00",
+    "depatureTime": "07:31:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:57:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "07:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:03:00",
+    "depatureTime": "08:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "08:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8727"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:07:00",
+    "depatureTime": "08:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "RATMALANA",
+    "arrivalTimeFinalStation": "08:12:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "08:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8725"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "08:20:00",
+    "depatureTime": "08:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8729"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "09:08:00",
+    "depatureTime": "09:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "09:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "10:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "10:08:00",
+    "depatureTime": "10:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "10:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "11:38:00",
+    "depatureTime": "11:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "11:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "13:58:00",
+    "depatureTime": "13:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "14:25:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "14:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8748"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:29:00",
+    "depatureTime": "14:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "14:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "14:42:00",
+    "depatureTime": "14:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "14:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8749"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "15:50:00",
+    "depatureTime": "15:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:58:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "15:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8756"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "16:18:00",
+    "depatureTime": "16:19:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "16:32:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "16:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8762"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "16:35:00",
+    "depatureTime": "16:36:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8765"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:46:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "17:15:00",
+    "depatureTime": "17:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "17:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "17:31:00",
+    "depatureTime": "17:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "New Train",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:10:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "17:35:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8767"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "17:40:00",
+    "depatureTime": "17:41:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "17:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "18:11:00",
+    "depatureTime": "18:12:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "18:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:04:00",
+    "depatureTime": "19:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "19:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "19:40:00",
+    "depatureTime": "19:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "19:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "20:28:00",
+    "depatureTime": "20:29:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "20:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "21:03:00",
+    "depatureTime": "21:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "21:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "MOUNT LAVINIA",
+    "arrivalTime": "21:58:00",
+    "depatureTime": "21:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "RATMALANA",
+    "arrivalTimeEndStation": "22:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

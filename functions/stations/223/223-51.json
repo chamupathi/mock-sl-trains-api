@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "09:12:00",
+    "depatureTime": "09:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "DODANDUWA",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "10:23:00",
+    "depatureTime": "10:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "DODANDUWA",
+    "arrivalTimeEndStation": "14:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "20:09:00",
+    "depatureTime": "20:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "DODANDUWA",
+    "arrivalTimeEndStation": "22:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

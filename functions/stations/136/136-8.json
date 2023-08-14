@@ -1,0 +1,92 @@
+[
+  {
+    "startStationName": "KORALAWELLA",
+    "arrivalTime": "11:57:00",
+    "depatureTime": "11:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "13:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "KORALAWELLA",
+    "arrivalTime": "14:47:00",
+    "depatureTime": "14:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "KORALAWELLA",
+    "arrivalTime": "19:03:00",
+    "depatureTime": "19:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "KORALAWELLA",
+    "arrivalTime": "19:27:00",
+    "depatureTime": "19:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "20:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "KORALAWELLA",
+    "arrivalTime": "20:46:00",
+    "depatureTime": "20:47:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "ALUTHGAMA",
+    "arrivalTimeEndStation": "21:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8780"
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "03:08:00",
+    "depatureTime": "03:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "06:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "08:23:00",
+    "depatureTime": "08:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "12:57:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "12:23:00",
+    "depatureTime": "12:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "15:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "14:02:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "16:35:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "15:32:00",
+    "depatureTime": "15:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "KINIGAMA",
+    "arrivalTimeEndStation": "18:03:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

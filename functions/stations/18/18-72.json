@@ -1,0 +1,82 @@
+[
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "06:23:00",
+    "depatureTime": "06:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "07:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "13:42:00",
+    "depatureTime": "13:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "14:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "19:02:00",
+    "depatureTime": "19:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "19:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "AHUNGALLE",
+    "arrivalTime": "21:48:00",
+    "depatureTime": "21:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "GINTHOTA",
+    "arrivalTimeEndStation": "22:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

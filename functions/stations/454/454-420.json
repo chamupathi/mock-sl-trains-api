@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "MARALUWEWA",
+    "arrivalTime": "09:04:00",
+    "depatureTime": "09:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "09:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "MARALUWEWA",
+    "arrivalTime": "14:06:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "MARALUWEWA",
+    "arrivalTime": "14:06:00",
+    "depatureTime": "14:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4455"
+  }
+]

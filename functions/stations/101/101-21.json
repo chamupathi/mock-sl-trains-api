@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "IHALAGAMA",
+    "arrivalTime": "16:49:00",
+    "depatureTime": "16:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

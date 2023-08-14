@@ -1,0 +1,135 @@
+[
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:40:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "07:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "10:15:00",
+    "depatureTime": "10:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "11:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "13:50:00",
+    "depatureTime": "13:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "14:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "13:55:00",
+    "depatureTime": "13:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:25:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "15:04:00",
+    "classList": [],
+    "trainNo": "2020"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "18:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "MATALE",
+    "arrivalTime": "19:00:00",
+    "depatureTime": "19:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "KATUGASTOTA",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

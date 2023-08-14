@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "PULIYANKULAM",
+    "arrivalTime": "15:56:00",
+    "depatureTime": "15:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "KONDAVIL",
+    "arrivalTimeEndStation": "18:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

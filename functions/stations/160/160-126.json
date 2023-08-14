@@ -1,0 +1,663 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "04:30:00",
+    "depatureTime": "04:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "04:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:36:00",
+    "depatureTime": "05:36:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "05:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:52:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "06:47:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "06:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8717"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:28:00",
+    "depatureTime": "06:28:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:23:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "06:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8724"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:57:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8718"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "WEEKDAYS & NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:51:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:00:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "07:57:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8723"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:28:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8727"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:32:00",
+    "depatureTime": "07:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "RATMALANA",
+    "arrivalTimeFinalStation": "08:12:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "07:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8725"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "08:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8729"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:12:00",
+    "depatureTime": "08:12:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "08:47:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "08:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8732"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:35:00",
+    "depatureTime": "08:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "08:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "09:05:00",
+    "depatureTime": "09:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "09:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "11:10:00",
+    "depatureTime": "11:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "11:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:30:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "14:25:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "13:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8748"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:00:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "14:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:10:00",
+    "depatureTime": "14:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "14:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8749"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:10:00",
+    "depatureTime": "15:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "15:43:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8755"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:20:00",
+    "depatureTime": "15:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:58:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "15:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8756"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:50:00",
+    "depatureTime": "15:50:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MORATUWA",
+    "arrivalTimeFinalStation": "16:32:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "16:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8762"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:10:00",
+    "depatureTime": "16:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "16:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8765"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:15:00",
+    "depatureTime": "16:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "16:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:25:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "PANADURA",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "16:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8763"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:45:00",
+    "depatureTime": "16:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "16:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:05:00",
+    "depatureTime": "17:05:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "New Train",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:10:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "17:18:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8767"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "17:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:25:00",
+    "depatureTime": "17:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8760"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:45:00",
+    "depatureTime": "17:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "18:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8766"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "18:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "18:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:00:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "20:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:35:00",
+    "depatureTime": "20:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "20:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "KOLLUPITIYA",
+    "arrivalTimeEndStation": "21:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

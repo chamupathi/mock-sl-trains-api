@@ -1,0 +1,122 @@
+[
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "05:06:00",
+    "depatureTime": "05:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "05:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2036"
+  },
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "06:52:00",
+    "depatureTime": "06:53:00",
+    "trainFrequncy": "Saturdays & Mondays only",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:15:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "07:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1026"
+  },
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "10:36:00",
+    "depatureTime": "10:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2632"
+  },
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "14:11:00",
+    "depatureTime": "14:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2633",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "15:17:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "14:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2633"
+  },
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "17:31:00",
+    "depatureTime": "17:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "2185",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "18:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "MARAKONA",
+    "arrivalTime": "19:21:00",
+    "depatureTime": "19:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:20:00",
+    "endStationName": "YATIRAWANA",
+    "arrivalTimeEndStation": "19:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "2638"
+  }
+]

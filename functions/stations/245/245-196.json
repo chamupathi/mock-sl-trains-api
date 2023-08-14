@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "RANDENIGAMA",
+    "arrivalTime": "06:33:00",
+    "depatureTime": "06:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "NAILIYA",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4086"
+  }
+]

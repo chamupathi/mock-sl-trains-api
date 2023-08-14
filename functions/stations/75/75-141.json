@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "06:40:00",
+    "depatureTime": "06:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "10:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "19:32:00",
+    "depatureTime": "19:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night mail",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "03:55:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "23:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6079"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "22:04:00",
+    "depatureTime": "22:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "02:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

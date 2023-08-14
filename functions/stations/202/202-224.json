@@ -1,0 +1,150 @@
+[
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "14:38:00",
+    "depatureTime": "14:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "15:38:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "15:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9260"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "17:10:00",
+    "depatureTime": "17:11:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "17:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "17:35:00",
+    "depatureTime": "17:36:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "18:15:00",
+    "depatureTime": "18:16:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "18:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "18:44:00",
+    "depatureTime": "18:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "19:43:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "19:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9268"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "19:14:00",
+    "depatureTime": "19:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "19:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "19:59:00",
+    "depatureTime": "20:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "20:59:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "20:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9270"
+  },
+  {
+    "startStationName": "NAWINNA",
+    "arrivalTime": "20:44:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "PANAGODA",
+    "arrivalTimeEndStation": "21:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "PANALEEYA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GELIOYA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

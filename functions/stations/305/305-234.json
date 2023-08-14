@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "WANDURAWA",
+    "arrivalTime": "10:10:00",
+    "depatureTime": "10:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "11:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "WANDURAWA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "POTUHERA",
+    "arrivalTimeEndStation": "19:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

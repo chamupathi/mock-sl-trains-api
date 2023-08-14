@@ -1,0 +1,93 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "05:51:00",
+    "depatureTime": "05:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:07:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "06:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1040"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:27:00",
+    "depatureTime": "07:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:45:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "08:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1036"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "11:41:00",
+    "depatureTime": "11:47:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "12:47:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:39:00",
+    "endStationName": "ALAWWA",
+    "arrivalTimeEndStation": "17:21:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1020"
+  }
+]

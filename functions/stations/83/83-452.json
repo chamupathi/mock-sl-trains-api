@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HEENDENIYA",
+    "arrivalTime": "14:02:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4552",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:11:00",
+    "endStationName": "MAGULEGODA",
+    "arrivalTimeEndStation": "14:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4552"
+  }
+]

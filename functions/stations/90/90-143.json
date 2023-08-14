@@ -1,0 +1,132 @@
+[
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "17:12:00",
+    "depatureTime": "17:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "17:42:00",
+    "depatureTime": "17:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:12:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "18:31:00",
+    "depatureTime": "18:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "19:31:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9265"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "19:46:00",
+    "depatureTime": "19:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "20:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "HOMAGAMA",
+    "arrivalTime": "21:16:00",
+    "depatureTime": "21:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "22:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

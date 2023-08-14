@@ -1,0 +1,298 @@
+[
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "05:46:00",
+    "depatureTime": "05:47:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "07:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "08:48:00",
+    "depatureTime": "08:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "09:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "09:43:00",
+    "depatureTime": "09:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "11:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "11:18:00",
+    "depatureTime": "11:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "12:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "14:09:00",
+    "depatureTime": "14:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "15:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "16:21:00",
+    "depatureTime": "16:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "17:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8765"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "16:25:00",
+    "depatureTime": "16:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "17:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "17:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "17:20:00",
+    "depatureTime": "17:21:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "17:56:00",
+    "depatureTime": "17:57:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "18:25:00",
+    "depatureTime": "18:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "19:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "18:40:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "20:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "19:20:00",
+    "depatureTime": "19:21:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "20:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "20:08:00",
+    "depatureTime": "20:09:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "21:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "20:43:00",
+    "depatureTime": "20:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "21:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "KOMPANNAVEDIYA",
+    "arrivalTime": "21:38:00",
+    "depatureTime": "21:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "KALUTARA NORTH",
+    "arrivalTimeEndStation": "22:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

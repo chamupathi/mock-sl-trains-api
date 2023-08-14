@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "GINTHOTA",
+    "arrivalTime": "16:43:00",
+    "depatureTime": "16:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "18:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8750"
+  }
+]

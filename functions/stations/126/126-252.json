@@ -1,0 +1,578 @@
+[
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:06:00",
+    "trainFrequncy": "NOT ON SUNDAYS",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:16:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "06:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8309"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "06:31:00",
+    "depatureTime": "06:32:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "NIGHT MAIL",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:49:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "06:39:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8311"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "06:57:00",
+    "depatureTime": "06:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:08:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8310"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:18:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8317"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:13:00",
+    "depatureTime": "07:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:31:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8316"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:20:00",
+    "depatureTime": "07:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:37:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8320"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:26:00",
+    "depatureTime": "07:27:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:44:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8063"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:33:00",
+    "depatureTime": "07:34:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8324"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:08:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "07:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8327"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:54:00",
+    "depatureTime": "07:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:05:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8326"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "07:59:00",
+    "depatureTime": "08:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:07:00",
+    "depatureTime": "08:08:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:24:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8313"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:19:00",
+    "depatureTime": "08:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:36:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8325"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:28:00",
+    "depatureTime": "08:29:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:45:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8328"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:33:00",
+    "depatureTime": "08:34:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:44:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8333"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "08:44:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:01:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "08:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8331"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:32:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "09:23:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8335"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:17:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "10:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8346"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "10:03:00",
+    "depatureTime": "10:04:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "10:20:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "10:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8339"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "11:50:00",
+    "depatureTime": "11:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "12:07:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "11:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8344"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "13:58:00",
+    "depatureTime": "13:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "14:15:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "14:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8350"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "15:27:00",
+    "depatureTime": "15:28:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "15:41:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "15:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8363"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "16:28:00",
+    "depatureTime": "16:29:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "16:37:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "16:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8356"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "16:58:00",
+    "depatureTime": "16:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:08:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "17:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8365"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "17:09:00",
+    "depatureTime": "17:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:18:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "17:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8362"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:01:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "17:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8367"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "18:20:00",
+    "depatureTime": "18:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:29:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "18:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8378"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "18:24:00",
+    "depatureTime": "18:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:33:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "18:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8373"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "18:27:00",
+    "depatureTime": "18:28:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:36:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "18:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8376"
+  },
+  {
+    "startStationName": "KOLLUPITIYA",
+    "arrivalTime": "18:43:00",
+    "depatureTime": "18:44:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:52:00",
+    "endStationName": "SECRETARTAT HALT",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8372"
+  }
+]

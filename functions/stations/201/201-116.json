@@ -1,0 +1,127 @@
+[
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "00:52:00",
+    "depatureTime": "01:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "KITAL ELLE",
+    "arrivalTimeEndStation": "06:30:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "04:57:00",
+    "depatureTime": "05:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "KITAL ELLE",
+    "arrivalTimeEndStation": "13:18:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "10:00:00",
+    "depatureTime": "10:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "KITAL ELLE",
+    "arrivalTimeEndStation": "15:32:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "12:02:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "KITAL ELLE",
+    "arrivalTimeEndStation": "16:53:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "NAWALAPITIYA",
+    "arrivalTime": "13:26:00",
+    "depatureTime": "13:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "KITAL ELLE",
+    "arrivalTimeEndStation": "18:20:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

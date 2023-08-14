@@ -1,0 +1,71 @@
+[
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "11:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8085"
+  },
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "06:25:00",
+    "depatureTime": "06:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "08:43:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "MIRISSA",
+    "arrivalTime": "14:18:00",
+    "depatureTime": "14:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "17:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "8051"
+  }
+]

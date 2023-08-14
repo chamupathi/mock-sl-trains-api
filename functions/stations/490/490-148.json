@@ -1,0 +1,72 @@
+[
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "04:15:00",
+    "depatureTime": "04:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "Sagarika",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "07:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "8097"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "05:25:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "08:43:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "400.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "BELIATHTHA",
+    "arrivalTime": "08:45:00",
+    "depatureTime": "08:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Regini",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:42:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "11:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "280.00"
+      }
+    ],
+    "trainNo": "8085"
+  }
+]

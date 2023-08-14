@@ -1,0 +1,206 @@
+[
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "06:53:00",
+    "depatureTime": "06:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "07:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "08:02:00",
+    "depatureTime": "08:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "09:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "14:03:00",
+    "depatureTime": "14:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4455"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "15:33:00",
+    "depatureTime": "15:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "15:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "18:54:00",
+    "depatureTime": "18:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "19:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4467"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "19:41:00",
+    "depatureTime": "19:42:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "19:59:00",
+    "depatureTime": "20:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4470"
+  },
+  {
+    "startStationName": "MUTHTHETTUGALA",
+    "arrivalTime": "20:19:00",
+    "depatureTime": "20:20:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "4469"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MAGGONA",
+    "arrivalTime": "11:03:00",
+    "depatureTime": "11:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "ANDADOLA",
+    "arrivalTimeEndStation": "13:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "MAGGONA",
+    "arrivalTime": "20:59:00",
+    "depatureTime": "21:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "ANDADOLA",
+    "arrivalTimeEndStation": "22:00:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

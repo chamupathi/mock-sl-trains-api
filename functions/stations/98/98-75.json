@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HYINPORT",
+    "arrivalTime": "08:33:00",
+    "depatureTime": "08:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "GAMPAHA",
+    "arrivalTimeEndStation": "13:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "800.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "400.00"
+      }
+    ],
+    "trainNo": "1024"
+  }
+]

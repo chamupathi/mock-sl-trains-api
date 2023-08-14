@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "MIRIGAMA",
+    "arrivalTime": "07:04:00",
+    "depatureTime": "07:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "09:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "MIRIGAMA",
+    "arrivalTime": "22:32:00",
+    "depatureTime": "22:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "MORAGOLLAGAMA",
+    "arrivalTimeEndStation": "01:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "11:25:00",
+    "depatureTime": "11:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "12:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "15:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "18:07:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:03:00",
+    "depatureTime": "18:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:32:00",
+    "depatureTime": "18:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "19:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "20:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "20:15:00",
+    "depatureTime": "20:16:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "21:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "20:50:00",
+    "depatureTime": "20:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "22:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "21:45:00",
+    "depatureTime": "21:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "KATUKURUNDA",
+    "arrivalTimeEndStation": "22:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

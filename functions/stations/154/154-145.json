@@ -1,0 +1,172 @@
+[
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "03:58:00",
+    "depatureTime": "03:59:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "05:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "04:28:00",
+    "depatureTime": "04:29:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "05:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "04:58:00",
+    "depatureTime": "04:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:26:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "06:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3803"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "09:18:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "11:25:00",
+    "depatureTime": "11:26:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "13:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "12:48:00",
+    "depatureTime": "12:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "14:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "15:18:00",
+    "depatureTime": "15:19:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "17:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "17:23:00",
+    "depatureTime": "17:24:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "19:01:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "KAKKAPALLIYA",
+    "arrivalTime": "18:13:00",
+    "depatureTime": "18:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KATUNAYAKE",
+    "arrivalTimeEndStation": "20:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

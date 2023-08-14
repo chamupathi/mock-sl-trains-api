@@ -1,0 +1,124 @@
+[
+  {
+    "startStationName": "AMBEWELA",
+    "arrivalTime": "08:38:00",
+    "depatureTime": "08:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "INGURUOYA",
+    "arrivalTimeEndStation": "11:49:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "AMBEWELA",
+    "arrivalTime": "11:16:00",
+    "depatureTime": "11:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "INGURUOYA",
+    "arrivalTimeEndStation": "14:39:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "AMBEWELA",
+    "arrivalTime": "13:13:00",
+    "depatureTime": "13:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "INGURUOYA",
+    "arrivalTimeEndStation": "16:14:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "AMBEWELA",
+    "arrivalTime": "14:52:00",
+    "depatureTime": "15:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "INGURUOYA",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1596"
+  },
+  {
+    "startStationName": "AMBEWELA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "05:24:00",
+    "endStationName": "INGURUOYA",
+    "arrivalTimeEndStation": "00:40:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "1046"
+  }
+]

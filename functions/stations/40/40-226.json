@@ -1,0 +1,212 @@
+[
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "00:34:00",
+    "depatureTime": "00:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "01:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "06:09:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "06:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "08:45:00",
+    "depatureTime": "08:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "09:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "10:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "10:34:00",
+    "depatureTime": "10:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "11:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "11:50:00",
+    "depatureTime": "11:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "12:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "12:57:00",
+    "depatureTime": "12:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "13:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "15:08:00",
+    "depatureTime": "15:09:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "15:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "18:42:00",
+    "depatureTime": "18:43:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "19:57:00",
+    "depatureTime": "19:58:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "20:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "BOTALE",
+    "arrivalTime": "21:25:00",
+    "depatureTime": "21:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "22:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1191"
+  }
+]

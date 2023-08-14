@@ -1,0 +1,52 @@
+[
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "07:53:00",
+    "depatureTime": "07:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "14:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "IHALAKOTTE",
+    "arrivalTime": "11:44:00",
+    "depatureTime": "11:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1007",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "19:20:00",
+    "endStationName": "OHIYA",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "550.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "1007"
+  }
+]

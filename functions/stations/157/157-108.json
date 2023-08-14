@@ -1,0 +1,230 @@
+[
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "04:36:00",
+    "depatureTime": "04:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "05:06:00",
+    "depatureTime": "05:07:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "06:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "05:37:00",
+    "depatureTime": "05:38:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:26:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "06:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3803"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "06:39:00",
+    "depatureTime": "06:40:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "08:10:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "07:45:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3808"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "06:59:00",
+    "depatureTime": "07:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "08:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "09:56:00",
+    "depatureTime": "09:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "11:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "12:12:00",
+    "depatureTime": "12:13:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "13:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "13:26:00",
+    "depatureTime": "13:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "14:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "16:05:00",
+    "depatureTime": "16:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "16:40:00",
+    "depatureTime": "16:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "17:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "18:01:00",
+    "depatureTime": "18:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "19:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "LUNUWILA",
+    "arrivalTime": "19:30:00",
+    "depatureTime": "19:31:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KANDANA",
+    "arrivalTimeEndStation": "20:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

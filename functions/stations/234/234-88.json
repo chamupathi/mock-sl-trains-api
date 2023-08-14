@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "07:47:00",
+    "depatureTime": "07:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "HORIWIALA",
+    "arrivalTimeEndStation": "10:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "POTUHERA",
+    "arrivalTime": "23:20:00",
+    "depatureTime": "23:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "HORIWIALA",
+    "arrivalTimeEndStation": "02:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "240.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

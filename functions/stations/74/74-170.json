@@ -1,0 +1,90 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "11:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "18:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "20:50:00",
+    "depatureTime": "21:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "23:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "7084"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "23:12:00",
+    "depatureTime": "23:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "04:53:00",
+    "endStationName": "MAHO",
+    "arrivalTimeEndStation": "01:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "6080"
+  }
+]

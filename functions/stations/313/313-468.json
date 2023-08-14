@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "12:12:00",
+    "depatureTime": "12:13:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MATALE",
+    "arrivalTimeFinalStation": "15:23:00",
+    "endStationName": "KATUGASTOTA     ROAD",
+    "arrivalTimeEndStation": "14:10:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1019"
+  }
+]

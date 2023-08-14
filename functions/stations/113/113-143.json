@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "18:06:00",
+    "depatureTime": "18:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "18:14:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9261"
+  },
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "18:40:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "18:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "19:09:00",
+    "depatureTime": "19:10:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "19:46:00",
+    "depatureTime": "19:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "19:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "20:44:00",
+    "depatureTime": "20:45:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "20:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "KADUGODA",
+    "arrivalTime": "22:14:00",
+    "depatureTime": "22:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "KOSGAMA",
+    "arrivalTimeEndStation": "22:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

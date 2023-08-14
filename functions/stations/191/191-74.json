@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "00:19:00",
+    "depatureTime": "00:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "03:22:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "NAGOLLAGAMA",
+    "arrivalTime": "08:43:00",
+    "depatureTime": "08:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "GALOYA JUNCTION",
+    "arrivalTimeEndStation": "11:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "450.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "YAPAHUWA",
+    "arrivalTime": "00:00:00",
+    "depatureTime": "00:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "09:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "YAPAHUWA",
+    "arrivalTime": "06:20:00",
+    "depatureTime": "06:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "SIYALANGAMUWA",
+    "arrivalTimeEndStation": "06:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6479"
+  }
+]

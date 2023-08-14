@@ -1,0 +1,27 @@
+[
+  {
+    "startStationName": "MATARA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "RUHUNU KUMARI",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:23:00",
+    "endStationName": "KOSGODA",
+    "arrivalTimeEndStation": "07:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "400.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "200.00"
+      }
+    ],
+    "trainNo": "8059"
+  }
+]

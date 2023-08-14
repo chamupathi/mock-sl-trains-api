@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KOHOMBILIWALA",
+    "arrivalTime": "04:48:00",
+    "depatureTime": "04:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:04:00",
+    "endStationName": "MAHAIYAWA",
+    "arrivalTimeEndStation": "05:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "2036"
+  }
+]

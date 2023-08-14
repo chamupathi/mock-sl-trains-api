@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "PALLAI",
+    "arrivalTime": "10:28:00",
+    "depatureTime": "10:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "MIRUSUVIL",
+    "arrivalTimeEndStation": "10:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "PALLAI",
+    "arrivalTime": "17:29:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "MIRUSUVIL",
+    "arrivalTimeEndStation": "17:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

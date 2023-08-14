@@ -1,0 +1,208 @@
+[
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "04:23:00",
+    "depatureTime": "04:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "05:43:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "04:53:00",
+    "depatureTime": "04:54:00",
+    "trainFrequncy": "working days only",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:55:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "06:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3801"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "05:24:00",
+    "depatureTime": "05:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "07:26:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "06:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3803"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "06:48:00",
+    "depatureTime": "06:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "08:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "09:43:00",
+    "depatureTime": "09:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "11:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "11:59:00",
+    "depatureTime": "12:00:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "13:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "13:13:00",
+    "depatureTime": "13:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "14:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "15:51:00",
+    "depatureTime": "15:53:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "16:17:00",
+    "depatureTime": "16:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "17:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "17:48:00",
+    "depatureTime": "17:49:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "19:28:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3824"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "19:07:00",
+    "depatureTime": "19:18:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "21:22:00",
+    "endStationName": "KAPUWATTE",
+    "arrivalTimeEndStation": "20:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "3828"
+  }
+]

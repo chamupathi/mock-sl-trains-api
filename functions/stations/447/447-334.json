@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "KIRINDIWELA",
+    "arrivalTime": "04:44:00",
+    "depatureTime": "04:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "05:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9646"
+  }
+]

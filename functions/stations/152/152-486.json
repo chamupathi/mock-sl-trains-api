@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KAHAWA",
+    "arrivalTime": "16:21:00",
+    "depatureTime": "16:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "WEHERAHENA",
+    "arrivalTimeEndStation": "18:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "8750"
+  }
+]

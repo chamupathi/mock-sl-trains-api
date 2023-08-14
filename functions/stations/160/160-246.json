@@ -1,0 +1,1106 @@
+[
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "02:00:00",
+    "depatureTime": "02:00:00",
+    "trainFrequncy": "Mo & Day following holidays",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "03:37:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "02:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1119"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "03:05:00",
+    "depatureTime": "03:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "VEYANGODA",
+    "arrivalTimeFinalStation": "03:58:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "03:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1109"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "03:24:00",
+    "depatureTime": "03:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "03:51:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "04:04:00",
+    "depatureTime": "04:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "04:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "04:39:00",
+    "depatureTime": "04:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "05:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:04:00",
+    "depatureTime": "05:05:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "06:23:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "05:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3406"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:16:00",
+    "depatureTime": "05:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "06:51:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "05:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1124"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "05:45:00",
+    "depatureTime": "05:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "06:12:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "08:09:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "06:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1127"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:09:00",
+    "depatureTime": "06:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "06:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:23:00",
+    "depatureTime": "06:24:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "GAMPAHA",
+    "arrivalTimeFinalStation": "07:19:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "06:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1132"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "06:49:00",
+    "depatureTime": "06:50:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "RAGAMA",
+    "arrivalTimeFinalStation": "07:09:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1129"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:07:00",
+    "depatureTime": "07:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:07:00",
+    "depatureTime": "07:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GAMPAHA",
+    "arrivalTimeFinalStation": "07:10:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1134"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:15:00",
+    "depatureTime": "07:16:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "08:17:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3410"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:19:00",
+    "depatureTime": "07:20:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "RAGAMA",
+    "arrivalTimeFinalStation": "07:45:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1131"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:39:00",
+    "depatureTime": "07:40:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "08:40:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "07:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1133"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "07:45:00",
+    "depatureTime": "07:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "08:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:04:00",
+    "depatureTime": "08:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "08:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:39:00",
+    "depatureTime": "08:40:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "09:40:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "08:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1140"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "08:59:00",
+    "depatureTime": "09:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "09:34:00",
+    "depatureTime": "09:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "BUDGET TRAIN",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "10:30:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "09:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1146"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "09:39:00",
+    "depatureTime": "09:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "10:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "10:14:00",
+    "depatureTime": "10:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "10:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "12:09:00",
+    "depatureTime": "12:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "12:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "12:54:00",
+    "depatureTime": "12:55:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:14:00",
+    "depatureTime": "13:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MADAMPE",
+    "arrivalTimeFinalStation": "15:30:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3419"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:30:00",
+    "depatureTime": "13:31:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "13:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:45:00",
+    "depatureTime": "14:10:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1152",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "17:17:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1152"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:55:00",
+    "depatureTime": "13:56:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1149",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "15:16:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1149"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "13:59:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "VEYANGODA",
+    "arrivalTimeFinalStation": "15:07:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:26:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1154"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:25:00",
+    "depatureTime": "14:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1158",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "16:16:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1158"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:39:00",
+    "depatureTime": "14:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "14:58:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "14:55:00",
+    "depatureTime": "14:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:05:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "15:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1162"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "15:50:00",
+    "depatureTime": "15:51:00",
+    "trainFrequncy": "NOT ON FRIDAY",
+    "trainName": "1170",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:54:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "16:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1170"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:14:00",
+    "depatureTime": "16:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAGAMA",
+    "arrivalTimeFinalStation": "16:39:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "16:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1171"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:30:00",
+    "depatureTime": "16:31:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "17:56:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "16:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1169"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:34:00",
+    "depatureTime": "16:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "19:15:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3422"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:55:00",
+    "depatureTime": "16:56:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "18:25:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1172"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "16:59:00",
+    "depatureTime": "17:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "18:07:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3423"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:05:00",
+    "depatureTime": "17:06:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:29:00",
+    "depatureTime": "17:30:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "17:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:34:00",
+    "depatureTime": "17:35:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "NEGOMBO",
+    "arrivalTimeFinalStation": "18:50:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3426"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "17:44:00",
+    "depatureTime": "17:45:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:10:00",
+    "depatureTime": "18:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:14:00",
+    "depatureTime": "18:15:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "VEYANGODA",
+    "arrivalTimeFinalStation": "19:23:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1177"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:39:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "18:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "18:49:00",
+    "depatureTime": "18:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "19:09:00",
+    "depatureTime": "19:10:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "19:24:00",
+    "depatureTime": "19:25:00",
+    "trainFrequncy": "From Saturday 11-03-2023 to Monday 13-03-2023",
+    "trainName": "",
+    "finalStationName": "AMBEYPUSSA",
+    "arrivalTimeFinalStation": "20:57:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "19:49:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1186"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "19:54:00",
+    "depatureTime": "19:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:24:00",
+    "depatureTime": "20:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "20:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3432"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "20:49:00",
+    "depatureTime": "20:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "21:14:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1192"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "21:49:00",
+    "depatureTime": "21:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MIRIGAMA",
+    "arrivalTimeFinalStation": "23:17:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "22:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1196"
+  },
+  {
+    "startStationName": "MARADANA",
+    "arrivalTime": "23:04:00",
+    "depatureTime": "23:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "RAGAMA",
+    "arrivalTimeEndStation": "23:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1194"
+  }
+]

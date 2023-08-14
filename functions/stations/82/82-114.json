@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "08:16:00",
+    "depatureTime": "08:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "KADADASI NAGAR",
+    "arrivalTimeEndStation": "11:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "220.00"
+      }
+    ],
+    "trainNo": "6479"
+  }
+]

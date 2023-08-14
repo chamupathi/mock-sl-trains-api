@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KADADASI NAGAR",
+    "arrivalTime": "12:20:00",
+    "depatureTime": "12:21:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "PUNANI",
+    "arrivalTimeEndStation": "12:31:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "04:08:00",
+    "depatureTime": "04:09:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "PALAVI",
+    "arrivalTimeEndStation": "08:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "07:50:00",
+    "depatureTime": "07:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "PALAVI",
+    "arrivalTimeEndStation": "12:28:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "12:13:00",
+    "depatureTime": "12:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "PALAVI",
+    "arrivalTimeEndStation": "15:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "DEMATAGODA",
+    "arrivalTime": "17:28:00",
+    "depatureTime": "17:29:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "PALAVI",
+    "arrivalTimeEndStation": "20:55:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "3425"
+  }
+]

@@ -1,0 +1,118 @@
+[
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "06:29:00",
+    "depatureTime": "06:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "06:56:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "06:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1236"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "07:29:00",
+    "depatureTime": "07:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1520"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "09:55:00",
+    "depatureTime": "09:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "10:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "11:32:00",
+    "depatureTime": "11:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "11:50:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "11:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1541"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "17:49:00",
+    "depatureTime": "17:50:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "18:16:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "18:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1244"
+  },
+  {
+    "startStationName": "KOSHINNA",
+    "arrivalTime": "20:17:00",
+    "depatureTime": "20:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "KANDY",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]

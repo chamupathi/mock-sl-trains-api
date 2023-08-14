@@ -1,0 +1,154 @@
+[
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "04:05:00",
+    "depatureTime": "04:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "06:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "06:26:00",
+    "depatureTime": "06:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:02:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "08:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3810"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "09:25:00",
+    "depatureTime": "09:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "11:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "11:32:00",
+    "depatureTime": "11:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "13:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "12:55:00",
+    "depatureTime": "12:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "14:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "15:25:00",
+    "depatureTime": "15:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "18:05:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "16:00:00",
+    "depatureTime": "16:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "17:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3823"
+  },
+  {
+    "startStationName": "MADAMPE",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "HORAPE",
+    "arrivalTimeEndStation": "19:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "3824"
+  }
+]

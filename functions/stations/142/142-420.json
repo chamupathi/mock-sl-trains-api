@@ -1,0 +1,56 @@
+[
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "09:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "14:00:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "KURUNEGALA",
+    "arrivalTime": "14:00:00",
+    "depatureTime": "14:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "PAHALAWARDHANA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4455"
+  }
+]

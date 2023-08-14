@@ -1,0 +1,228 @@
+[
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "07:01:00",
+    "depatureTime": "07:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4448",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "07:50:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "07:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4448"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "08:11:00",
+    "depatureTime": "08:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "08:24:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "6011"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "09:14:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4449",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "10:25:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "09:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4449"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "4445",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "15:29:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4445"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "16:29:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4455"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "15:42:00",
+    "depatureTime": "15:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "15:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4085"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "19:08:00",
+    "depatureTime": "19:09:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "4467",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "19:29:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4467"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "19:49:00",
+    "depatureTime": "19:50:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "20:06:00",
+    "depatureTime": "20:07:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "OFFICE TRAIN",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4470"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "20:26:00",
+    "depatureTime": "20:27:00",
+    "trainFrequncy": "SATURDAY, SUNDAY AND HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "20:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "WELLAWA",
+    "arrivalTime": "23:48:00",
+    "depatureTime": "23:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "00:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "7083"
+  }
+]

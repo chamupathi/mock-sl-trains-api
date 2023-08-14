@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "SECRETARTAT HALT",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "WALGAMA",
+    "arrivalTimeEndStation": "21:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

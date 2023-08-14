@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MOUNT LAVINIA",
+    "arrivalTimeFinalStation": "09:34:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "07:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8319"
+  },
+  {
+    "startStationName": "SEENIGAMA",
+    "arrivalTime": "09:36:00",
+    "depatureTime": "09:37:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "12:35:00",
+    "endStationName": "HETTIMULLA",
+    "arrivalTimeEndStation": "10:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "8349"
+  }
+]

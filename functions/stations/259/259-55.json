@@ -1,0 +1,118 @@
+[
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "03:54:00",
+    "depatureTime": "03:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "06:24:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "06:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3800"
+  },
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "09:14:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "11:46:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "11:21:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3816"
+  },
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "11:21:00",
+    "depatureTime": "11:22:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:24:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "13:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3817"
+  },
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "12:44:00",
+    "depatureTime": "12:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:21:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "14:56:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3819"
+  },
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:15:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:45:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "18:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3820"
+  },
+  {
+    "startStationName": "SAWARANA",
+    "arrivalTime": "17:19:00",
+    "depatureTime": "17:20:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "ENDERAMULLA",
+    "arrivalTimeEndStation": "19:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "3824"
+  }
+]

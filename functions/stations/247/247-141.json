@@ -1,0 +1,64 @@
+[
+  {
+    "startStationName": "RANAMUGGAMUWA",
+    "arrivalTime": "01:30:00",
+    "depatureTime": "01:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "TRINCOMALEE",
+    "arrivalTimeFinalStation": "05:30:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "02:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "7083"
+  },
+  {
+    "startStationName": "RANAMUGGAMUWA",
+    "arrivalTime": "06:42:00",
+    "depatureTime": "06:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "6479",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "13:00:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "07:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "6479"
+  },
+  {
+    "startStationName": "RANAMUGGAMUWA",
+    "arrivalTime": "09:40:00",
+    "depatureTime": "09:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "KEKIRAWA",
+    "arrivalTimeEndStation": "10:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

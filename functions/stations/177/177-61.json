@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "MOLLIPATANA",
+    "arrivalTime": "19:48:00",
+    "depatureTime": "19:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "COLOMBO FORT",
+    "arrivalTimeEndStation": "03:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

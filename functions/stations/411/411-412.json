@@ -1,0 +1,74 @@
+[
+  {
+    "startStationName": "WERAGALA",
+    "arrivalTime": "05:41:00",
+    "depatureTime": "05:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4850",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "06:45:00",
+    "endStationName": "UYANGALLA",
+    "arrivalTimeEndStation": "05:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4850"
+  },
+  {
+    "startStationName": "WERAGALA",
+    "arrivalTime": "11:19:00",
+    "depatureTime": "11:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4853",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "12:29:00",
+    "endStationName": "UYANGALLA",
+    "arrivalTimeEndStation": "11:24:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4853"
+  },
+  {
+    "startStationName": "WERAGALA",
+    "arrivalTime": "14:17:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4858",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "16:06:00",
+    "endStationName": "UYANGALLA",
+    "arrivalTimeEndStation": "14:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4858"
+  },
+  {
+    "startStationName": "WERAGALA",
+    "arrivalTime": "17:14:00",
+    "depatureTime": "17:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4865",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "18:38:00",
+    "endStationName": "UYANGALLA",
+    "arrivalTimeEndStation": "17:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4865"
+  }
+]

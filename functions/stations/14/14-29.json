@@ -1,0 +1,478 @@
+[
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "00:37:00",
+    "depatureTime": "00:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "00:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "05:02:00",
+    "depatureTime": "05:03:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1130",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "05:26:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "05:11:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1130"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "06:12:00",
+    "depatureTime": "06:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "06:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "07:45:00",
+    "depatureTime": "07:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "08:09:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "07:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1127"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "08:48:00",
+    "depatureTime": "08:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "08:57:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "09:43:00",
+    "depatureTime": "09:44:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "09:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "10:37:00",
+    "depatureTime": "10:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "10:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "10:37:00",
+    "depatureTime": "10:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "10:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "11:53:00",
+    "depatureTime": "11:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "12:02:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "13:00:00",
+    "depatureTime": "13:01:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "13:09:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "14:32:00",
+    "depatureTime": "14:33:00",
+    "trainFrequncy": "NOT ON SUNDAY & HOLIDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "15:03:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "14:41:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1150"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "15:11:00",
+    "depatureTime": "15:18:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "15:26:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "15:44:00",
+    "depatureTime": "15:56:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1152",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "17:17:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "16:04:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1152"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "16:41:00",
+    "depatureTime": "16:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:05:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "16:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1162"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "NOT ON FRIDAY",
+    "trainName": "1170",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "17:54:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1170"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "17:50:00",
+    "depatureTime": "17:51:00",
+    "trainFrequncy": "MONDAY TO FRIDAY ( EXCEPT HOLIDAYS)",
+    "trainName": "4468",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:47:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "17:58:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4468"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "18:40:00",
+    "depatureTime": "18:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GANEWATTE",
+    "arrivalTimeFinalStation": "20:02:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "18:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "4469"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "18:45:00",
+    "depatureTime": "18:46:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "18:54:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "19:02:00",
+    "depatureTime": "19:07:00",
+    "trainFrequncy": "MONDAY TO THURSDAY, NOT ON HOLIDAYS",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:30:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "19:15:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1173"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "19:24:00",
+    "depatureTime": "19:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "1175",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "19:48:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "19:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1175"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "20:00:00",
+    "depatureTime": "20:06:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "20:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "20:35:00",
+    "depatureTime": "20:36:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "21:00:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "20:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1184"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "21:28:00",
+    "depatureTime": "21:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "21:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1191"
+  },
+  {
+    "startStationName": "AMBEYPUSSA",
+    "arrivalTime": "22:29:00",
+    "depatureTime": "22:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "POLGAHAWELA",
+    "arrivalTimeFinalStation": "22:53:00",
+    "endStationName": "BUTHGAMUWA",
+    "arrivalTimeEndStation": "22:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1192"
+  }
+]

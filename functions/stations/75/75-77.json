@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "09:48:00",
+    "depatureTime": "09:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "11:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4141"
+  },
+  {
+    "startStationName": "GAMPAHA",
+    "arrivalTime": "13:52:00",
+    "depatureTime": "13:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "ANURADHAPURA",
+    "arrivalTimeFinalStation": "18:22:00",
+    "endStationName": "GIRAMBE",
+    "arrivalTimeEndStation": "14:59:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "250.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "4085"
+  }
+]

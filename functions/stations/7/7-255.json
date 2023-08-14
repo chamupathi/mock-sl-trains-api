@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "AKURALA",
+    "arrivalTime": "05:27:00",
+    "depatureTime": "05:28:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "8708",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "06:30:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "05:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8708"
+  },
+  {
+    "startStationName": "AKURALA",
+    "arrivalTime": "06:56:00",
+    "depatureTime": "06:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:01:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "07:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8719"
+  },
+  {
+    "startStationName": "AKURALA",
+    "arrivalTime": "14:11:00",
+    "depatureTime": "14:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "14:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "AKURALA",
+    "arrivalTime": "19:24:00",
+    "depatureTime": "19:25:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "SAMUDRA DEVI",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:09:00",
+    "endStationName": "SEENIGAMA",
+    "arrivalTimeEndStation": "19:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8760"
+  }
+]

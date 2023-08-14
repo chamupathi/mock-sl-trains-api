@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "YATAGAMA",
+    "arrivalTime": "14:15:00",
+    "depatureTime": "14:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "GELIOYA",
+    "arrivalTimeEndStation": "17:43:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

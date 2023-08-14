@@ -1,0 +1,20 @@
+[
+  {
+    "startStationName": "WATAGODA",
+    "arrivalTime": "03:37:00",
+    "depatureTime": "03:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "07:48:00",
+    "endStationName": "Dekinda",
+    "arrivalTimeEndStation": "00:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "1520"
+  }
+]

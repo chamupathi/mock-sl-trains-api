@@ -1,0 +1,114 @@
+[
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "14:10:00",
+    "depatureTime": "14:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "15:38:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "15:34:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9260"
+  },
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "16:41:00",
+    "depatureTime": "16:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "18:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "17:06:00",
+    "depatureTime": "17:07:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "18:46:00",
+    "depatureTime": "18:47:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "KOSGAMA",
+    "arrivalTimeFinalStation": "20:52:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "20:10:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9269"
+  },
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "19:31:00",
+    "depatureTime": "19:32:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PADUKKA",
+    "arrivalTimeFinalStation": "20:59:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "20:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9270"
+  },
+  {
+    "startStationName": "COTTA ROAD",
+    "arrivalTime": "20:16:00",
+    "depatureTime": "20:17:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "LIYANWALA",
+    "arrivalTimeEndStation": "21:40:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

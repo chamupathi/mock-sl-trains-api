@@ -1,0 +1,142 @@
+[
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "01:15:00",
+    "depatureTime": "01:16:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "07:32:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "02:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1045"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "05:31:00",
+    "depatureTime": "05:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "08:00:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "10:16:00",
+    "depatureTime": "10:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi  Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "16:26:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "12:06:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1005"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "12:18:00",
+    "depatureTime": "12:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "17:50:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "13:46:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1015"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "14:30:00",
+    "depatureTime": "14:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "17:59:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "16:59:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1159"
+  },
+  {
+    "startStationName": "INGURUOYA",
+    "arrivalTime": "18:47:00",
+    "depatureTime": "18:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "TALAWAKELE",
+    "arrivalTimeEndStation": "20:32:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

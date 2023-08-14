@@ -1,0 +1,38 @@
+[
+  {
+    "startStationName": "PUWAKPITIYA TOWN",
+    "arrivalTime": "04:47:00",
+    "depatureTime": "04:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "WATARAKA",
+    "arrivalTimeEndStation": "05:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "PUWAKPITIYA TOWN",
+    "arrivalTime": "12:33:00",
+    "depatureTime": "12:34:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "WATARAKA",
+    "arrivalTimeEndStation": "13:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "9657"
+  }
+]

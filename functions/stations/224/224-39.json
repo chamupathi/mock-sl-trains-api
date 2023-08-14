@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "05:21:00",
+    "depatureTime": "05:22:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "06:43:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "06:31:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9648"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "05:41:00",
+    "depatureTime": "05:42:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:03:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "06:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9647"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "06:05:00",
+    "depatureTime": "06:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "07:25:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "07:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9646"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "06:43:00",
+    "depatureTime": "06:44:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:00:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9649"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "06:57:00",
+    "depatureTime": "06:58:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:18:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "08:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9652"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "07:15:00",
+    "depatureTime": "07:16:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "08:37:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "08:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9641"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "07:53:00",
+    "depatureTime": "07:54:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "09:15:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "09:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9651"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "14:01:00",
+    "depatureTime": "14:02:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:44:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "15:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9657"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "16:06:00",
+    "depatureTime": "16:07:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "17:38:00",
+    "endStationName": "BASELINE ROAD",
+    "arrivalTimeEndStation": "17:23:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "9661"
+  }
+]

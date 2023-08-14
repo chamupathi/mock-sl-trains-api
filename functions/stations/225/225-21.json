@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "07:27:00",
+    "depatureTime": "07:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "10:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "PUNANI",
+    "arrivalTime": "12:31:00",
+    "depatureTime": "12:32:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "AUKANA",
+    "arrivalTimeEndStation": "17:08:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "500.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "260.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

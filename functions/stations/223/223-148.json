@@ -1,0 +1,520 @@
+[
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "06:32:00",
+    "depatureTime": "06:33:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "07:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "07:29:00",
+    "depatureTime": "07:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "07:53:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "09:12:00",
+    "depatureTime": "09:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MATARA",
+    "arrivalTimeFinalStation": "12:00:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "09:33:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8040"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "09:34:00",
+    "depatureTime": "09:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "10:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "10:23:00",
+    "depatureTime": "10:24:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "10:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "10:45:00",
+    "depatureTime": "10:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "11:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "11:05:00",
+    "depatureTime": "11:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "11:27:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "12:06:00",
+    "depatureTime": "12:07:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "12:33:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "14:56:00",
+    "depatureTime": "14:57:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "15:21:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "15:13:00",
+    "depatureTime": "15:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "15:29:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "16:53:00",
+    "depatureTime": "16:55:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:15:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "17:15:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8765"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "17:12:00",
+    "depatureTime": "17:13:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "17:21:00",
+    "depatureTime": "17:22:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "17:42:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "17:34:00",
+    "depatureTime": "17:35:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "18:03:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "17:39:00",
+    "depatureTime": "17:40:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "HIKKADUWA",
+    "arrivalTimeFinalStation": "19:04:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "17:56:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8062"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "17:51:00",
+    "depatureTime": "17:52:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "New Train",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:10:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "18:10:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8767"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "18:13:00",
+    "depatureTime": "18:14:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "18:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "18:30:00",
+    "depatureTime": "18:31:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "18:55:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "18:58:00",
+    "depatureTime": "18:59:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8766"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "19:12:00",
+    "depatureTime": "19:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "19:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "19:38:00",
+    "depatureTime": "19:40:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "20:08:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "20:03:00",
+    "depatureTime": "20:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "8777",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "20:25:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "20:25:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8777"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "20:09:00",
+    "depatureTime": "20:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "20:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8775"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "20:55:00",
+    "depatureTime": "20:56:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "21:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "21:30:00",
+    "depatureTime": "21:31:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "21:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "PANADURA",
+    "arrivalTime": "22:25:00",
+    "depatureTime": "22:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "KALUTARA SOUTH",
+    "arrivalTimeEndStation": "22:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

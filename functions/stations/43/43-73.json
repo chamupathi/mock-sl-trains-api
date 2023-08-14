@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "CHINA BEY",
+    "arrivalTime": "19:10:00",
+    "depatureTime": "19:12:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "GANEWATTE",
+    "arrivalTimeEndStation": "00:41:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "650.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "320.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

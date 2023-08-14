@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "17:47:00",
+    "depatureTime": "17:48:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "18:16:00",
+    "depatureTime": "18:17:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "18:53:00",
+    "depatureTime": "18:54:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "PANAGODA",
+    "arrivalTime": "21:21:00",
+    "depatureTime": "21:22:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "22:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

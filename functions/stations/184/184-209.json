@@ -1,0 +1,42 @@
+[
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "10:12:00",
+    "depatureTime": "10:13:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "15:10:00",
+    "endStationName": "PATAGAMGODA",
+    "arrivalTimeEndStation": "13:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8788"
+  },
+  {
+    "startStationName": "MORATUWA",
+    "arrivalTime": "19:56:00",
+    "depatureTime": "19:58:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "22:58:00",
+    "endStationName": "PATAGAMGODA",
+    "arrivalTimeEndStation": "21:52:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "8775"
+  }
+]

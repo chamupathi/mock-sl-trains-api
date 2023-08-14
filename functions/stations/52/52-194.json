@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "DEWAPURAM",
+    "arrivalTime": "11:37:00",
+    "depatureTime": "11:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "NEGAMA",
+    "arrivalTimeEndStation": "17:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "600.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "300.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

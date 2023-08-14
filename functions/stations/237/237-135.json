@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "PALUGASWEWA",
+    "arrivalTime": "09:50:00",
+    "depatureTime": "09:51:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "11:16:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "PALUGASWEWA",
+    "arrivalTime": "16:19:00",
+    "depatureTime": "16:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "18:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "PALUGASWEWA",
+    "arrivalTime": "21:42:00",
+    "depatureTime": "21:43:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "KONWEWA",
+    "arrivalTimeEndStation": "23:06:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "300.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "140.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

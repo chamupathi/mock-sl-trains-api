@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VALACHCHENEI",
+    "arrivalTime": "07:03:00",
+    "depatureTime": "07:04:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "MIRIGAMA",
+    "arrivalTimeEndStation": "14:05:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "850.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "440.00"
+      }
+    ],
+    "trainNo": "6012"
+  }
+]

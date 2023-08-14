@@ -1,0 +1,160 @@
+[
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "07:40:00",
+    "depatureTime": "07:41:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "NewTrain",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "08:05:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "07:48:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8715"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "10:55:00",
+    "depatureTime": "10:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "11:21:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "11:03:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8050"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "14:10:00",
+    "depatureTime": "14:11:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Rajarata Rejini",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "14:35:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "14:18:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8086"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "18:05:00",
+    "depatureTime": "18:06:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "18:13:00",
+    "classList": [
+      {
+        "className": "1st Class",
+        "price": "40.00"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8056"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "18:17:00",
+    "depatureTime": "18:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "18:42:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "18:25:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8750"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "19:50:00",
+    "depatureTime": "19:51:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "SAGARIKA",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "20:11:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "19:57:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8096"
+  },
+  {
+    "startStationName": "KEKANADURA",
+    "arrivalTime": "22:05:00",
+    "depatureTime": "22:06:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "BELIATHTHA",
+    "arrivalTimeFinalStation": "22:30:00",
+    "endStationName": "BAMBARENDA",
+    "arrivalTimeEndStation": "22:13:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8766"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "06:22:00",
+    "depatureTime": "06:29:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "08:25:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "06:53:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3404"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "07:54:00",
+    "depatureTime": "07:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "08:28:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "08:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3409"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "10:35:00",
+    "depatureTime": "10:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "12:38:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "11:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3411"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "11:37:00",
+    "depatureTime": "11:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "12:11:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "12:02:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3412"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "14:07:00",
+    "depatureTime": "14:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "NOORANAGAR",
+    "arrivalTimeFinalStation": "16:02:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "14:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3417"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "16:26:00",
+    "depatureTime": "16:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "17:00:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "16:51:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3420"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "19:10:00",
+    "depatureTime": "19:11:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PUTTALAM",
+    "arrivalTimeFinalStation": "21:05:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3425"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "20:13:00",
+    "depatureTime": "20:14:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "20:48:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "20:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3427"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "21:07:00",
+    "depatureTime": "21:08:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "21:41:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "21:32:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3428"
+  },
+  {
+    "startStationName": "NATTANDIYA",
+    "arrivalTime": "22:22:00",
+    "depatureTime": "22:23:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "CHILAW",
+    "arrivalTimeFinalStation": "22:56:00",
+    "endStationName": "KAKKAPALLIYA",
+    "arrivalTimeEndStation": "22:47:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "40.00"
+      }
+    ],
+    "trainNo": "3432"
+  }
+]

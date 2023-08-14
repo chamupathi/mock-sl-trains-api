@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "KADIGAMUWA",
+    "arrivalTime": "14:34:00",
+    "depatureTime": "14:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "1023"
+  }
+]

@@ -1,0 +1,125 @@
+[
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "06:47:00",
+    "depatureTime": "06:48:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Galu Kumari",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "09:47:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "06:52:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8057"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "07:38:00",
+    "depatureTime": "07:39:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "08:11:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "07:42:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8338"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "11:00:00",
+    "depatureTime": "11:01:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "11:43:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "11:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8340"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "14:40:00",
+    "depatureTime": "14:41:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MARADANA",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "14:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8051"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "17:46:00",
+    "depatureTime": "17:47:00",
+    "trainFrequncy": "MONDAY TO FRIDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "18:18:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "17:50:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8368"
+  },
+  {
+    "startStationName": "AHANGAMA",
+    "arrivalTime": "18:42:00",
+    "depatureTime": "18:43:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "19:21:00",
+    "endStationName": "KATHALUWA",
+    "arrivalTimeEndStation": "18:46:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "8345"
+  }
+]

@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "HABARANA",
+    "arrivalTime": "16:07:00",
+    "depatureTime": "16:08:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "IHALAGAMA",
+    "arrivalTimeEndStation": "16:49:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6891"
+  }
+]

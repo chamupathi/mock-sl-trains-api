@@ -1,0 +1,168 @@
+[
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "03:45:00",
+    "depatureTime": "03:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "BADULLA",
+    "arrivalTimeFinalStation": "14:28:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "03:56:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1126"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "06:37:00",
+    "depatureTime": "06:38:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1121",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "07:47:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "06:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1121"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "10:29:00",
+    "depatureTime": "10:30:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "11:31:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "10:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1142"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "14:19:00",
+    "depatureTime": "14:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "15:26:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "14:27:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1153"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "17:30:00",
+    "depatureTime": "17:31:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "NANUOYA",
+    "arrivalTimeFinalStation": "21:19:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "17:38:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1023"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "19:18:00",
+    "depatureTime": "19:19:00",
+    "trainFrequncy": "Weekdays",
+    "trainName": "2185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:24:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "19:36:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "2185"
+  },
+  {
+    "startStationName": "SARASAVIUYANA",
+    "arrivalTime": "19:19:00",
+    "depatureTime": "19:20:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1185",
+    "finalStationName": "NAWALAPITIYA",
+    "arrivalTimeFinalStation": "20:32:00",
+    "endStationName": "KOSHINNA",
+    "arrivalTimeEndStation": "19:37:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1185"
+  }
+]

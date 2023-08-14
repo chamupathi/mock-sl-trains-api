@@ -1,0 +1,68 @@
+[
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "09:15:00",
+    "depatureTime": "09:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udaya Devi",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:15:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "09:40:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6012"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "15:14:00",
+    "depatureTime": "15:45:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "MAHO",
+    "arrivalTimeFinalStation": "18:28:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "16:07:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "6891"
+  },
+  {
+    "startStationName": "GALOYA JUNCTION",
+    "arrivalTime": "20:50:00",
+    "depatureTime": "21:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Night Mail",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "03:30:00",
+    "endStationName": "HABARANA",
+    "arrivalTimeEndStation": "21:30:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "100.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "60.00"
+      }
+    ],
+    "trainNo": "7084"
+  }
+]

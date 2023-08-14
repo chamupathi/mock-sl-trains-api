@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "VEYANGODA",
+    "arrivalTime": "06:51:00",
+    "depatureTime": "06:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "UDAYA DEVI",
+    "finalStationName": "BATTICALOA",
+    "arrivalTimeFinalStation": "14:45:00",
+    "endStationName": "MANAMPITIYA",
+    "arrivalTimeEndStation": "12:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "800.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "400.00"
+      }
+    ],
+    "trainNo": "6011"
+  }
+]

@@ -1,0 +1,280 @@
+[
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "04:45:00",
+    "depatureTime": "04:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "WADDUWA",
+    "arrivalTimeFinalStation": "05:35:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "05:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8710"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "05:53:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "NOT ON SATURDAYS & SUNDAYS ( TRAIN WILL BE CANCELED ON  24-10-2022",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "07:05:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "06:37:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8716"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "08:55:00",
+    "depatureTime": "08:56:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "10:01:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "09:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8736"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "09:51:00",
+    "depatureTime": "09:52:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "11:17:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "10:54:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8741"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "11:25:00",
+    "depatureTime": "11:26:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "13:07:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "12:11:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8742"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "14:16:00",
+    "depatureTime": "14:17:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "16:01:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "15:01:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8751"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "16:32:00",
+    "depatureTime": "16:33:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "17:39:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "17:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8761"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "17:02:00",
+    "depatureTime": "17:03:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "18:34:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "17:39:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8758"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "17:27:00",
+    "depatureTime": "17:28:00",
+    "trainFrequncy": "NSU",
+    "trainName": "",
+    "finalStationName": "KALUTARA SOUTH",
+    "arrivalTimeFinalStation": "18:37:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "18:18:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8759"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:03:00",
+    "depatureTime": "18:04:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "GALLE",
+    "arrivalTimeFinalStation": "20:27:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "18:35:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8764"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:32:00",
+    "depatureTime": "18:33:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:12:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "19:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8773"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "18:48:00",
+    "depatureTime": "18:49:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "20:45:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "19:45:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8774"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "20:15:00",
+    "depatureTime": "20:16:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "21:55:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "21:00:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8780"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "20:50:00",
+    "depatureTime": "20:51:00",
+    "trainFrequncy": "NOT ON  SATURDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "PAYAGALA SOUTH",
+    "arrivalTimeFinalStation": "22:10:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "21:35:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "150.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8782"
+  },
+  {
+    "startStationName": "BAMBALAPITIYA",
+    "arrivalTime": "21:45:00",
+    "depatureTime": "21:46:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "ALUTHGAMA",
+    "arrivalTimeFinalStation": "23:25:00",
+    "endStationName": "PINWATTE",
+    "arrivalTimeEndStation": "22:30:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "80.00"
+      }
+    ],
+    "trainNo": "8783"
+  }
+]

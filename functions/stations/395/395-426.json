@@ -1,0 +1,46 @@
+[
+  {
+    "startStationName": "ELIPHANT PASS",
+    "arrivalTime": "10:13:00",
+    "depatureTime": "10:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4441",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "11:55:00",
+    "endStationName": "TELLIPALLAI",
+    "arrivalTimeEndStation": "11:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4441"
+  },
+  {
+    "startStationName": "ELIPHANT PASS",
+    "arrivalTime": "17:13:00",
+    "depatureTime": "17:14:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "YAL RANI",
+    "finalStationName": "KANKESANTHURAI",
+    "arrivalTimeFinalStation": "19:00:00",
+    "endStationName": "TELLIPALLAI",
+    "arrivalTimeEndStation": "18:50:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "160.00"
+      }
+    ],
+    "trainNo": "4443"
+  }
+]

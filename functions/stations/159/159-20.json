@@ -1,0 +1,78 @@
+[
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "17:14:00",
+    "depatureTime": "17:15:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:13:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:13:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "9262"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "17:39:00",
+    "depatureTime": "17:41:00",
+    "trainFrequncy": "MONDAY TO FRIDAY & SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "19:38:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "19:38:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "9263"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "18:19:00",
+    "depatureTime": "18:21:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "20:19:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "20:19:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "9264"
+  },
+  {
+    "startStationName": "MAHARAGAMA",
+    "arrivalTime": "20:48:00",
+    "depatureTime": "20:49:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "AVISSAWELLA",
+    "arrivalTimeFinalStation": "22:44:00",
+    "endStationName": "AVISSAWELLA",
+    "arrivalTimeEndStation": "22:44:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "120.00"
+      }
+    ],
+    "trainNo": "9271"
+  }
+]

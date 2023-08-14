@@ -1,0 +1,212 @@
+[
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "00:18:00",
+    "depatureTime": "00:19:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "01:21:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "01:06:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1194"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "05:53:00",
+    "depatureTime": "05:54:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "07:07:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "06:52:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1125"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "08:26:00",
+    "depatureTime": "08:27:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "09:30:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "09:17:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1135"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "09:24:00",
+    "depatureTime": "09:25:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "10:35:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "10:20:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1136"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "10:17:00",
+    "depatureTime": "10:18:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "11:30:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "11:16:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1141"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "11:34:00",
+    "depatureTime": "11:35:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "12:37:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "12:22:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1143"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "12:41:00",
+    "depatureTime": "12:42:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1144",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "13:44:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "13:29:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1144"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "14:49:00",
+    "depatureTime": "14:50:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "1151",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "15:59:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "15:46:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1151"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "18:26:00",
+    "depatureTime": "18:27:00",
+    "trainFrequncy": "MONDAY TO THURSDAY (NO HOLIDAYS)",
+    "trainName": "1168",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "19:26:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "19:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1168"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "19:41:00",
+    "depatureTime": "19:42:00",
+    "trainFrequncy": "NOT ON SUNDAY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "20:49:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "20:34:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "200.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1183"
+  },
+  {
+    "startStationName": "PALLEWALA",
+    "arrivalTime": "21:09:00",
+    "depatureTime": "21:10:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "RAMBUKKANA",
+    "arrivalTimeFinalStation": "22:19:00",
+    "endStationName": "PANALEEYA",
+    "arrivalTimeEndStation": "22:04:00",
+    "classList": [
+      {
+        "className": "3rd Class",
+        "price": "100.00"
+      }
+    ],
+    "trainNo": "1191"
+  }
+]

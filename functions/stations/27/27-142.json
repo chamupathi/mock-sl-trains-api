@@ -1,0 +1,24 @@
+[
+  {
+    "startStationName": "BULUGAHAGODA",
+    "arrivalTime": "09:36:00",
+    "depatureTime": "09:37:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "4141",
+    "finalStationName": "KURUNEGALA",
+    "arrivalTimeFinalStation": "11:44:00",
+    "endStationName": "KURUNEGALA",
+    "arrivalTimeEndStation": "11:44:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "350.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "180.00"
+      }
+    ],
+    "trainNo": "4141"
+  }
+]

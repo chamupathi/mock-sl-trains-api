@@ -1,0 +1,121 @@
+[
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "06:00:00",
+    "depatureTime": "06:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "14:05:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "06:09:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1024"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "09:08:00",
+    "depatureTime": "09:15:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Udarata Menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "15:47:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "09:23:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1016"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "11:48:00",
+    "depatureTime": "12:00:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "Podi menike",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "18:57:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "12:08:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1006"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "13:51:00",
+    "depatureTime": "13:55:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "",
+    "finalStationName": "COLOMBO FORT",
+    "arrivalTimeFinalStation": "20:16:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "14:04:00",
+    "classList": [
+      {
+        "className": "1st Class"
+      },
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1008"
+  },
+  {
+    "startStationName": "NANUOYA",
+    "arrivalTime": "15:40:00",
+    "depatureTime": "16:05:00",
+    "trainFrequncy": "DAILY",
+    "trainName": "1596",
+    "finalStationName": "KANDY",
+    "arrivalTimeFinalStation": "20:37:00",
+    "endStationName": "RADELLA",
+    "arrivalTimeEndStation": "16:14:00",
+    "classList": [
+      {
+        "className": "2nd Class",
+        "price": "50.00"
+      },
+      {
+        "className": "3rd Class",
+        "price": "20.00"
+      }
+    ],
+    "trainNo": "1596"
+  }
+]
